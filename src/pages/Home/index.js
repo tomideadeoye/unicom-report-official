@@ -5,6 +5,7 @@ import Card from "@mui/material/Card";
 
 // Material Kit 2 React components
 import MKBox from "components/MKBox";
+import MKBadge from "components/MKBadge";
 import MKTypography from "components/MKTypography";
 // import MKSocialButton from "components/MKSocialButton";
 
@@ -144,9 +145,36 @@ function Home() {
         {/* <Faqs /> */}
         {/* <DesignBlocks /> */}
         {/* <Pages /> */}
-        {/* <Container
-          sx={{ mt: 6, bgcolor: "background.paper", boxShadow: 0.3, borderRadius: 2 }}
-        ></Container> */}
+        <Container>
+          <Grid
+            container
+            item
+            xs={12}
+            lg={6}
+            flexDirection="column"
+            alignItems="center"
+            sx={{ textAlign: "center", my: 6, mx: "auto", px: 0.75 }}
+          >
+            <MKBadge
+              variant="contained"
+              color="info"
+              badgeContent="Excel Files"
+              container
+              sx={{ mb: 2 }}
+            />
+            <MKTypography variant="h2" fontWeight="bold">
+              Download Raw Files Here
+            </MKTypography>
+          </Grid>
+        </Container>
+        <Container sx={{ mt: 6, bgcolor: "background.paper", boxShadow: 0.3, borderRadius: 2 }}>
+          <iframe
+            title="Raw Files"
+            width="100%"
+            height="700"
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkpeRaUbnrSBn1XMfI5shOInZRTeRU_6SHjTrL08FeKUiMWo2NgLZlqAxN9ggooQ/pubhtml?widget=true&amp;headers=false"
+          />
+        </Container>
         {/* <Container>
           <Grid container spacing={3}>
             <Grid item xs={12} lg={4}>
