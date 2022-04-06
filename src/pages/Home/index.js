@@ -3,6 +3,11 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Card from "@mui/material/Card";
 import MKButton from "components/MKButton";
+import Accordion from "@mui/material/Accordion";
+import AccordionSummary from "@mui/material/AccordionSummary";
+import AccordionDetails from "@mui/material/AccordionDetails";
+import Typography from "@mui/material/Typography";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 // Material Kit 2 React components
 import MKBox from "components/MKBox";
@@ -10,7 +15,7 @@ import MKBadge from "components/MKBadge";
 import MKTypography from "components/MKTypography";
 // import MKSocialButton from "components/MKSocialButton";
 
-import { DefaultFooter } from "pages/Footer";
+// import { DefaultFooter } from "pages/Footer";
 // import FilledInfoCard from "examples/Cards/InfoCards/FilledInfoCard";
 
 // Presentation page sections
@@ -25,7 +30,7 @@ import { DefaultFooter } from "pages/Footer";
 import BuiltByDevelopers from "pages/Home/components/BuiltByDevelopers";
 
 // import routes from "routes";
-import { footerRoutes } from "routes";
+// import { footerRoutes } from "routes";
 
 // Images
 import bgImage from "assets/images/bg-presentation.jpg";
@@ -126,7 +131,6 @@ function Home() {
           boxShadow: ({ boxShadows: { xxl } }) => xxl,
         }}
       >
-        {" "}
         <Container sx={{ mt: 6 }}>
           <BuiltByDevelopers />
         </Container>
@@ -138,10 +142,26 @@ function Home() {
           ))}
         </Container> */}
         {legalTables.map((item) => (
+          <Container key={item.tableName} sx={{ m: 2 }}>
+            <Accordion>
+              <AccordionSummary
+                expandIcon={<ExpandMoreIcon />}
+                aria-controls="panel1a-content"
+                id="panel1a-header"
+              >
+                <Typography sx={{ ml: 4 }}>{item.tableName}</Typography>
+              </AccordionSummary>
+              <AccordionDetails>
+                <Table1 data={item.tableData} title={item.tableName} />
+              </AccordionDetails>
+            </Accordion>
+          </Container>
+        ))}
+        {/* {legalTables.map((item) => (
           <Container sx={{ mb: 6 }}>
             <Table1 key={item.tableName} data={item.tableData} title={item.tableName} />
           </Container>
-        ))}
+        ))} */}
         {/* <Information /> */}
         {/* <Faqs /> */}
         {/* <DesignBlocks /> */}
@@ -285,9 +305,9 @@ function Home() {
           </Container>
         </MKBox> */}
       </Card>
-      <MKBox pt={6} px={1} mt={6}>
+      {/* <MKBox pt={6} px={1} mt={6}>
         <DefaultFooter content={footerRoutes} />
-      </MKBox>
+      </MKBox> */}
     </>
   );
 }
