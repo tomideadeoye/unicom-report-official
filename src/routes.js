@@ -160,14 +160,6 @@ const footerRoutes = {
       ],
     },
     {
-      name: "account",
-      items: [
-        { name: "Sign In", route: routeLoc.SIGN_IN },
-        { name: "Sign Up", route: routeLoc.SIGN_UP },
-        { name: "Sign Out", route: routeLoc.SIGN_OUT },
-      ],
-    },
-    {
       name: "help & support",
       items: [
         { name: "contact us", route: routeLoc.HOME },
