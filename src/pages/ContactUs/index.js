@@ -25,7 +25,7 @@ function ContactUs() {
           action={{
             type: "external",
             route: routeLoc.DASHBOARD,
-            label: "Dasboard",
+            label: "download Excel",
             color: "info",
           }}
         />

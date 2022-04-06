@@ -177,7 +177,7 @@ const footerRoutes = {
   ],
   copyright: (
     <MKTypography variant="button" fontWeight="regular">
-      Copyright &copy; {date} VerifyPro .
+      Copyright &copy; {date} JEE .
     </MKTypography>
   ),
 };
