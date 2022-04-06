@@ -37,6 +37,7 @@ import {
   itComplaince,
   marketing,
   legalRegulatory,
+  humanResources,
 } from "./sections/data";
 
 function Home() {
@@ -48,6 +49,10 @@ function Home() {
     {
       tableName: "Customer Development",
       tableData: customerDevelopment,
+    },
+    {
+      tableName: "Human Resources",
+      tableData: humanResources,
     },
     {
       tableName: "IT Compliance",
