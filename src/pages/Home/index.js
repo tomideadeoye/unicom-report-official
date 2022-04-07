@@ -1,21 +1,13 @@
-// @mui material components
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Card from "@mui/material/Card";
 import MKButton from "components/MKButton";
-import Accordion from "@mui/material/Accordion";
-import AccordionSummary from "@mui/material/AccordionSummary";
-import AccordionDetails from "@mui/material/AccordionDetails";
-import Typography from "@mui/material/Typography";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-
-// Material Kit 2 React components
 import MKBox from "components/MKBox";
 import MKBadge from "components/MKBadge";
 import MKTypography from "components/MKTypography";
 // import MKSocialButton from "components/MKSocialButton";
 
-// import { DefaultFooter } from "pages/Footer";
+import { DefaultFooter } from "pages/Footer";
 // import FilledInfoCard from "examples/Cards/InfoCards/FilledInfoCard";
 
 // Presentation page sections
@@ -29,14 +21,11 @@ import MKTypography from "components/MKTypography";
 // Home page components
 import BuiltByDevelopers from "pages/Home/components/BuiltByDevelopers";
 
-// import routes from "routes";
-// import { footerRoutes } from "routes";
-
-// Images
+import { footerRoutes } from "routes";
 import bgImage from "assets/images/bg-presentation.jpg";
 import NavbarDark from "components/CustomComponents/NavbarDark";
-import Table1 from "./sections/Table1";
-// import MaterialTab from "./sections/material-tab";
+// import Table1 from "./sections/Table1";
+import MaterialTab from "./sections/material-tab";
 import {
   customerDevelopment,
   supplyChain,
@@ -134,14 +123,12 @@ function Home() {
         <Container sx={{ mt: 6 }}>
           <BuiltByDevelopers />
         </Container>
-        {/* <Container sx={{ mb: 6 }}>
-          {legalTables.map((item) => (
-            <Container sx={{ mb: 6 }}>
-              <MaterialTab key={item.tableName} data={item.tableData} title={item.tableName} />
-            </Container>
-          ))}
-        </Container> */}
+
         {legalTables.map((item) => (
+          <MaterialTab data={item.tableData} title={item.tableName} />
+        ))}
+
+        {/* {legalTables.map((item) => (
           <Container key={item.tableName} sx={{ m: 2 }}>
             <Accordion>
               <AccordionSummary
@@ -156,12 +143,8 @@ function Home() {
               </AccordionDetails>
             </Accordion>
           </Container>
-        ))}
-        {/* {legalTables.map((item) => (
-          <Container sx={{ mb: 6 }}>
-            <Table1 key={item.tableName} data={item.tableData} title={item.tableName} />
-          </Container>
         ))} */}
+
         {/* <Information /> */}
         {/* <Faqs /> */}
         {/* <DesignBlocks /> */}
@@ -305,9 +288,9 @@ function Home() {
           </Container>
         </MKBox> */}
       </Card>
-      {/* <MKBox pt={6} px={1} mt={6}>
+      <MKBox pt={6} px={1} mt={6}>
         <DefaultFooter content={footerRoutes} />
-      </MKBox> */}
+      </MKBox>
     </>
   );
 }
