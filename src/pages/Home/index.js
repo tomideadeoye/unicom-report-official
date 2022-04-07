@@ -7,7 +7,7 @@ import MKBadge from "components/MKBadge";
 import MKTypography from "components/MKTypography";
 // import MKSocialButton from "components/MKSocialButton";
 
-import { DefaultFooter } from "pages/Footer";
+import { SimpleFooter } from "pages/Footer";
 // import FilledInfoCard from "examples/Cards/InfoCards/FilledInfoCard";
 
 // Presentation page sections
@@ -289,7 +289,7 @@ function Home() {
         </MKBox> */}
       </Card>
       <MKBox pt={6} px={1} mt={6}>
-        <DefaultFooter content={footerRoutes} />
+        <SimpleFooter content={footerRoutes} />
       </MKBox>
     </>
   );

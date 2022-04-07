@@ -14,11 +14,11 @@ export default function MaterialTab({ title, data }) {
     {
       title: "Legislation",
       field: "Legislation Name ",
-      cellStyle: { backgroundColor: "#039be5", color: "#FFF", marginTop: 90 },
+      cellStyle: { backgroundColor: "#039be5", color: "#FFF" },
       defaultGroupOrder: 0,
     },
-    { title: "Act No", field: "Act No", width: 100 },
-    { title: "Regulator", field: "Regulator", width: 100 },
+    { title: "Act No", field: "Act No" },
+    { title: "Regulator", field: "Regulator" },
     { title: "Compliance Name", field: "Compliance Name" },
     { title: "Penalty", field: "Penalty" },
     { title: "Section", field: "Section" },
@@ -52,6 +52,7 @@ export default function MaterialTab({ title, data }) {
                 tooltip: "Open Law URL",
                 render: (rowData) => (
                   <iframe
+                    style={{ border: "3px solid blue" }}
                     title={rowData["Act URL"]}
                     src={rowData["Act URL"]}
                     height="400px"
