@@ -6,6 +6,11 @@ import MKBox from "components/MKBox";
 import MKBadge from "components/MKBadge";
 import MKTypography from "components/MKTypography";
 // import MKSocialButton from "components/MKSocialButton";
+import Accordion from "@mui/material/Accordion";
+import AccordionSummary from "@mui/material/AccordionSummary";
+import AccordionDetails from "@mui/material/AccordionDetails";
+import Typography from "@mui/material/Typography";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 import { SimpleFooter } from "pages/Footer";
 // import FilledInfoCard from "examples/Cards/InfoCards/FilledInfoCard";
@@ -149,6 +154,8 @@ function Home() {
         {/* <Faqs /> */}
         {/* <DesignBlocks /> */}
         {/* <Pages /> */}
+
+        {/* EXCEL TITLE */}
         <Container>
           <Grid
             container
@@ -171,14 +178,32 @@ function Home() {
             </MKTypography>
           </Grid>
         </Container>
-        <Container sx={{ mt: 6, bgcolor: "background.paper", boxShadow: 0.3, borderRadius: 2 }}>
-          <iframe
-            title="Raw Files"
-            width="100%"
-            height="700"
-            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkpeRaUbnrSBn1XMfI5shOInZRTeRU_6SHjTrL08FeKUiMWo2NgLZlqAxN9ggooQ/pubhtml?widget=true&amp;headers=false"
-          />
+
+        <Container sx={{ m: 1 }}>
+          <Accordion>
+            <AccordionSummary
+              expandIcon={<ExpandMoreIcon />}
+              aria-controls="panel1a-content"
+              id="panel1a-header"
+            >
+              <Typography sx={{ ml: 4 }}>Compendium of Laws</Typography>
+            </AccordionSummary>
+            <AccordionDetails>
+              <Container
+                sx={{ mt: 6, bgcolor: "background.paper", boxShadow: 0.3, borderRadius: 2 }}
+              >
+                <iframe
+                  title="Raw Files"
+                  width="100%"
+                  height="700"
+                  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkpeRaUbnrSBn1XMfI5shOInZRTeRU_6SHjTrL08FeKUiMWo2NgLZlqAxN9ggooQ/pubhtml?widget=true&amp;headers=false"
+                />
+              </Container>
+            </AccordionDetails>
+          </Accordion>
         </Container>
+
+        {/* DOWNLAOD BUTTON */}
         <Grid container item justifyContent="center" xs={12} mt={5} mb={2}>
           <MKButton
             href="https://docs.google.com/spreadsheets/d/1X_oPC8_oaiQ-eLgWvGir8QkMvWZukYLS/edit?usp=sharing&ouid=109599550030499733240&rtpof=true&sd=true"
