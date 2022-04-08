@@ -1,35 +1,93 @@
 /* eslint react/prop-types: 0 */
 import MaterialTable from "material-table";
-import React from "react";
-// import { marketing } from "./data";
 import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import Container from "@mui/material/Container";
+import useCheckMobileScreen from "./useCheckMobileScreen";
 
 export default function MaterialTab({ title, data }) {
   const columns = [
     {
       title: "Legislation",
       field: "Legislation Name ",
+
       cellStyle: { backgroundColor: "#039be5", color: "#FFF" },
       defaultGroupOrder: 0,
     },
-    { title: "Act No", field: "Act No" },
-    { title: "Regulator", field: "Regulator" },
-    { title: "Compliance Name", field: "Compliance Name" },
-    { title: "Penalty", field: "Penalty" },
-    { title: "Section", field: "Section" },
-    { title: "Task Frequency", field: "Task Frequency" },
-    { title: "Significant Judicial Intervention", field: "Significant Judicial Intervention" },
-    { title: "Criticality", field: "Criticality" },
-    // { title: "YES", field: "YES" },
-    // { title: "NDD", field: "NDD" },
-    // { title: "NO", field: "NO" },
-    { title: "Act URL", field: "Act URL" },
+    {
+      title: "Act No",
+      field: "Act No",
+    },
+    {
+      title: "Regulator",
+      field: "Regulator",
+    },
+    {
+      title: "Compliance Name",
+      field: "Compliance Name",
+    },
+    {
+      title: "Penalty",
+      field: "Penalty",
+    },
+    {
+      title: "Section",
+      field: "Section",
+    },
+    {
+      title: "Task Frequency",
+      field: "Task Frequency",
+    },
+    {
+      title: "Significant Judicial Intervention",
+      field: "Significant Judicial Intervention",
+    },
+    {
+      title: "Criticality",
+      field: "Criticality",
+    },
+    // { title: "YES", field: "YES" ,
+    // cellStyle: {
+    //   cellWidth: "11%",
+    // },},
+    // { title: "NDD", field: "NDD" ,
+    // cellStyle: {
+    //   cellWidth: "11%",
+    // },},
+    // { title: "NO", field: "NO" ,
+    // cellStyle: {
+    // cellWidth: "11%",
+    // },},
+    {
+      title: "Act URL",
+      field: "Act URL",
+    },
   ];
+  const options = {
+    tableLayout: useCheckMobileScreen(),
+    detailPanelColumnAlignment: "left",
+    filtering: true,
+    columnsButton: true,
+    paging: false,
+    grouping: true,
+    exportButton: true,
+    header: true,
+    headerStyle: {
+      backgroundColor: "#039be5",
+      fontSize: 13,
+      color: "#FFF",
+    },
+    rowStyle: {
+      margin: 0,
+      padding: 0,
+      fontSize: 11,
+      color: "black",
+      align: "justify",
+    },
+  };
 
   return (
     <Container sx={{ m: 1 }}>
@@ -61,30 +119,7 @@ export default function MaterialTab({ title, data }) {
                 ),
               },
             ]}
-            options={{
-              tableLayout: "fixed",
-              filtering: true,
-              columnsButton: true,
-              paging: false,
-              grouping: true,
-              exportButton: true,
-              header: true,
-              headerStyle: {
-                backgroundColor: "#039be5",
-                fontSize: 13,
-                color: "#FFF",
-                width: "100%",
-
-                // margin: 0,
-              },
-              rowStyle: {
-                margin: 0,
-                padding: 0,
-                fontSize: 11,
-                color: "black",
-                align: "justify",
-              },
-            }}
+            options={options}
           />
         </AccordionDetails>
       </Accordion>
