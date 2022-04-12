@@ -29,49 +29,8 @@ import BuiltByDevelopers from "pages/Home/components/BuiltByDevelopers";
 import { footerRoutes } from "routes";
 import bgImage from "assets/images/bg-presentation.jpg";
 import NavbarDark from "components/CustomComponents/NavbarDark";
-// import Table1 from "./sections/Table1";
-import MaterialTab from "./sections/material-tab";
-import {
-  customerDevelopment,
-  supplyChain,
-  corpoateAffairs,
-  itComplaince,
-  marketing,
-  legalRegulatory,
-  humanResources,
-} from "./sections/data";
 
 function Home() {
-  const legalTables = [
-    {
-      tableName: "Corporate Affairs",
-      tableData: corpoateAffairs,
-    },
-    {
-      tableName: "Customer Development",
-      tableData: customerDevelopment,
-    },
-    {
-      tableName: "Human Resources",
-      tableData: humanResources,
-    },
-    {
-      tableName: "IT Compliance",
-      tableData: itComplaince,
-    },
-    {
-      tableName: "Legal and Regulatory",
-      tableData: legalRegulatory,
-    },
-    {
-      tableName: "Marketing",
-      tableData: marketing,
-    },
-    {
-      tableName: "Supply Chain",
-      tableData: supplyChain,
-    },
-  ];
   return (
     <>
       <NavbarDark />
@@ -130,27 +89,6 @@ function Home() {
         <Container sx={{ mt: 6 }}>
           <BuiltByDevelopers />
         </Container>
-
-        {legalTables.map((item) => (
-          <MaterialTab data={item.tableData} title={item.tableName} />
-        ))}
-
-        {/* {legalTables.map((item) => (
-          <Container key={item.tableName} sx={{ m: 2 }}>
-            <Accordion>
-              <AccordionSummary
-                expandIcon={<ExpandMoreIcon />}
-                aria-controls="panel1a-content"
-                id="panel1a-header"
-              >
-                <Typography sx={{ ml: 4 }}>{item.tableName}</Typography>
-              </AccordionSummary>
-              <AccordionDetails>
-                <Table1 data={item.tableData} title={item.tableName} />
-              </AccordionDetails>
-            </Accordion>
-          </Container>
-        ))} */}
 
         {/* <Information /> */}
         {/* <Faqs /> */}

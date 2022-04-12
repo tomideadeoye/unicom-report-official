@@ -8,7 +8,7 @@ import MKBadge from "components/MKBadge";
 import MKTypography from "components/MKTypography";
 import BaseLayout from "layouts/sections/components/BaseLayout";
 import View from "layouts/sections/components/View";
-import { DefaultFooter } from "pages/Footer";
+import { SimpleFooter } from "pages/Footer";
 import { routeLoc, footerRoutes } from "routes";
 import NavbarDark from "components/CustomComponents/NavbarDark";
 import MaterialTab from "./sections/material-tab";
@@ -85,7 +85,7 @@ function Home({ type, title, data }) {
       </Card>
 
       <MKBox pt={6} px={1} mt={6}>
-        <DefaultFooter content={footerRoutes} />
+        <SimpleFooter content={footerRoutes} />
       </MKBox>
     </>
   );

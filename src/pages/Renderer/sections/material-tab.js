@@ -18,6 +18,7 @@ export default function MaterialTab({ data, type }) {
     {
       title: "Act URL",
       field: "Act URL",
+      cellStyle: { width: "3%", wordWrap: "breakWord" },
     },
 
     {
@@ -31,6 +32,7 @@ export default function MaterialTab({ data, type }) {
     {
       title: "Compliance Description",
       field: "Compliance Description",
+      // cellStyle: { width: "2%" },
     },
     {
       title: "Task Frequency",
@@ -115,6 +117,7 @@ export default function MaterialTab({ data, type }) {
   }
 
   const options = {
+    // tableLayout: "fixed",
     filtering: true,
     columnsButton: true,
     paging: false,
@@ -124,12 +127,7 @@ export default function MaterialTab({ data, type }) {
       backgroundColor: "#039be5",
       fontSize: 13,
       color: "#FFF",
-      // position: "absolute",
-      // top: 0,
-      // left: 0,
-      // height: "100%",
-      // width: "100%",
-      // justifyContent: "space-between",
+      width: "100%",
     },
     rowStyle: {
       fontSize: 11,

@@ -163,10 +163,8 @@ const footerRoutes = {
     {
       name: "company",
       items: [
+        { route: routeLoc.ABOUT_US, name: "Executive Summary" },
         { route: routeLoc.ABOUT_US, name: "About Us" },
-        { route: routeLoc.DEMO, name: "Demo" },
-        { route: routeLoc.DASHBOARD, name: "Dashboard" },
-        { route: routeLoc.BLOG, name: "Blog" },
       ],
     },
     {
