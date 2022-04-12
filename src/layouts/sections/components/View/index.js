@@ -61,7 +61,7 @@ function View({ tit2, tit1, mapDetails, children, code, title, height, ...rest }
                       className="fas fa-align-left"
                     />
                   }
-                  label={!tit1 ? "Raw Data" : tit1}
+                  label={!tit1 ? "Overview" : tit1}
                 />
                 <Tab
                   icon={

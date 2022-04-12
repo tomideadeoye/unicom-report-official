@@ -9,8 +9,7 @@ function NavbarDark() {
         routes={routes}
         action={{
           type: "external",
-          route:
-            "https://docs.google.com/spreadsheets/d/1X_oPC8_oaiQ-eLgWvGir8QkMvWZukYLS/edit?usp=sharing&ouid=109599550030499733240&rtpof=true&sd=true",
+          href: "https://docs.google.com/spreadsheets/d/1X_oPC8_oaiQ-eLgWvGir8QkMvWZukYLS/edit?usp=sharing&ouid=109599550030499733240&rtpof=true&sd=true",
           label: "Download Excel",
           color: "info",
         }}
