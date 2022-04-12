@@ -11,7 +11,6 @@ import MKBox from "components/MKBox";
 import MKTypography from "components/MKTypography";
 
 import Breadcrumbs from "examples/Breadcrumbs";
-import { CenteredFooter } from "pages/Footer";
 
 function BaseLayout({ breadcrumb, title, children }) {
   return (
@@ -27,9 +26,6 @@ function BaseLayout({ breadcrumb, title, children }) {
           {children}
         </Grid>
       </Container>
-      <MKBox mt="auto">
-        <CenteredFooter />
-      </MKBox>
     </MKBox>
   );
 }

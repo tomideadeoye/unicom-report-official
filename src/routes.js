@@ -1,24 +1,14 @@
-/** 
-  3. The `collapse` key is used for making a collapsible item on the Navbar that contains other routes
-  inside (nested routes), you need to pass the nested routes inside an array as a value for the `collapse` key.
-  4. The `route` key is used to store the route location which is used for the react router.
-  6. The `component` key is used to store the component of its route.
-  7. The `dropdown` key is used to define that the item should open a dropdown for its collapse items .
-  9. The `columns` key is used to define that how the content should look inside the dropdown menu as columns,
-          you can set the columns amount based on this key.
-  10. The `rowsPerColumn` key is used to define that how many rows should be in a column.
-*/
-
-// @mui material components
 import Icon from "@mui/material/Icon";
-
-// Pages
-// import AboutUs from "pages/AboutUs";
-// import ContactUs from "pages/ContactUs";
-// import SignIn from "pages/SignIn";
-// import SignUp from "pages/SignUp";
-// import SignOut from "pages/SignOut";
-// import Dashboard from "pages/Dashboard";
+import Renderer from "pages/Renderer";
+import {
+  customerDevelopment,
+  supplyChain,
+  corpoateAffairs,
+  itComplaince,
+  marketing,
+  legalRegulatory,
+  humanResources,
+} from "pages/Renderer/sections/data";
 
 // @mui icons
 import FacebookIcon from "@mui/icons-material/Facebook";
@@ -36,24 +26,16 @@ const date = new Date().getFullYear();
 
 const routeLoc = {
   HOME: "/",
-  Executive_Summary: "/Executive_Summary",
-  SIGN_UP: "/authentication/signup",
-  SIGN_IN: "/authentication/sign-in",
-  APPLICATION_FORM: "/ApplicationForm",
-  DEMO: "/demo",
-  BLOG: "/blog",
-  PRICING: "/pricing",
-  TEAM: "/team",
-  DASHBOARD: "/dashboard",
   ABOUT_US: "/company/about-us",
   CONTACT_US: "/company/contact-us",
-  SIGN_OUT: "/authentication/signout",
 };
 
 const routes = [
   {
     name: "Executive Summary",
     icon: <Icon>dashboard</Icon>,
+    component: <Renderer />,
+    route: routeLoc.RENDER,
   },
   {
     name: "Business Compliance Manual (BCM)",
@@ -61,32 +43,46 @@ const routes = [
     collapse: [
       {
         name: "Supply Chain",
-        route: routeLoc.RECORDS,
+        route: "/bcm/supply-chain",
+        component: <Renderer data={supplyChain} title="Supply Chain" type="BCM" />,
       },
       {
         name: "Human Resources",
-        route: routeLoc.ENVIRONMENT,
+        route: "/bcm/human-resources",
+        component: <Renderer data={humanResources} title="Human Resources" type="BCM" />,
       },
       {
         name: "Corporate Affairs",
-        route: routeLoc.ENVIRONMENT,
+        route: "/bcm/corpoate-affairs",
+        component: <Renderer data={corpoateAffairs} title="Corporate Affairs" type="BCM" />,
       },
       {
         name: "Legal & Regulatory",
-        route: routeLoc.ENVIRONMENT,
+        route: "/bcm/legal-regulatory",
+        component: <Renderer data={legalRegulatory} title="Legal & Regulatory" type="BCM" />,
       },
       {
         name: "Customer Development (Sales)",
-        route: routeLoc.ENVIRONMENT,
+        route: "/bcm/customer-development",
+        component: (
+          <Renderer data={customerDevelopment} title="Customer Development (Sales)" type="BCM" />
+        ),
       },
       {
         name: "Marketing",
-        route: routeLoc.ENVIRONMENT,
+        route: "/bcm/marketing",
+        component: <Renderer data={marketing} title="Marketing" type="BCM" />,
       },
       {
-        name: "Finance",
-        route: routeLoc.ENVIRONMENT,
+        name: "IT Compliance",
+        route: "/bcm/it-compliance",
+        component: <Renderer data={itComplaince} title="IT Compliance" type="BCM" />,
       },
+      // {
+      //   name: "Finance",
+      //   route: "/bcm/finance",
+      //   component: <Renderer data={finance} title="Finance" type="BCM" />,
+      // },
     ],
   },
   {
@@ -95,32 +91,46 @@ const routes = [
     collapse: [
       {
         name: "Supply Chain",
-        route: routeLoc.RECORDS,
+        route: "/sct/supply-chain",
+        component: <Renderer data={supplyChain} title="Supply Chain" type="SCT" />,
       },
       {
         name: "Human Resources",
-        route: routeLoc.ENVIRONMENT,
+        route: "/sct/human-resources",
+        component: <Renderer data={humanResources} title="Human Resources" type="SCT" />,
       },
       {
         name: "Corporate Affairs",
-        route: routeLoc.ENVIRONMENT,
+        route: "/sct/corpoate-affairs",
+        component: <Renderer data={corpoateAffairs} title="Corporate Affairs" type="SCT" />,
       },
       {
         name: "Legal & Regulatory",
-        route: routeLoc.ENVIRONMENT,
+        route: "/sct/legal-regulatory",
+        component: <Renderer data={legalRegulatory} title="Legal & Regulatory" type="SCT" />,
       },
       {
         name: "Customer Development (Sales)",
-        route: routeLoc.ENVIRONMENT,
+        route: "/sct/customer-development",
+        component: (
+          <Renderer data={customerDevelopment} title="Customer Development (Sales)" type="SCT" />
+        ),
       },
       {
         name: "Marketing",
-        route: routeLoc.ENVIRONMENT,
+        route: "/sct/marketing",
+        component: <Renderer data={marketing} title="Marketing" type="SCT" />,
       },
       {
-        name: "Finance",
-        route: routeLoc.ENVIRONMENT,
+        name: "IT Compliance",
+        route: "/sct/it-compliance",
+        component: <Renderer data={itComplaince} title="IT Compliance" type="SCT" />,
       },
+      // {
+      //   name: "Finance",
+      //   route: "/sct/finance",
+      //   component: <Renderer data={finance} title="Finance" type="SCT" />,
+      // },
     ],
   },
 ];
@@ -175,6 +185,7 @@ const footerRoutes = {
       ],
     },
   ],
+
   copyright: (
     <MKTypography variant="button" fontWeight="regular">
       Copyright &copy; {date} JEE .

@@ -97,6 +97,7 @@ function Home() {
                 [breakpoints.down("md")]: {
                   fontSize: size["3xl"],
                 },
+                textShadow: "2px 2px 2px #000000",
               })}
             >
               PROJECT UNICOM
@@ -107,6 +108,7 @@ function Home() {
               textAlign="center"
               px={{ xs: 6, lg: 12 }}
               mt={1}
+              sx={{ textShadow: "2px 2px 2px #000000" }}
             >
               A Company-Wide Compliance Project
             </MKTypography>

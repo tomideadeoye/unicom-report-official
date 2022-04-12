@@ -20,10 +20,7 @@ import MKAlert from "components/MKAlert";
 import MKButton from "components/MKButton";
 import MKTypography from "components/MKTypography";
 
-// Material Kit 2 React base styles
-import GoogleMapComponent from "components/CustomComponents/GoogleMapComponent";
-
-function View({ children, code, title, height, ...rest }) {
+function View({ mapDetails, children, code, title, height, ...rest }) {
   const [activeTab, setActiveTab] = useState(0);
   const [success, setSuccess] = useState(false);
 
@@ -78,10 +75,10 @@ function View({ children, code, title, height, ...rest }) {
                       color="dark"
                       mr={1.25}
                       sx={{ fontSize: ({ typography: { size } }) => size.sm }}
-                      className="fas fa-map"
+                      className="fas fa-database"
                     />
                   }
-                  label="Map"
+                  label="Raw Data"
                 />
               </Tabs>
             </AppBar>
@@ -135,7 +132,7 @@ function View({ children, code, title, height, ...rest }) {
               </MKAlert>
             </MKBox>
           </Slide>
-          <GoogleMapComponent />
+          {mapDetails}
         </MKBox>
       </MKBox>
     </MKBox>

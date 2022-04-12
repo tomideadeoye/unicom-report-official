@@ -79,6 +79,12 @@ export default function MaterialTab({ title, data }) {
       backgroundColor: "#039be5",
       fontSize: 13,
       color: "#FFF",
+      // position: "absolute",
+      // top: 0,
+      // left: 0,
+      // height: "100%",
+      width: "100%",
+      justifyContent: "space-between",
     },
     rowStyle: {
       margin: 0,
