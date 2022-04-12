@@ -140,7 +140,7 @@ function Home() {
             sx={{ mr: 2 }}
             href={tit1link}
           >
-            DOWNLOAD BCM
+            View BCM
           </MKButton>
           <MKButton
             href={tit2link}
@@ -150,7 +150,7 @@ function Home() {
             target="_blank"
             m={2}
           >
-            Download SCT
+            View SCT
           </MKButton>
         </Grid>
         {/* <Container>

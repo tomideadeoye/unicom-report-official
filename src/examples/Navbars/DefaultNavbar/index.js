@@ -485,7 +485,7 @@ function DefaultNavbar({ routes, transparent, light, action, sticky, relative, c
                   component="a"
                   href={action.route}
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                   variant={
                     action.color === "white" || action.color === "default"
                       ? "contained"

@@ -35,7 +35,13 @@ function SimpleFooter({ light }) {
           fontSize={size.sm}
         >
           &copy; 2022, Project UNICOM (A Unilever Nigeria Plc. company-wide compliance project.)
+          Prepared By:
+          <Link to="https://jee.africa/">
+            <img src={jee} alt="jee logo" width="33%" />
+          </Link>
+          .
         </MKBox>
+
         <MKBox
           component="ul"
           sx={({ breakpoints }) => ({
@@ -53,16 +59,16 @@ function SimpleFooter({ light }) {
             },
           })}
         >
-          <MKTypography
-            sx={{ mr: 2 }}
-            variant="button"
-            fontWeight="regular"
-            color={light ? "white" : "text"}
-          >
-            Prepared By:
-          </MKTypography>
+          {" "}
           <Link to="https://jee.africa/">
-            <img src={jee} alt="jee logo" width="33%" />
+            <MKTypography
+              sx={{ mr: 2 }}
+              variant="button"
+              fontWeight="regular"
+              color={light ? "white" : "text"}
+            >
+              Designed By:LAW VISUALS
+            </MKTypography>
           </Link>
         </MKBox>
       </MKBox>
