@@ -5,12 +5,8 @@ import MKButton from "components/MKButton";
 import MKBox from "components/MKBox";
 import MKBadge from "components/MKBadge";
 import MKTypography from "components/MKTypography";
-// import MKSocialButton from "components/MKSocialButton";
-import Accordion from "@mui/material/Accordion";
-import AccordionSummary from "@mui/material/AccordionSummary";
-import AccordionDetails from "@mui/material/AccordionDetails";
-import Typography from "@mui/material/Typography";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import BaseLayout from "layouts/sections/components/BaseLayout";
+import View from "layouts/sections/components/View";
 
 import { SimpleFooter } from "pages/Footer";
 // import FilledInfoCard from "examples/Cards/InfoCards/FilledInfoCard";
@@ -29,6 +25,11 @@ import BuiltByDevelopers from "pages/Home/components/BuiltByDevelopers";
 import { footerRoutes } from "routes";
 import bgImage from "assets/images/bg-presentation.jpg";
 import NavbarDark from "components/CustomComponents/NavbarDark";
+
+const tit1link =
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vSaj8-rKnBRgs82aogTNF6yODQucuw_0owEAL09g_7pDQ79urN4d1jDvfRQixUsaQ/pubhtml";
+const tit2link =
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnbdPXzNW_1-xn8WExrTofAmNonepHtR2YuIQKSrlSTJJh1aS-I6rIbW8cdu4Oig/pubhtml";
 
 function Home() {
   return (
@@ -90,11 +91,6 @@ function Home() {
           <BuiltByDevelopers />
         </Container>
 
-        {/* <Information /> */}
-        {/* <Faqs /> */}
-        {/* <DesignBlocks /> */}
-        {/* <Pages /> */}
-
         {/* EXCEL TITLE */}
         <Container>
           <Grid
@@ -119,39 +115,42 @@ function Home() {
           </Grid>
         </Container>
 
-        <Container sx={{ m: 1 }}>
-          <Accordion>
-            <AccordionSummary
-              expandIcon={<ExpandMoreIcon />}
-              aria-controls="panel1a-content"
-              id="panel1a-header"
+        <Container>
+          <BaseLayout breadcrumb={[{ label: "Home", route: "/" }, { label: "Excel Files" }]}>
+            <View
+              tit1="BCM"
+              tit2="SCT"
+              tit1link={tit1link}
+              tit2link={tit2link}
+              title="Raw Files"
+              mapDetails={<iframe title="Raw Files" width="100%" height="700" src={tit2link} />}
             >
-              <Typography sx={{ ml: 4 }}>Compendium of Laws</Typography>
-            </AccordionSummary>
-            <AccordionDetails>
-              <Container
-                sx={{ mt: 6, bgcolor: "background.paper", boxShadow: 0.3, borderRadius: 2 }}
-              >
-                <iframe
-                  title="Raw Files"
-                  width="100%"
-                  height="700"
-                  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkpeRaUbnrSBn1XMfI5shOInZRTeRU_6SHjTrL08FeKUiMWo2NgLZlqAxN9ggooQ/pubhtml?widget=true&amp;headers=false"
-                />
-              </Container>
-            </AccordionDetails>
-          </Accordion>
+              <iframe title="Raw Files" width="100%" height="700" src={tit1link} />
+            </View>
+          </BaseLayout>
         </Container>
 
         {/* DOWNLAOD BUTTON */}
-        <Grid container item justifyContent="center" xs={12} mt={5} mb={2}>
+        <Grid container item justifyContent="center" xs={12} mb={2}>
           <MKButton
-            href="https://docs.google.com/spreadsheets/d/1X_oPC8_oaiQ-eLgWvGir8QkMvWZukYLS/edit?usp=sharing&ouid=109599550030499733240&rtpof=true&sd=true"
             variant="gradient"
             color="info"
             target="_blank"
+            rel="noopener noreferrer"
+            sx={{ mr: 2 }}
+            href={tit1link}
           >
-            Download
+            DOWNLOAD BCM
+          </MKButton>
+          <MKButton
+            href={tit2link}
+            variant="gradient"
+            color="info"
+            rel="noopener noreferrer"
+            target="_blank"
+            m={2}
+          >
+            Download SCT
           </MKButton>
         </Grid>
         {/* <Container>

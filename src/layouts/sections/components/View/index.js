@@ -5,22 +5,17 @@ import { useState, useEffect } from "react";
 import PropTypes from "prop-types";
 
 // react-copy-to-clipboard components
-import { CopyToClipboard } from "react-copy-to-clipboard";
 
 // @mui material components
 import Grid from "@mui/material/Grid";
 import AppBar from "@mui/material/AppBar";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
-import Slide from "@mui/material/Slide";
 
-// Material Kit 2 React components
 import MKBox from "components/MKBox";
-import MKAlert from "components/MKAlert";
-import MKButton from "components/MKButton";
 import MKTypography from "components/MKTypography";
 
-function View({ mapDetails, children, code, title, height, ...rest }) {
+function View({ tit2, tit1, mapDetails, children, code, title, height, ...rest }) {
   const [activeTab, setActiveTab] = useState(0);
   const [success, setSuccess] = useState(false);
 
@@ -66,7 +61,7 @@ function View({ mapDetails, children, code, title, height, ...rest }) {
                       className="fas fa-align-left"
                     />
                   }
-                  label="Overview"
+                  label={!tit1 ? "Raw Data" : tit1}
                 />
                 <Tab
                   icon={
@@ -78,7 +73,7 @@ function View({ mapDetails, children, code, title, height, ...rest }) {
                       className="fas fa-database"
                     />
                   }
-                  label="Raw Data"
+                  label={!tit2 ? "Raw Data" : tit2}
                 />
               </Tabs>
             </AppBar>
@@ -107,31 +102,6 @@ function View({ mapDetails, children, code, title, height, ...rest }) {
           borderRadius="xl"
           sx={{ overflow: "hidden" }}
         >
-          <CopyToClipboard text={code}>
-            <MKButton
-              variant="gradient"
-              color="dark"
-              size="small"
-              sx={{ position: "absolute", top: "0.5rem", right: "0.5rem" }}
-              onClick={() => setSuccess(true)}
-            >
-              <MKBox color="white" mr={0.5} className="fas fa-copy" /> Copy
-            </MKButton>
-          </CopyToClipboard>
-          <Slide direction="down" in={success} unmountOnExit>
-            <MKBox position="absolute" top="0.5rem" left={0} width="100%">
-              <MKAlert
-                width="25%"
-                mx="auto"
-                color="success"
-                sx={{ minHeight: "2.5rem !important", py: 1, justifyContent: "center" }}
-              >
-                <MKTypography variant="body2" color="white" fontWeight="regular">
-                  Code successfully copied!
-                </MKTypography>
-              </MKAlert>
-            </MKBox>
-          </Slide>
           {mapDetails}
         </MKBox>
       </MKBox>
