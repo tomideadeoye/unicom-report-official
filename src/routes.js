@@ -148,7 +148,6 @@ const footerRoutes = {
   brand: {
     name: "UNICOM Compliance Report",
     image: jee,
-    route: "/",
   },
   socials: [
     {

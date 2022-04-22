@@ -4,7 +4,6 @@
 import Container from "@mui/material/Container";
 import typography from "assets/theme/base/typography";
 import MKBox from "components/MKBox";
-import MKTypography from "components/MKTypography";
 
 /* eslint-disable react/prop-types */
 // prop-types is a library for typechecking of props
@@ -19,6 +18,7 @@ function SimpleFooter({ light }) {
   return (
     <Container>
       <MKBox
+        marginTop={-4}
         sx={{ mb: 3 }}
         width="100%"
         display="flex"
@@ -32,6 +32,7 @@ function SimpleFooter({ light }) {
           flexWrap="wrap"
           color={light ? "white" : "text"}
           fontSize={size.sm}
+          marginTop={2}
         >
           A Unilever Nigeria Plc. company-wide compliance project.
         </MKBox>
@@ -41,42 +42,26 @@ function SimpleFooter({ light }) {
           flexWrap="wrap"
           color={light ? "white" : "text"}
           fontSize={size.sm}
+          marginTop={2}
         >
           Prepared by:
           <Link to="https://jee.africa/">
-            <img src={jee} alt="jee logo" width="33%" style={{ marginLeft: 10 }} />
+            <img src={jee} alt="jee logo" width="130px" style={{ marginLeft: 10 }} />
           </Link>
-          .
         </MKBox>
-
-        <MKBox
-          component="ul"
-          sx={({ breakpoints }) => ({
-            display: "flex",
-            flexWrap: "wrap",
-            alignItems: "center",
-            listStyle: "none",
-            mt: 3,
-            mb: 0,
-            p: 0,
-
-            [breakpoints.up("lg")]: {
-              mt: 0,
-            },
-          })}
-        >
+        <a href="mailto:tomideadeoye@gmail.com">
           {" "}
-          <Link to="mailto:tomideadeoye@gmail.com">
-            <MKTypography
-              sx={{ mr: 2 }}
-              variant="button"
-              fontWeight="regular"
-              color={light ? "white" : "text"}
-            >
-              Designed by: LAW VISUALS
-            </MKTypography>
-          </Link>
-        </MKBox>
+          <MKBox
+            display="flex"
+            alignItems="center"
+            flexWrap="wrap"
+            color={light ? "white" : "text"}
+            fontSize={size.sm}
+            marginTop={2}
+          >
+            Designed by: LAW VISUALS
+          </MKBox>
+        </a>
       </MKBox>
     </Container>
   );
