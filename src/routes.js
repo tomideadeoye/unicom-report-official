@@ -1,5 +1,6 @@
 import Icon from "@mui/material/Icon";
 import Renderer from "pages/Renderer";
+import Details from "pages/Details";
 import {
   customerDevelopment,
   supplyChain,
@@ -8,6 +9,7 @@ import {
   marketing,
   legalRegulatory,
   humanResources,
+  finance,
 } from "pages/Renderer/sections/data";
 
 // @mui icons
@@ -32,10 +34,17 @@ const routeLoc = {
 
 const routes = [
   {
-    name: "Executive Summary",
+    name: "Project Unicom",
     icon: <Icon>dashboard</Icon>,
     component: <Renderer />,
     route: routeLoc.RENDER,
+    collapse: [
+      {
+        name: "Complaince Audit Report",
+        route: "/audit-report",
+        component: <Details />,
+      },
+    ],
   },
   {
     name: "Business Compliance Manual (BCM)",
@@ -78,11 +87,11 @@ const routes = [
         route: "/bcm/it-compliance",
         component: <Renderer data={itComplaince} title="IT Compliance" type="BCM" />,
       },
-      // {
-      //   name: "Finance",
-      //   route: "/bcm/finance",
-      //   component: <Renderer data={finance} title="Finance" type="BCM" />,
-      // },
+      {
+        name: "Finance",
+        route: "/bcm/finance",
+        component: <Renderer data={finance} title="Finance" type="BCM" />,
+      },
     ],
   },
   {
@@ -126,11 +135,11 @@ const routes = [
         route: "/sct/it-compliance",
         component: <Renderer data={itComplaince} title="IT Compliance" type="SCT" />,
       },
-      // {
-      //   name: "Finance",
-      //   route: "/sct/finance",
-      //   component: <Renderer data={finance} title="Finance" type="SCT" />,
-      // },
+      {
+        name: "Finance",
+        route: "/sct/finance",
+        component: <Renderer data={finance} title="Finance" type="SCT" />,
+      },
     ],
   },
 ];

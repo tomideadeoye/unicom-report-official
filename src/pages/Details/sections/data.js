@@ -1,7 +1,7 @@
 const customerDevelopment = [
   {
     "Act No": "Cap. 59 LFN 2004",
-    "Legislation Name": "Standards Organization of Nigeria Act",
+    "Legislation Name ": "Standards Organization of Nigeria Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/S9.pdf",
     Regulator: "Standard Council of Nigeria",
     Section: "Section 16",
@@ -18,7 +18,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "Cap T13 LFN 2004",
-    "Legislation Name": "Trade Mark Act",
+    "Legislation Name ": "Trade Mark Act",
     "Act URL": "https://nigeria.tradeportal.org/media/Trade%20Mark%20Act.pdf",
     Regulator: "Nigerian Trademarks Registry",
     Section: "Section 11",
@@ -34,7 +34,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "Cap. C34 LFN 2004",
-    "Legislation Name":
+    "Legislation Name ":
       "Counterfeit and Fake Drugs and Unwholesome Processed Foods (Miscellaneous Provisions) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/COUNTERFEIT-AND-FAKE-DRUGS-AND-UNWHOLESOME-PROCESSED-FOODS-Cap.-C.34.pdf",
@@ -54,7 +54,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "2018",
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 114",
@@ -71,7 +71,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "2018",
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 115",
@@ -88,7 +88,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "2018",
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 116 (3)",
@@ -105,7 +105,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "2018",
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 117",
@@ -123,7 +123,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "2018",
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 123(1)",
@@ -140,7 +140,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "2018",
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 127(1)",
@@ -157,7 +157,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "2018",
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 134",
@@ -174,7 +174,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "2018",
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 135",
@@ -191,7 +191,7 @@ const customerDevelopment = [
   },
   {
     "Act No": "Cap. N1 LFN 2004",
-    "Legislation Name":
+    "Legislation Name ":
       "NAFDAC Cosmetic Products (Prohibition of bleaching agents, etc) Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
@@ -213,7 +213,7 @@ const customerDevelopment = [
 const corpoateAffairs = [
   {
     "Act No": 2015,
-    "Legislation Name": " Cybercrimes (Prohibition, Prevention, Etc) Act, 2015 ",
+    "Legislation Name ": " Cybercrimes (Prohibition, Prevention, Etc) Act, 2015 ",
     "Act URL":
       "https://www.cert.gov.ng/ngcert/resources/CyberCrime__Prohibition_Prevention_etc__Act__2015.pdf",
     Regulator: "Office of the National Security Adviser (NSA)",
@@ -231,7 +231,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2015,
-    "Legislation Name": " Cybercrimes (Prohibition, Prevention, Etc) Act, 2015 ",
+    "Legislation Name ": " Cybercrimes (Prohibition, Prevention, Etc) Act, 2015 ",
     "Act URL":
       "https://www.cert.gov.ng/ngcert/resources/CyberCrime__Prohibition_Prevention_etc__Act__2015.pdf",
     Regulator: "Office of the National Security Adviser (NSA)",
@@ -249,7 +249,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2015,
-    "Legislation Name": " Cybercrimes (Prohibition, Prevention, Etc) Act, 2015 ",
+    "Legislation Name ": " Cybercrimes (Prohibition, Prevention, Etc) Act, 2015 ",
     "Act URL":
       "https://www.cert.gov.ng/ngcert/resources/CyberCrime__Prohibition_Prevention_etc__Act__2015.pdf",
     Regulator: "Office of the National Security Adviser (NSA)",
@@ -268,7 +268,7 @@ const corpoateAffairs = [
 
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 28(5) & 31",
@@ -285,7 +285,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 33 (3)",
@@ -302,7 +302,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 36",
@@ -319,7 +319,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 59",
@@ -336,7 +336,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 61 - 63",
@@ -353,7 +353,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 65",
@@ -370,7 +370,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 78(b) & 80",
@@ -387,7 +387,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 95(3)",
@@ -404,7 +404,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 96(1) (4)",
@@ -421,7 +421,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 108",
@@ -438,7 +438,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 110",
@@ -454,7 +454,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 112",
@@ -471,7 +471,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 114(1)",
@@ -488,7 +488,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 115(1)",
@@ -505,7 +505,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2018",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 116",
@@ -522,7 +522,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2020",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2020",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 118",
@@ -539,7 +539,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2020",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2020",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 123",
@@ -556,7 +556,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2021",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2021",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 125",
@@ -573,7 +573,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2021",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2021",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 126",
@@ -590,7 +590,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2022",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2022",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 127",
@@ -607,7 +607,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2023",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2023",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 128",
@@ -624,7 +624,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2023",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2023",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 129",
@@ -641,7 +641,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2023",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2023",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 134",
@@ -658,7 +658,7 @@ const corpoateAffairs = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act 2023",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act 2023",
     "Act URL": "FCCPA.pdf (fccpc.gov.ng)",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 135",
@@ -678,9 +678,8 @@ const corpoateAffairs = [
 const humanResources = [
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Section 7",
     "Compliance Name": "Provision of reasonable accommodation ",
@@ -698,9 +697,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Section 8",
     "Compliance Name": "HIV Status",
@@ -718,9 +716,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Section 9 (1)",
     "Compliance Name": "HIV Testing",
@@ -738,9 +735,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Section 9 (4)",
     "Compliance Name": "HIV Testing",
@@ -758,9 +754,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Section 13",
     "Compliance Name": "Data protection",
@@ -778,9 +773,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Section 17",
     "Compliance Name": "Report of Occupationally acquired HIV infections to the Minister.",
@@ -798,9 +792,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Sections 18 and 19",
     "Compliance Name": "Provision of Suppport and Compensation ",
@@ -818,9 +811,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Section 20 ",
     "Compliance Name": "Grievance Procedures",
@@ -838,9 +830,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Section 21 (1)&(4a)",
     "Compliance Name": "Workplace Policies",
@@ -859,9 +850,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Sections 21 (2) (3) & (4b)",
     "Compliance Name": "Workplace Policies",
@@ -879,9 +869,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Section 21 (5)",
     "Compliance Name": "Workplace Policies",
@@ -899,9 +888,8 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "HIV and AIDS (Anti-discrimination) Act 2014",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_398045.pdf",
+    "Legislation Name ": "HIV and AIDS (Anti-discrimination) Act 2014",
+    "Act URL": "HIV & AIDS Anti-discrimination Act",
     Regulator: "Federal Ministry of Labour and Employment",
     Section: "Sections 6,22 & 23",
     "Compliance Name": "Acts amounting to discrimination and punishment for non compliance.",
@@ -919,7 +907,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 2.3",
@@ -939,7 +927,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 2.5",
@@ -959,7 +947,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 2.6",
@@ -978,7 +966,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 2.7",
@@ -998,7 +986,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Articles 2.11 & 2.12",
@@ -1018,7 +1006,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.1",
@@ -1038,7 +1026,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 4.1.1",
@@ -1058,7 +1046,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "national Information Development Agency (NITDA)",
     Section: "Article 4.1.2",
@@ -1077,7 +1065,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 4.1.5",
@@ -1097,7 +1085,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 4.1.6",
@@ -1117,7 +1105,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019",
     "Act URL": "NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 4.1.7",
@@ -1137,7 +1125,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: " Article 3.1(i)",
@@ -1156,7 +1144,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.1 (iii)",
@@ -1176,7 +1164,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.1 (iv-v)",
@@ -1196,7 +1184,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.1 (vi)",
@@ -1216,7 +1204,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.1 (viii)",
@@ -1235,7 +1223,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.1(ix)",
@@ -1254,7 +1242,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pd",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.1 (xiv)",
@@ -1274,7 +1262,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Articles 3.4.1 & 3.5",
@@ -1295,7 +1283,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "NDPR-Implementation-\nFramework.pdf (nitda.gov.ng)",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 5.5",
@@ -1315,7 +1303,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 6.3",
@@ -1334,7 +1322,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 8.0",
@@ -1355,7 +1343,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Artice 12.0",
@@ -1375,7 +1363,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Discrimination Against Persons with Disabilities (Prohibition) Act 2018",
+    "Legislation Name ": "Discrimination Against Persons with Disabilities (Prohibition) Act 2018",
     "Act URL":
       "https://laws.lawnigeria.com/2019/04/02/discrimination-against-persons-with-disabilities-prohibition-act-2019/",
     Regulator: "National Commission for Persons with Disabilities",
@@ -1395,7 +1383,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Discrimination Against Persons with Disabilities (Prohibition) Act 2018",
+    "Legislation Name ": "Discrimination Against Persons with Disabilities (Prohibition) Act 2018",
     "Act URL":
       "https://laws.lawnigeria.com/2019/04/02/discrimination-against-persons-with-disabilities-prohibition-act-2019/",
     Regulator: "National Commission for Persons with Disabilities",
@@ -1415,7 +1403,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Discrimination Against Persons with Disabilities (Prohibition) Act 2018",
+    "Legislation Name ": "Discrimination Against Persons with Disabilities (Prohibition) Act 2018",
     "Act URL":
       "https://laws.lawnigeria.com/2019/04/02/discrimination-against-persons-with-disabilities-prohibition-act-2019/",
     Regulator: "National Commission for Persons with Disabilities",
@@ -1435,7 +1423,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 2",
@@ -1454,7 +1442,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Sections 7(1) & 21(1)",
@@ -1473,7 +1461,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Sections 7(2) & 21(1)",
@@ -1492,7 +1480,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 9",
@@ -1511,7 +1499,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 11",
@@ -1531,7 +1519,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 14",
@@ -1550,7 +1538,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 17",
@@ -1570,7 +1558,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 18",
@@ -1588,7 +1576,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 20",
@@ -1607,7 +1595,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 13(1&2)",
@@ -1626,7 +1614,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 13 (3)",
@@ -1645,7 +1633,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 46",
@@ -1664,7 +1652,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Sections 54 & 58(1)",
@@ -1683,7 +1671,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Sections 55,56 &58(2)",
@@ -1702,7 +1690,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Sections 69(2) & 72(2)",
@@ -1721,7 +1709,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 73",
@@ -1739,7 +1727,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap L1 LFN 2004",
-    "Legislation Name": "Labour Act",
+    "Legislation Name ": "Labour Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/L1.pdf",
     Regulator: "Minister for Employment, Labour and Productivty",
     Section: "Section 75",
@@ -1757,7 +1745,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap N61, LFN 2004",
-    "Legislation Name": "National Minimum Wage (Amendment) Act 2019",
+    "Legislation Name ": "National Minimum Wage (Amendment) Act 2019",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/MONOGRAPH/111617/139184/F-42570168/NGA111617%20.pdf",
     Regulator: "Ministry of Labour and National Salaries,Income and Wages Commission ",
@@ -1777,7 +1765,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap N61, LFN 2004",
-    "Legislation Name": "National Minimum Wage (Amendment) Act 2019",
+    "Legislation Name ": "National Minimum Wage (Amendment) Act 2019",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/MONOGRAPH/111617/139184/F-42570168/NGA111617%20.pdf",
     Regulator: "Ministry of Labour and National Salaries,Income and Wages Commission ",
@@ -1796,7 +1784,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap N61, LFN 2004",
-    "Legislation Name": "National Minimum Wage (Amendment) Act 2019",
+    "Legislation Name ": "National Minimum Wage (Amendment) Act 2019",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/MONOGRAPH/111617/139184/F-42570168/NGA111617%20.pdf",
     Regulator: "Ministry of Labour and National Salaries,Income and Wages Commission ",
@@ -1815,7 +1803,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap W1  LFN 2004",
-    "Legislation Name": "Wages Boards and Industrial Council Act",
+    "Legislation Name ": "Wages Boards and Industrial Council Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/W1.pdf",
     Regulator: "Industrial Wages Board",
     Section: "Sections 12(1) & (2)",
@@ -1834,7 +1822,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap W1  LFN 2004",
-    "Legislation Name": "Wages Boards and Industrial Council Act",
+    "Legislation Name ": "Wages Boards and Industrial Council Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/W1.pdf",
     Regulator: "Industrial Wages Board",
     Section: "Section 23",
@@ -1853,7 +1841,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -1873,7 +1861,7 @@ const humanResources = [
   },
   {
     "Act No": "",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -1893,7 +1881,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -1912,7 +1900,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -1932,7 +1920,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -1952,7 +1940,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -1973,7 +1961,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -1993,7 +1981,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -2013,7 +2001,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -2033,7 +2021,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -2053,7 +2041,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -2073,7 +2061,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees Compensation Act 2010",
+    "Legislation Name ": "Employees Compensation Act 2010",
     "Act URL":
       "https://placng.org/i/wp-content/uploads/2019/12/Employees-Compensation-Act-2010.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -2093,7 +2081,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Industrial Training Fund (Amendment) Act 2011",
+    "Legislation Name ": "Industrial Training Fund (Amendment) Act 2011",
     "Act URL":
       "https://laws.lawnigeria.com/2018/04/24/lfn-industrial-training-fund-amendment-act-2011-2/",
     Regulator: "Industrial Training Fund Governing Council",
@@ -2113,7 +2101,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap I9 LFN",
-    "Legislation Name": "Industrial Training Fund (Amendment) Act 2011",
+    "Legislation Name ": "Industrial Training Fund (Amendment) Act 2011",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=205",
     Regulator: "Industrial Training Fund Governing Council",
     Section: "Section 8",
@@ -2132,7 +2120,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap I9 LFN 2004 ",
-    "Legislation Name": "Industrial Training Fund (Amendment) Act 2011",
+    "Legislation Name ": "Industrial Training Fund (Amendment) Act 2011",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=205",
     Regulator: "Industrial Training Fund Governing Council",
     Section: "Section 14 & 15(1)",
@@ -2151,7 +2139,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap N42 LFN 2004",
-    "Legislation Name": "National Health Insurance Scheme Act",
+    "Legislation Name ": "National Health Insurance Scheme Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=304",
     Regulator: "National Health Insurance Scheme Governing Council",
     Section: "Section 17",
@@ -2170,7 +2158,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap N45 LFN 2004",
-    "Legislation Name": "National Housing Fund Act",
+    "Legislation Name ": "National Housing Fund Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/N45.pdf",
     Regulator: "Federal Mortgage Bank of Nigeria",
     Section: "Sections 9 & 20",
@@ -2189,7 +2177,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap N45 LFN 2004",
-    "Legislation Name": "National Housing Fund Act",
+    "Legislation Name ": "National Housing Fund Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/N45.pdf",
     Regulator: "Federal Mortgage Bank of Nigeria",
     Section: "Sections 18 & 22",
@@ -2208,7 +2196,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act 2014",
+    "Legislation Name ": "Pension Reform Act 2014",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Sections 4(1), 99 & 103",
@@ -2227,7 +2215,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act 2014",
+    "Legislation Name ": "Pension Reform Act 2014",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Sections 4(5), 99 & 103",
@@ -2246,7 +2234,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act 2014",
+    "Legislation Name ": "Pension Reform Act 2014",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Sections 11(3), 99 & 103",
@@ -2265,7 +2253,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act 2014",
+    "Legislation Name ": "Pension Reform Act 2014",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Section 11 (5), 99 & 103",
@@ -2285,7 +2273,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act 2014",
+    "Legislation Name ": "Pension Reform Act 2014",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Section 50(2)",
@@ -2304,7 +2292,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap T8 LFN 2004",
-    "Legislation Name": "Trade Disputes Act",
+    "Legislation Name ": "Trade Disputes Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/T8.pdf",
     Regulator: "Minister of Labour",
     Section: "Section 3",
@@ -2324,7 +2312,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap T8 LFN 2004",
-    "Legislation Name": "Trade Disputes Act",
+    "Legislation Name ": "Trade Disputes Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/T8.pdf",
     Regulator: "Minister of Labour",
     Section: "Section 4",
@@ -2343,7 +2331,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap T8 LFN 2004",
-    "Legislation Name": "Trade Disputes Act",
+    "Legislation Name ": "Trade Disputes Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/T8.pdf",
     Regulator: "Minister of Labour",
     Section: "Section 6",
@@ -2362,7 +2350,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap T8 LFN 2004",
-    "Legislation Name": "Trade Disputes Act",
+    "Legislation Name ": "Trade Disputes Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/T8.pdf",
     Regulator: "Minister of Labour",
     Section: "Section 8 & 14(4)",
@@ -2381,7 +2369,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap T8 LFN 2004",
-    "Legislation Name": "Trade Disputes Act",
+    "Legislation Name ": "Trade Disputes Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/T8.pdf",
     Regulator: "Minister of Labour",
     Section: "Section 18",
@@ -2400,7 +2388,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap T8 LFN 2004",
-    "Legislation Name": "Trade Disputes Act",
+    "Legislation Name ": "Trade Disputes Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/T8.pdf",
     Regulator: "Minister of Labour",
     Section: "Section 19",
@@ -2419,7 +2407,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap T8 LFN 2004",
-    "Legislation Name": "Trade Disputes Act",
+    "Legislation Name ": "Trade Disputes Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/T8.pdf",
     Regulator: "Minister of Labour",
     Section: "Section 43(1)(b)",
@@ -2437,7 +2425,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap T14 LFN 2004",
-    "Legislation Name": "Trade Unions Act",
+    "Legislation Name ": "Trade Unions Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/TRADE%20UNIONS%20ACT.pdf",
     Regulator: "Registrar of Trades Union",
     Section: "Section 17(a)",
@@ -2455,7 +2443,7 @@ const humanResources = [
   },
   {
     "Act No": "Cap T14 LFN 2004",
-    "Legislation Name": "Trade Unions Act",
+    "Legislation Name ": "Trade Unions Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/TRADE%20UNIONS%20ACT.pdf",
     Regulator: "Registrar of Trades Union",
     Section: "Section 31(6)",
@@ -2474,7 +2462,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Immigration Act 2015",
+    "Legislation Name ": "Immigration Act 2015",
     "Act URL": "https://placng.org/i/wp-content/uploads/2019/12/ImmigrationAct2015-1.pdf",
     Regulator: "Nigeria Immigration Service",
     Section: "Section 38",
@@ -2493,7 +2481,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Immigration Act 2015",
+    "Legislation Name ": "Immigration Act 2015",
     "Act URL": "https://placng.org/i/wp-content/uploads/2019/12/ImmigrationAct2015-1.pdf",
     Regulator: "Nigeria Immigration Service",
     Section: "Section 49(3)",
@@ -2511,7 +2499,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Immigration Act 2015",
+    "Legislation Name ": "Immigration Act 2015",
     "Act URL": "https://placng.org/i/wp-content/uploads/2019/12/ImmigrationAct2015-1.pdf",
     Regulator: "Nigeria Immigration Service",
     Section: "Section 58",
@@ -2530,7 +2518,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Immigration Act 2015",
+    "Legislation Name ": "Immigration Act 2015",
     "Act URL": "https://placng.org/i/wp-content/uploads/2019/12/ImmigrationAct2015-1.pdf",
     Regulator: "Nigeria Immigration Service",
     Section: "Section 105(4)",
@@ -2549,7 +2537,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Occupational Safety & Health Convention ratified in 1994",
+    "Legislation Name ": "Occupational Safety & Health Convention ratified in 1994",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312300",
     Regulator: "Minister of Labour",
@@ -2568,7 +2556,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Occupational Safety & Health Convention ratified in 1994",
+    "Legislation Name ": "Occupational Safety & Health Convention ratified in 1994",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312300",
     Regulator: "Minister of Labour",
@@ -2588,7 +2576,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Occupational Safety & Health Convention ratified in 1994",
+    "Legislation Name ": "Occupational Safety & Health Convention ratified in 1994",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312300",
     Regulator: "Minister of Labour",
@@ -2608,7 +2596,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Occupational Safety & Health Convention ratified in 1994",
+    "Legislation Name ": "Occupational Safety & Health Convention ratified in 1994",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312300",
     Regulator: "Minister of Labour",
@@ -2629,7 +2617,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Occupational Safety & Health Convention ratified 1994",
+    "Legislation Name ": "Occupational Safety & Health Convention ratified 1994",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312300",
     Regulator: "Minister of Labour",
@@ -2649,7 +2637,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "National Policy on Occupational Safety and Health",
+    "Legislation Name ": "National Policy on Occupational Safety and Health",
     "Act URL":
       "file:///C:/Users/Obioma%20Okonkwo/OneDrive%20-%20JEE/Laws/National%20Policy%20on%20Occupational,%20Health%20and%20Safety.pdf",
     Regulator: "Minister of Labour",
@@ -2669,7 +2657,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2689,7 +2677,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2708,7 +2696,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2728,7 +2716,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2748,7 +2736,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2767,7 +2755,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2787,7 +2775,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "Freedom of Association and Protection of the Right to Organise ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312232:NO",
@@ -2808,7 +2796,7 @@ const humanResources = [
   },
   {
     "Act No": "Unreported Suit No.NICN/EN/25/2016",
-    "Legislation Name": "Osazuwa v International Tobacco Company & Anor",
+    "Legislation Name ": "Osazuwa v International Tobacco Company & Anor",
     "Act URL":
       "https://nicnadr.gov.ng/judgement/details.php?id=5031&party=Chris%20Mitchell%20Osazuwa%20-VS-%20International%20Tobacco%20company%20Plc%20&%20ORS",
     Regulator: "N/A",
@@ -2828,7 +2816,7 @@ const humanResources = [
   },
   {
     "Act No": "Unreported Suit No:NICN/LA/396/2015",
-    "Legislation Name": "7th Heaven Bistro Limited v Amit Desphande ",
+    "Legislation Name ": "7th Heaven Bistro Limited v Amit Desphande ",
     "Act URL": "https://lawcarenigeria.com/7th-heaven-bistro-limited-vs-mr-amit-desphande/",
     Regulator: "N/A",
     Section: "N/A",
@@ -2847,7 +2835,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2867,7 +2855,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2887,7 +2875,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2907,7 +2895,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Protection of Wages Convention 1949 ratified in 1960",
+    "Legislation Name ": "Protection of Wages Convention 1949 ratified in 1960",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312240:NO",
     Regulator: "Minister of Labour",
@@ -2927,7 +2915,7 @@ const humanResources = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Equal Remuneration ratified in 1974",
+    "Legislation Name ": "Equal Remuneration ratified in 1974",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312245:NO",
     Regulator: "Minister of Labour",
@@ -2949,7 +2937,7 @@ const humanResources = [
 const itComplaince = [
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 2.1 (1)",
@@ -2967,7 +2955,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 2.3 (1)",
@@ -2985,7 +2973,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 2.3 (c)",
@@ -3003,7 +2991,7 @@ const itComplaince = [
   },
   {
     "Act No": "",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "",
     Regulator: "",
     Section: "Reg 2.3 (e) ",
@@ -3021,7 +3009,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 2.4 (b)",
@@ -3039,7 +3027,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 2.5",
@@ -3057,7 +3045,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 2.6",
@@ -3075,7 +3063,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg 2.7 ",
@@ -3093,7 +3081,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg.  3.1 (2)",
@@ -3111,7 +3099,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg.  3.1 (7)",
@@ -3129,7 +3117,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 3.1 (13)",
@@ -3147,7 +3135,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 4.1 (1)",
@@ -3165,7 +3153,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 4.1 (2) & (3)",
@@ -3183,7 +3171,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 4.1 (5)",
@@ -3201,7 +3189,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019.",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019.",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Reg. 4.1 (6) & (7)",
@@ -3219,7 +3207,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: " Article 3.2(i)",
@@ -3236,7 +3224,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2021",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2021",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.2 (iii)",
@@ -3254,7 +3242,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2022",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2022",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.2 (iv-v)",
@@ -3272,7 +3260,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2023",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2023",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 3.2 (vi)",
@@ -3290,7 +3278,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.2 (viii)",
@@ -3308,7 +3296,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.2 (ix) and 9.1",
@@ -3325,7 +3313,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.2 (x)",
@@ -3342,7 +3330,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.2 (xi)",
@@ -3359,7 +3347,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.2 (xii)",
@@ -3377,7 +3365,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.2 (xiii)",
@@ -3395,7 +3383,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.2 (xiv)",
@@ -3413,7 +3401,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.2 (xv)",
@@ -3431,7 +3419,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.2 (xvi)",
@@ -3449,7 +3437,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 3.4.1 & 3.5",
@@ -3467,7 +3455,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 7.3",
@@ -3486,7 +3474,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 8.0",
@@ -3505,7 +3493,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
+    "Legislation Name ": "Nigeria Data Protection Regulation 2019: Implementation Framework 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Development Agency (NITDA)",
     Section: "Article 10.1.4",
@@ -3523,7 +3511,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020.",
+    "Legislation Name ": "NDPR Implementation Framework, 2020.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Article 12.2",
@@ -3541,7 +3529,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) 2014.",
     "Act URL":
       "https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf",
@@ -3560,7 +3548,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) 2014.",
     "Act URL":
       "https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf",
@@ -3578,7 +3566,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) 2014.",
     "Act URL":
       "https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf",
@@ -3597,7 +3585,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) 2014.",
     "Act URL":
       "https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf",
@@ -3616,7 +3604,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) 2014.",
     "Act URL":
       "https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf",
@@ -3635,7 +3623,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) 2014.",
     "Act URL":
       "https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf",
@@ -3653,7 +3641,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention) 2014.",
     "Act URL":
       "https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf",
@@ -3671,7 +3659,7 @@ const itComplaince = [
   },
   {
     "Act No": "Regulation (EU) 2016/679",
-    "Legislation Name": "European Union General Data Protection Regulation",
+    "Legislation Name ": "European Union General Data Protection Regulation",
     "Act URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679",
     Regulator: "European Commission",
     Section: "Article 13 & 14",
@@ -3689,7 +3677,7 @@ const itComplaince = [
   },
   {
     "Act No": "Regulation (EU) 2016/679",
-    "Legislation Name": "European Union General Data Protection Regulation",
+    "Legislation Name ": "European Union General Data Protection Regulation",
     "Act URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0680",
     Regulator: "European Commission",
     Section: "Article 24 & 25",
@@ -3706,7 +3694,7 @@ const itComplaince = [
   },
   {
     "Act No": "Regulation (EU) 2016/679",
-    "Legislation Name": "European Union General Data Protection Regulation",
+    "Legislation Name ": "European Union General Data Protection Regulation",
     "Act URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0681",
     Regulator: "European Commission",
     Section: "Article 28",
@@ -3723,7 +3711,7 @@ const itComplaince = [
   },
   {
     "Act No": "Regulation (EU) 2016/679",
-    "Legislation Name": "European Union General Data Protection Regulation",
+    "Legislation Name ": "European Union General Data Protection Regulation",
     "Act URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0682",
     Regulator: "European Commission",
     Section: "Article 29",
@@ -3740,7 +3728,7 @@ const itComplaince = [
   },
   {
     "Act No": "Regulation (EU) 2016/679",
-    "Legislation Name": "European Union General Data Protection Regulation",
+    "Legislation Name ": "European Union General Data Protection Regulation",
     "Act URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0682",
     Regulator: "European Commission",
     Section: "Article 30",
@@ -3757,7 +3745,7 @@ const itComplaince = [
   },
   {
     "Act No": "Regulation (EU) 2016/679",
-    "Legislation Name": "European Union General Data Protection Regulation",
+    "Legislation Name ": "European Union General Data Protection Regulation",
     "Act URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0683",
     Regulator: "European Commission",
     Section: "Article 33",
@@ -3775,7 +3763,7 @@ const itComplaince = [
   },
   {
     "Act No": "Regulation (EU) 2016/679",
-    "Legislation Name": "European Union General Data Protection Regulation",
+    "Legislation Name ": "European Union General Data Protection Regulation",
     "Act URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0684",
     Regulator: "European Commission",
     Section: "Article 34",
@@ -3792,7 +3780,7 @@ const itComplaince = [
   },
   {
     "Act No": "Regulation (EU) 2016/679",
-    "Legislation Name": "European Union General Data Protection Regulation",
+    "Legislation Name ": "European Union General Data Protection Regulation",
     "Act URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0685",
     Regulator: "European Commission",
     Section: "Article 35 & 36",
@@ -3809,7 +3797,7 @@ const itComplaince = [
   },
   {
     "Act No": "Regulation (EU) 2016/679",
-    "Legislation Name": "European Union General Data Protection Regulation",
+    "Legislation Name ": "European Union General Data Protection Regulation",
     "Act URL": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0686",
     Regulator: "European Commission",
     Section: "Article 37",
@@ -3825,7 +3813,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "OECD Revised Guidelines on the Protection of Privacy and Transborder Flows of Personal Data, 2013.",
     "Act URL": "https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf",
     Regulator: "OECD Council",
@@ -3842,7 +3830,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "OECD Revised Guidelines on the Protection of Privacy and Transborder Flows of Personal Data, 2013.",
     "Act URL": "https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf",
     Regulator: "OECD Council",
@@ -3860,7 +3848,7 @@ const itComplaince = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "National Information Technology Development Agency Act, 2007.",
+    "Legislation Name ": "National Information Technology Development Agency Act, 2007.",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2020/11/NITDA-ACT-2007-2019-Edition1.pdf",
     Regulator: "National Information Technology Development Agency",
     Section: "Section 17(4)",
@@ -3880,7 +3868,7 @@ const itComplaince = [
 const legalRegulatory = [
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act, 2014",
+    "Legislation Name ": "Pension Reform Act, 2014",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Section 4 (1)(a)",
@@ -3897,7 +3885,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act, 2015",
+    "Legislation Name ": "Pension Reform Act, 2015",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Section 4(5)",
@@ -3914,7 +3902,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act, 2015",
+    "Legislation Name ": "Pension Reform Act, 2015",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Section 11(3)(a)(b)",
@@ -3931,7 +3919,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act, 2014",
+    "Legislation Name ": "Pension Reform Act, 2014",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Section 11 (5)",
@@ -3948,7 +3936,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act, 2014",
+    "Legislation Name ": "Pension Reform Act, 2014",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Section 15(c), (2) and (3) ",
@@ -3965,7 +3953,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Pension Reform Act, 2014",
+    "Legislation Name ": "Pension Reform Act, 2014",
     "Act URL": "https://www.pencom.gov.ng/wp-content/uploads/2018/01/PRA_2014.pdf",
     Regulator: "National Pension Commission",
     Section: "Section 50(1)(a), (d), (g) and  (2)",
@@ -3982,7 +3970,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Regulations for the Administration of Retirement & Terminal Benefits",
+    "Legislation Name ": "Regulations for the Administration of Retirement & Terminal Benefits",
     "Act URL":
       "https://www.pencom.gov.ng/wp-content/uploads/2018/07/REGULATIONS-FOR-THE-ADMINISTRATION-OF-RETIREMENT-AND-TERMINAL-BENEFITS.pdf",
     Regulator: "PFA",
@@ -4000,7 +3988,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Revised Guidelines for Retirement Savings Account Registration, 2019",
+    "Legislation Name ": "Revised Guidelines for Retirement Savings Account Registration, 2019",
     "Act URL":
       "https://www.pencom.gov.ng/wp-content/uploads/2019/06/REVISED-RSA-REGISTRATION-GUIDELINES.pdf",
     Regulator: "PFA and National Pension Commission",
@@ -4018,7 +4006,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Guidelines for the Administration of Gratuity Benefits",
+    "Legislation Name ": "Guidelines for the Administration of Gratuity Benefits",
     "Act URL":
       "https://www.pencom.gov.ng/wp-content/uploads/2017/04/EXPOSURE-DRAFT-GUIDELINES-FOR-THE-ADMINISTRATION-OF-GRATUITY-BENEFITS.pdf",
     Regulator: "National Pension Commission",
@@ -4036,7 +4024,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "",
-    "Legislation Name": "Guidelines for the Administration of Gratuity Benefits",
+    "Legislation Name ": "Guidelines for the Administration of Gratuity Benefits",
     "Act URL":
       "https://www.pencom.gov.ng/wp-content/uploads/2017/04/EXPOSURE-DRAFT-GUIDELINES-FOR-THE-ADMINISTRATION-OF-GRATUITY-BENEFITS.pdf",
     Regulator: "National Pension Commission",
@@ -4054,7 +4042,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees' Compensation Act, 2010",
+    "Legislation Name ": "Employees' Compensation Act, 2010",
     "Act URL":
       "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -4072,7 +4060,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees' Compensation Act, 2010",
+    "Legislation Name ": "Employees' Compensation Act, 2010",
     "Act URL":
       "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -4090,7 +4078,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees' Compensation Act, 2010",
+    "Legislation Name ": "Employees' Compensation Act, 2010",
     "Act URL":
       "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
     Regulator: "Nigeria Social Insurance Trust Fund Management Board",
@@ -4108,7 +4096,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees' Compensation Act, 2010",
+    "Legislation Name ": "Employees' Compensation Act, 2010",
     "Act URL":
       "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
     Regulator: " Nigeria Social Insurance Trust Fund Management Board",
@@ -4127,7 +4115,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees' Compensation Act, 2010",
+    "Legislation Name ": "Employees' Compensation Act, 2010",
     "Act URL":
       "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
     Regulator: " Nigeria Social Insurance Trust Fund Management Board",
@@ -4145,7 +4133,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Employees' Compensation Act, 2010",
+    "Legislation Name ": "Employees' Compensation Act, 2010",
     "Act URL":
       "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
     Regulator: " Nigeria Social Insurance Trust Fund Management Board",
@@ -4163,7 +4151,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap N88 LFN 2004",
-    "Legislation Name": "Nigeria Social Insurance Trust Fund Act",
+    "Legislation Name ": "Nigeria Social Insurance Trust Fund Act",
     "Act URL": "https://lawcarenigeria.com/nigeria-social-insurance-trust-fund-act/",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
     Section: "Section 12  and 13",
@@ -4180,7 +4168,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap N88 LFN 2005",
-    "Legislation Name": "Nigeria Social Insurance Trust Fund Act",
+    "Legislation Name ": "Nigeria Social Insurance Trust Fund Act",
     "Act URL": "https://lawcarenigeria.com/nigeria-social-insurance-trust-fund-act/",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
     Section: "Section 15",
@@ -4197,7 +4185,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": " National Housing Fund Act.",
+    "Legislation Name ": " National Housing Fund Act.",
     "Act URL": "https://lawsofnigeria.placng.org/laws/N45.pdf",
     Regulator: "Federal Mortgage Bank of Nigeria",
     Section: "Section 9(1)",
@@ -4214,7 +4202,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No. 19, 2011",
-    "Legislation Name": "Industrial Training Fund (Amendment) Act",
+    "Legislation Name ": "Industrial Training Fund (Amendment) Act",
     "Act URL":
       "https://drive.google.com/file/d/0B1DAmtM1BcbMWklEU3ZDVGI0REk/view?resourcekey=0-viVrj9fFB5FceOwBIioRzA",
     Regulator: "Industrial Training Fund Governing Council",
@@ -4232,7 +4220,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap N42 LFN 2004",
-    "Legislation Name": "National Health Insurance Scheme Act ",
+    "Legislation Name ": "National Health Insurance Scheme Act ",
     "Act URL": "https://health.gov.ng/doc/NATIONAL%20HEALTH%20INSURANCE%20SCHEME%20ACT.pdf",
     Regulator: "Governing Council",
     Section: "Section 16(1) & (2)",
@@ -4249,7 +4237,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap N42 LFN 2004",
-    "Legislation Name": "National Health Insurance Scheme Act ",
+    "Legislation Name ": "National Health Insurance Scheme Act ",
     "Act URL": "https://health.gov.ng/doc/NATIONAL%20HEALTH%20INSURANCE%20SCHEME%20ACT.pdf",
     Regulator: "Governing Council",
     Section: "Section 17",
@@ -4266,7 +4254,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
+    "Legislation Name ": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
     "Act URL": "N/A",
     Regulator: "",
     Section: "Regulations 1",
@@ -4283,7 +4271,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
+    "Legislation Name ": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
     "Act URL": "N/A",
     Regulator: "Relevant Tax Authority",
     Section: "Regulations 2",
@@ -4300,7 +4288,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
+    "Legislation Name ": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
     "Act URL": "N/A",
     Regulator: "Relevant Tax Authority",
     Section: "Regulations 3",
@@ -4317,7 +4305,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
+    "Legislation Name ": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
     "Act URL": "N/A",
     Regulator: "Relevant Tax Authority",
     Section: "Regulations 5",
@@ -4334,7 +4322,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
+    "Legislation Name ": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
     "Act URL": "N/A",
     Regulator: "Relevant Tax Authority",
     Section: "Regulations 6",
@@ -4351,7 +4339,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
+    "Legislation Name ": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
     "Act URL": "N/A",
     Regulator: "Relevant Tax Authority",
     Section: "Regulations 7",
@@ -4368,7 +4356,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
+    "Legislation Name ": "Operation of the Pay As You Earn (PAYE) Scheme Regulations, 2002",
     "Act URL": "N/A",
     Regulator: "Relevant Tax Authority",
     Section: "Regulation 10",
@@ -4385,7 +4373,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Personal Income Tax",
+    "Legislation Name ": "Personal Income Tax",
     "Act URL": "N/A",
     Regulator: "",
     Section: "Section 81",
@@ -4402,7 +4390,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap C21",
-    "Legislation Name": "Companies Income Tax Act",
+    "Legislation Name ": "Companies Income Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 9 and S. 92 (4)",
@@ -4419,7 +4407,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap C22",
-    "Legislation Name": "Companies Income Tax Act",
+    "Legislation Name ": "Companies Income Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 43 (3) & 92",
@@ -4436,7 +4424,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap C21",
-    "Legislation Name": "Companies Income Tax Act",
+    "Legislation Name ": "Companies Income Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 55 (2) & (5)",
@@ -4454,7 +4442,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap C21",
-    "Legislation Name": "Companies Income Tax Act",
+    "Legislation Name ": "Companies Income Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 57 & 92 (4)",
@@ -4471,7 +4459,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No 16",
-    "Legislation Name": "Tertiary Education Trust Fund (Establishment) Act",
+    "Legislation Name ": "Tertiary Education Trust Fund (Establishment) Act",
     "Act URL": "N/A",
     Regulator: "Board of Trustees and the Federal Inland Revenue Service",
     Section: "Section 1 (2) & 2(2) and Section 10 &11",
@@ -4488,7 +4476,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap V1",
-    "Legislation Name": "Value Added Tax Act",
+    "Legislation Name ": "Value Added Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 8 & 32",
@@ -4505,7 +4493,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap V1",
-    "Legislation Name": "Value Added Tax Act",
+    "Legislation Name ": "Value Added Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "section 9 (2)",
@@ -4522,7 +4510,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap V1",
-    "Legislation Name": "Value Added Tax Act",
+    "Legislation Name ": "Value Added Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 12 & 26",
@@ -4539,7 +4527,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap V1",
-    "Legislation Name": "Value Added Tax Act",
+    "Legislation Name ": "Value Added Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 15 & 35",
@@ -4556,7 +4544,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap V1",
-    "Legislation Name": "Value Added Tax Act",
+    "Legislation Name ": "Value Added Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 11 & 33",
@@ -4573,7 +4561,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap V1",
-    "Legislation Name": "Value Added Tax Act",
+    "Legislation Name ": "Value Added Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 14 & 34",
@@ -4590,7 +4578,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap V1",
-    "Legislation Name": "Value Added Tax Act",
+    "Legislation Name ": "Value Added Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 13 (1) &29",
@@ -4607,7 +4595,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap V1",
-    "Legislation Name": "Value Added Tax Act",
+    "Legislation Name ": "Value Added Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section 12, 16",
@@ -4624,7 +4612,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap V1",
-    "Legislation Name": "Value Added Tax Act",
+    "Legislation Name ": "Value Added Tax Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Federal Board of Inland Revenue",
     Section: "Section  28",
@@ -4640,7 +4628,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap S8",
-    "Legislation Name": "Stamp Duties Act",
+    "Legislation Name ": "Stamp Duties Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Civil Service Commission",
     Section: "Section 100 (1)-(3)",
@@ -4657,7 +4645,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap S8",
-    "Legislation Name": "Stamp Duties Act",
+    "Legislation Name ": "Stamp Duties Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Civil Service Commission",
     Section: "Section 101 (1)-(3)",
@@ -4675,7 +4663,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap S8",
-    "Legislation Name": "Stamp Duties Act",
+    "Legislation Name ": "Stamp Duties Act",
     "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/01/finance-act-2020_signed.pdf",
     Regulator: "Civil Service Commission",
     Section: "Section 102 (1)-(5)",
@@ -4692,7 +4680,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap N107",
-    "Legislation Name": "Nigeria Export Processing Zones Act",
+    "Legislation Name ": "Nigeria Export Processing Zones Act",
     "Act URL": "https://www.nepza.gov.ng/images/NEPZA631992.pdf",
     Regulator: "Nigeria Export Processing Zones Authority",
     Section: "Section 10 & 25",
@@ -4709,7 +4697,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Companies Regulations 2021",
+    "Legislation Name ": "Companies Regulations 2021",
     "Act URL":
       "https://www.cac.gov.ng/wp-content/uploads/2021/01/COMPANIES-REGULATIONS-2021-published.pdf",
     Regulator: "Corporate Affairs Commission (CAC)",
@@ -4726,7 +4714,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Companies Regulations 2021",
+    "Legislation Name ": "Companies Regulations 2021",
     "Act URL":
       "https://www.cac.gov.ng/wp-content/uploads/2021/01/COMPANIES-REGULATIONS-2021-published.pdf",
     Regulator: "Corporate Affairs Commission (CAC)",
@@ -4744,7 +4732,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Companies Regulations 2021",
+    "Legislation Name ": "Companies Regulations 2021",
     "Act URL":
       "https://www.cac.gov.ng/wp-content/uploads/2021/01/COMPANIES-REGULATIONS-2021-published.pdf",
     Regulator: "Corporate Affairs Commission (CAC)",
@@ -4762,7 +4750,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Code of corporate governance for public company",
+    "Legislation Name ": "Code of corporate governance for public company",
     "Act URL":
       "https://sec.gov.ng/wp-content/uploads/2016/06/CODE-OF-CORPORATE-GOVERNANCE_web-optimized.pdf",
     Regulator: "Securities & Exchange Commission",
@@ -4780,7 +4768,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Code of corporate governance for public company",
+    "Legislation Name ": "Code of corporate governance for public company",
     "Act URL":
       "https://sec.gov.ng/wp-content/uploads/2016/06/CODE-OF-CORPORATE-GOVERNANCE_web-optimized.pdf",
     Regulator: "Securities & Exchange Commission",
@@ -4797,7 +4785,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Code of corporate governance for public company",
+    "Legislation Name ": "Code of corporate governance for public company",
     "Act URL":
       "https://sec.gov.ng/wp-content/uploads/2016/06/CODE-OF-CORPORATE-GOVERNANCE_web-optimized.pdf",
     Regulator: "Securities & Exchange Commission",
@@ -4815,7 +4803,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Code of corporate governance for public company",
+    "Legislation Name ": "Code of corporate governance for public company",
     "Act URL":
       "https://sec.gov.ng/wp-content/uploads/2016/06/CODE-OF-CORPORATE-GOVERNANCE_web-optimized.pdf",
     Regulator: "Securities & Exchange Commission",
@@ -4833,7 +4821,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 2.4",
@@ -4850,7 +4838,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 2.9",
@@ -4867,7 +4855,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 3.3",
@@ -4884,7 +4872,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 4.5",
@@ -4901,7 +4889,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 4.7 & 5.5",
@@ -4918,7 +4906,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 4.6 &5.3",
@@ -4935,7 +4923,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 7.4",
@@ -4953,7 +4941,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: " Principle 7.5",
@@ -4970,7 +4958,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 10.1",
@@ -4986,7 +4974,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A ",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 11.1.5",
@@ -5002,7 +4990,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 11.1.10",
@@ -5019,7 +5007,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 11.1.13",
@@ -5036,7 +5024,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 11.2.2",
@@ -5053,7 +5041,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 11.3.2",
@@ -5070,7 +5058,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 11.4.1.",
@@ -5087,7 +5075,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 11.5.2",
@@ -5104,7 +5092,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 12.1",
@@ -5121,7 +5109,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 12.4",
@@ -5138,7 +5126,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 12.6",
@@ -5155,7 +5143,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 12.8",
@@ -5171,7 +5159,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 12.10",
@@ -5188,7 +5176,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 13.2",
@@ -5205,7 +5193,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 14.1 and 15.1",
@@ -5223,7 +5211,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 16.4",
@@ -5240,7 +5228,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 16.5",
@@ -5257,7 +5245,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 16.7",
@@ -5274,7 +5262,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 16.8",
@@ -5291,7 +5279,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 16.9",
@@ -5308,7 +5296,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 17.1.1 and 17.2",
@@ -5325,7 +5313,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 18.6",
@@ -5342,7 +5330,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 19.1",
@@ -5359,7 +5347,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 20.2",
@@ -5376,7 +5364,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 20.4",
@@ -5393,7 +5381,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 22.1",
@@ -5410,7 +5398,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 24.1",
@@ -5427,7 +5415,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 25.1",
@@ -5444,7 +5432,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 26.1",
@@ -5461,7 +5449,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 27.1",
@@ -5478,7 +5466,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 28.1",
@@ -5495,7 +5483,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Corporate Governance 2018",
+    "Legislation Name ": "Nigerian Code of Corporate Governance 2018",
     "Act URL": "https://drive.google.com/file/d/1_uOzdXFOqexptBQDfDudAvNoIYPjAO27/view",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Principle 28.8",
@@ -5513,7 +5501,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No. 3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 30",
@@ -5530,7 +5518,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 43",
@@ -5547,7 +5535,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 44",
@@ -5564,7 +5552,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No 3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 47",
@@ -5581,7 +5569,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 51",
@@ -5598,7 +5586,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 74",
@@ -5615,7 +5603,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 109",
@@ -5632,7 +5620,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section  110",
@@ -5649,7 +5637,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 111",
@@ -5666,7 +5654,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act",
+    "Legislation Name ": "Companies and Allied Matters Act",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 112",
@@ -5683,7 +5671,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 122",
@@ -5700,7 +5688,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 124",
@@ -5716,7 +5704,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 127",
@@ -5733,7 +5721,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 128",
@@ -5750,7 +5738,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 131",
@@ -5767,7 +5755,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 148",
@@ -5784,7 +5772,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 149",
@@ -5801,7 +5789,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 154",
@@ -5818,7 +5806,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 154",
@@ -5835,7 +5823,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 171",
@@ -5852,7 +5840,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 175",
@@ -5869,7 +5857,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 216",
@@ -5886,7 +5874,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 218",
@@ -5903,7 +5891,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 220-221",
@@ -5920,7 +5908,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 222",
@@ -5937,7 +5925,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 224",
@@ -5954,7 +5942,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 237 (1)",
@@ -5971,7 +5959,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 240",
@@ -5988,7 +5976,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 241",
@@ -6005,7 +5993,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No4",
-    "Legislation Name": "Companies and Allied Matters Act, 2021",
+    "Legislation Name ": "Companies and Allied Matters Act, 2021",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 243 & 245",
@@ -6022,7 +6010,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2021",
+    "Legislation Name ": "Companies and Allied Matters Act, 2021",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 243 & 245",
@@ -6039,7 +6027,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 256",
@@ -6056,7 +6044,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 257",
@@ -6073,7 +6061,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 262",
@@ -6090,7 +6078,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 265(6)",
@@ -6107,7 +6095,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 266",
@@ -6124,7 +6112,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 267",
@@ -6141,7 +6129,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 275",
@@ -6157,7 +6145,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 301",
@@ -6174,7 +6162,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 318",
@@ -6191,7 +6179,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 320",
@@ -6208,7 +6196,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 321",
@@ -6225,7 +6213,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 330",
@@ -6241,7 +6229,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 337 & 339",
@@ -6258,7 +6246,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 355 &356",
@@ -6274,7 +6262,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 374-376",
@@ -6291,7 +6279,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 377",
@@ -6307,7 +6295,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 379",
@@ -6324,7 +6312,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 385",
@@ -6340,7 +6328,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "corporate Affairs Commission",
     Section: "Section 388",
@@ -6357,7 +6345,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 398",
@@ -6374,7 +6362,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 404(3)",
@@ -6391,7 +6379,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 417",
@@ -6408,7 +6396,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 425 (3)",
@@ -6425,7 +6413,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 429",
@@ -6442,7 +6430,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 457",
@@ -6459,7 +6447,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 550",
@@ -6475,7 +6463,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 583",
@@ -6492,7 +6480,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 621",
@@ -6509,7 +6497,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 728",
@@ -6526,7 +6514,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No3",
-    "Legislation Name": "Companies and Allied Matters Act, 2020",
+    "Legislation Name ": "Companies and Allied Matters Act, 2020",
     "Act URL": "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf",
     Regulator: "Corporate Affairs Commission",
     Section: "Section 729",
@@ -6543,7 +6531,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2017",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2017",
     "Act URL": "N/A",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 13.19",
@@ -6560,7 +6548,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2018",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2018",
     "Act URL": "N/A",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 17.15c",
@@ -6577,7 +6565,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2019",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2019",
     "Act URL": "N/A",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 17.15c",
@@ -6594,7 +6582,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2018",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2018",
     "Act URL": "N/A",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 17.17",
@@ -6612,7 +6600,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2019",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2019",
     "Act URL": "",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 17.8",
@@ -6629,7 +6617,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2019",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2019",
     "Act URL": "Notification of Effective Dates of Rules of The Exchange - Release Calen....pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Circular of 10th July 2020",
@@ -6647,7 +6635,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2020",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2020",
     "Act URL": "The NSE RuleBook 2015.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 17b",
@@ -6664,7 +6652,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2021",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2021",
     "Act URL": "The NSE RuleBook 2015.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 17.22",
@@ -6681,7 +6669,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "The NSE RuleBook 2015.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 17.23(b)",
@@ -6698,7 +6686,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "The NSE RuleBook 2015.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 18.2(C2)",
@@ -6715,7 +6703,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "NGX Amendments to Chapter 19 Issuers Rules - Board and General Meeting R....pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 19.2",
@@ -6732,7 +6720,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "NGX Amendments to Chapter 19 Issuers Rules - Board and General Meeting R....pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 19.2",
@@ -6749,7 +6737,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2016",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2016",
     "Act URL": "NGX Amendments to Chapter 19 Issuers Rules - Board and General Meeting R....pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Circular of 25th October 2021",
@@ -6766,7 +6754,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2017",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2017",
     "Act URL": "NGX Amendments to Chapter 19 Issuers Rules - Board and General Meeting R....pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Circular of 25th October 2021",
@@ -6783,7 +6771,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "NGX Amendments to Chapter 19 Issuers Rules - Board and General Meeting R....pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 19.16 ( c)",
@@ -6801,7 +6789,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "The NSE RuleBook 2015.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 19.18",
@@ -6819,7 +6807,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "1812119_Circular on Sustainability Disclosure Guidelines.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Circular of 20 December, 2018",
@@ -6836,7 +6824,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "Circular on the Submission of Fourth Quarter Financial Statements.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Circular of 21 January, 2022",
@@ -6854,7 +6842,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "The NSE RuleBook 2015.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Appendix iii(2)",
@@ -6871,7 +6859,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2015",
     "Act URL": "The NSE RuleBook 2015.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 17.20",
@@ -6888,7 +6876,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2016",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2016",
     "Act URL": "Circular on the Reporting of the Nigerian Code of Corporate Governance (....pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Circular of 28th May 2020",
@@ -6905,7 +6893,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Rule book of the Exchange , Amendment to issuer's Rules 2016",
+    "Legislation Name ": "Rule book of the Exchange , Amendment to issuer's Rules 2016",
     "Act URL": "The NSE RuleBook 2015.pdf",
     Regulator: "Nigerian Exchange Group",
     Section: "Rule 12.4",
@@ -6922,7 +6910,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap E7A",
-    "Legislation Name": "Employees'Compensation Act",
+    "Legislation Name ": "Employees'Compensation Act",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/87608/99962/F1395190663/NGA87608.pdf",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
@@ -6940,7 +6928,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap E7A",
-    "Legislation Name": "Employees'Compensation Act",
+    "Legislation Name ": "Employees'Compensation Act",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/87608/99962/F1395190663/NGA87608.pdf",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
@@ -6958,7 +6946,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap E7A",
-    "Legislation Name": "Employees'Compensation Act",
+    "Legislation Name ": "Employees'Compensation Act",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/87608/99962/F1395190663/NGA87608.pdf",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
@@ -6976,7 +6964,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap E7A",
-    "Legislation Name": "Employees'Compensation Act",
+    "Legislation Name ": "Employees'Compensation Act",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/87608/99962/F1395190663/NGA87608.pdf",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
@@ -6994,7 +6982,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap E7A",
-    "Legislation Name": "Employees'Compensation Act",
+    "Legislation Name ": "Employees'Compensation Act",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/87608/99962/F1395190663/NGA87608.pdf",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
@@ -7012,7 +7000,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap E7A",
-    "Legislation Name": "Employees'Compensation Act",
+    "Legislation Name ": "Employees'Compensation Act",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/87608/99962/F1395190663/NGA87608.pdf",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
@@ -7030,7 +7018,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap E7A",
-    "Legislation Name": "Employees'Compensation Act",
+    "Legislation Name ": "Employees'Compensation Act",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/87608/99962/F1395190663/NGA87608.pdf",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
@@ -7048,7 +7036,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap E7A",
-    "Legislation Name": "Employees'Compensation Act",
+    "Legislation Name ": "Employees'Compensation Act",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/87608/99962/F1395190663/NGA87608.pdf",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
@@ -7066,7 +7054,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap E7A",
-    "Legislation Name": "Employees'Compensation Act",
+    "Legislation Name ": "Employees'Compensation Act",
     "Act URL":
       "https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/87608/99962/F1395190663/NGA87608.pdf",
     Regulator: "Nigerian Social Insurance Trust Fund Management Board",
@@ -7084,7 +7072,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "Abuja Environmental Protection Board Act 1997 Abuja Environmental Protection Board",
     "Act URL": "",
     Regulator: "Abuja Environmental Protection Board",
@@ -7102,7 +7090,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Food And Drug Act 1976",
+    "Legislation Name ": "Food And Drug Act 1976",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F32.pdf",
     Regulator: "Minister of Health",
     Section: "Section 7",
@@ -7119,7 +7107,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCT High Court Civil Procedure Rules 2018",
+    "Legislation Name ": "FCT High Court Civil Procedure Rules 2018",
     "Act URL":
       "https://olumidebabalolalp.com/wpcontent/uploads/2021/01/fct-high-Courtcivil-procedure-rules-2018.pdfhttps://olumidebabalolalp.com/wpcontent/uploads/2021/01/fct-high-Courtcivil-procedure-rules-2018.pdf",
     Regulator: "High court of the FCT",
@@ -7136,7 +7124,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Cap 515",
-    "Legislation Name": "Land Registration Act 1925",
+    "Legislation Name ": "Land Registration Act 1925",
     "Act URL": "https://laws.lawnigeria.com/2018/03/01/abuja-fct",
     Regulator: "Office of the Land Registry",
     Section: "Section 6 & 7",
@@ -7153,7 +7141,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Capital Territory Abuja Area Courts Act 2021",
+    "Legislation Name ": "Federal Capital Territory Abuja Area Courts Act 2021",
     "Act URL": "https://fctirs.gov.ng/wp-content/uploads/FCT-IRS-Act-2015.pdf",
     Regulator: "FEDERAL CAPITAL TERRITORY INTERNALREVENUE SERVICE",
     Section: "Section 24",
@@ -7170,7 +7158,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Capital Territory Abuja Area Courts Act 2022",
+    "Legislation Name ": "Federal Capital Territory Abuja Area Courts Act 2022",
     "Act URL": "https://fctirs.gov.ng/wp-content/uploads/FCT-IRS-Act-2015.pdf",
     Regulator: "FEDERAL CAPITAL TERRITORY INTERNALREVENUE SERVICE",
     Section: "Section 28",
@@ -7187,7 +7175,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Capital Territory Abuja Area Courts Act 2023",
+    "Legislation Name ": "Federal Capital Territory Abuja Area Courts Act 2023",
     "Act URL": "https://fctirs.gov.ng/wp-content/uploads/FCT-IRS-Act-2015.pdf",
     Regulator: "FEDERAL CAPITAL TERRITORY INTERNALREVENUE SERVICE",
     Section: "section 31",
@@ -7204,7 +7192,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Capital Territory Abuja Area Courts Act 2024",
+    "Legislation Name ": "Federal Capital Territory Abuja Area Courts Act 2024",
     "Act URL": "https://fctirs.gov.ng/wp-content/uploads/FCT-IRS-Act-2015.pdf",
     Regulator: "FEDERAL CAPITAL TERRITORY INTERNALREVENUE SERVICE",
     Section: "section 31(3)",
@@ -7221,7 +7209,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Capital Territory Abuja Area Courts Act 2025",
+    "Legislation Name ": "Federal Capital Territory Abuja Area Courts Act 2025",
     "Act URL": "https://fctirs.gov.ng/wp-content/uploads/FCT-IRS-Act-2015.pdf",
     Regulator: "FEDERAL CAPITAL TERRITORY INTERNALREVENUE SERVICE",
     Section: "section 35",
@@ -7237,7 +7225,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Capital Territory Customary Court Act, 2007",
+    "Legislation Name ": "Federal Capital Territory Customary Court Act, 2007",
     "Act URL":
       "https://lawsofnigeria.placng.org/laws/FEDERAL%20CAPITAL%20TERRITORY%20CUSTOMARY%20COURT.pdf",
     Regulator: "Customary Courts",
@@ -7254,7 +7242,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Capital Territory Customary Court Act, 2008",
+    "Legislation Name ": "Federal Capital Territory Customary Court Act, 2008",
     "Act URL":
       "https://lawsofnigeria.placng.org/laws/FEDERAL%20CAPITAL%20TERRITORY%20CUSTOMARY%20COURT.pdf",
     Regulator: "Customary Courts",
@@ -7271,7 +7259,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Capital Territory Customary Court Act, 2009",
+    "Legislation Name ": "Federal Capital Territory Customary Court Act, 2009",
     "Act URL":
       "https://lawsofnigeria.placng.org/laws/FEDERAL%20CAPITAL%20TERRITORY%20CUSTOMARY%20COURT.pdf",
     Regulator: "Customary Courts",
@@ -7288,7 +7276,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Capital Territory Customary Court Act, 2010",
+    "Legislation Name ": "Federal Capital Territory Customary Court Act, 2010",
     "Act URL":
       "https://lawsofnigeria.placng.org/laws/FEDERAL%20CAPITAL%20TERRITORY%20CUSTOMARY%20COURT.pdf",
     Regulator: "Customary Courts",
@@ -7305,7 +7293,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Abuja Geographic Information Systems Agency Act",
+    "Legislation Name ": "Abuja Geographic Information Systems Agency Act",
     "Act URL": "",
     Regulator: "Abuja Geographic Information Systems Agency(AGIS)",
     Section: "Section 16",
@@ -7321,7 +7309,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Financial Reporting Council of Nigeria Act",
+    "Legislation Name ": "Financial Reporting Council of Nigeria Act",
     "Act URL": "https://taxaide.com.ng/FINANCIA\nL-REPORTING-ACT.pdf",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Section 33 (a,b and c)",
@@ -7338,7 +7326,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Financial Reporting Council of Nigeria Act",
+    "Legislation Name ": "Financial Reporting Council of Nigeria Act",
     "Act URL": "https://taxaide.com.ng/FINANCIA\nL-REPORTING-ACT.pdf",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "section 57 and 58(3)",
@@ -7355,7 +7343,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Financial Reporting Council of Nigeria Act",
+    "Legislation Name ": "Financial Reporting Council of Nigeria Act",
     "Act URL": "https://taxaide.com.ng/FINANCIA\nL-REPORTING-ACT.pdf",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "Section 90",
@@ -7373,7 +7361,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Financial Reporting Council of Nigeria Act",
+    "Legislation Name ": "Financial Reporting Council of Nigeria Act",
     "Act URL": "https://taxaide.com.ng/FINANCIA\nL-REPORTING-ACT.pdf",
     Regulator: "Financial Reporting Council of Nigeria",
     Section: "section 96",
@@ -7390,7 +7378,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 54 (6)",
@@ -7407,7 +7395,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 56 (1) & (2)",
@@ -7424,7 +7412,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 57  (2) & (3)",
@@ -7441,7 +7429,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 60",
@@ -7458,7 +7446,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 64",
@@ -7475,7 +7463,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 67 (1a)",
@@ -7492,7 +7480,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 169(1) ",
@@ -7509,7 +7497,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 54(1)",
@@ -7526,7 +7514,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 91(1a) ",
@@ -7543,7 +7531,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "section 92",
@@ -7560,7 +7548,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "section 101",
@@ -7577,7 +7565,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 135",
@@ -7594,7 +7582,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 162",
@@ -7612,7 +7600,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 189 (1)",
@@ -7629,7 +7617,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "section 195",
@@ -7646,7 +7634,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 234(1)",
@@ -7663,7 +7651,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 236",
@@ -7681,7 +7669,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Investment and Securities Act",
+    "Legislation Name ": "Investment and Securities Act",
     "Act URL": "https://sec.gov.ng",
     Regulator: "Securities and Exchange Commission",
     Section: "section 243",
@@ -7698,7 +7686,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation",
+    "Legislation Name ": "Nigeria Data Protection Regulation",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "Nationl Information Technology Development Agency",
     Section: "Section 2.5",
@@ -7715,7 +7703,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation",
+    "Legislation Name ": "Nigeria Data Protection Regulation",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "Nationl Information Technology Development Agency",
     Section: "section 2.3(2)",
@@ -7732,7 +7720,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation",
+    "Legislation Name ": "Nigeria Data Protection Regulation",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "Nationl Information Technology Development Agency",
     Section: "section 2.7",
@@ -7749,7 +7737,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation",
+    "Legislation Name ": "Nigeria Data Protection Regulation",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "Nationl Information Technology Development Agency",
     Section: "Section 4.1(1) ",
@@ -7766,7 +7754,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation",
+    "Legislation Name ": "Nigeria Data Protection Regulation",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "Nationl Information Technology Development Agency",
     Section: "Section 4.1(6)",
@@ -7783,7 +7771,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation",
+    "Legislation Name ": "Nigeria Data Protection Regulation",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "Nationl Information Technology Development Agency",
     Section: "section 4.1(7)",
@@ -7800,7 +7788,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Inland Revenue Service Act (Income Tax Regulations)",
+    "Legislation Name ": "Federal Inland Revenue Service Act (Income Tax Regulations)",
     "Act URL": "https://www.firs.gov.ng",
     Regulator: "Federal Inland Revenue Servic",
     Section: "Setion 40",
@@ -7817,7 +7805,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Inland Revenue Service Act (Income Tax Regulations)",
+    "Legislation Name ": "Federal Inland Revenue Service Act (Income Tax Regulations)",
     "Act URL": "https://www.firs.gov.ng",
     Regulator: "Federal Inland Revenue Service",
     Section: "Regulation 3",
@@ -7834,7 +7822,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Inland Revenue Service Act (Income Tax Regulations)",
+    "Legislation Name ": "Federal Inland Revenue Service Act (Income Tax Regulations)",
     "Act URL": "https://www.firs.gov.ng",
     Regulator: "Federal Inland Revenue Service",
     Section: "Regulation 4 (1) & (3)",
@@ -7851,7 +7839,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Federal Inland Revenue Service Act (Income Tax Regulations)",
+    "Legislation Name ": "Federal Inland Revenue Service Act (Income Tax Regulations)",
     "Act URL": "https://www.firs.gov.ng",
     Regulator: "Federal Inland Revenue Service",
     Section: "Regulations 6 (1&2)",
@@ -7868,7 +7856,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 6 (3)",
@@ -7885,7 +7873,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 9 (2&3)",
@@ -7903,7 +7891,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 19 (2,3 & Compliance officers",
@@ -7920,7 +7908,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 23",
@@ -7937,7 +7925,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 26 ",
@@ -7954,7 +7942,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 27",
@@ -7971,7 +7959,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 27(4)",
@@ -7988,7 +7976,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 30",
@@ -8005,7 +7993,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 32",
@@ -8022,7 +8010,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 35 (1&2)",
@@ -8040,7 +8028,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 38",
@@ -8058,7 +8046,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 39(1)",
@@ -8075,7 +8063,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 40",
@@ -8092,7 +8080,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "section 41",
@@ -8109,7 +8097,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "section 41(4)",
@@ -8126,7 +8114,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 42 (1&3)",
@@ -8144,7 +8132,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 42(4)",
@@ -8161,7 +8149,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 44(1) ",
@@ -8179,7 +8167,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section  91",
@@ -8196,7 +8184,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 109",
@@ -8213,7 +8201,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 187",
@@ -8230,7 +8218,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 188",
@@ -8247,7 +8235,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 188(2)",
@@ -8264,7 +8252,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 206 (2) & (4)",
@@ -8281,7 +8269,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "section 209(1)",
@@ -8299,7 +8287,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 265",
@@ -8317,7 +8305,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 265",
@@ -8334,7 +8322,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 279(3)",
@@ -8351,7 +8339,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 285",
@@ -8369,7 +8357,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 308",
@@ -8386,7 +8374,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 383",
@@ -8403,7 +8391,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 397",
@@ -8420,7 +8408,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/circular-to-all-regulated-entities-and-the-market/",
     Regulator: "Securities and Exchange Commission",
     Section: "Circular of 31st March, 2020",
@@ -8437,7 +8425,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Securities and Exchange Commission Rules and Regulation",
+    "Legislation Name ": "Securities and Exchange Commission Rules and Regulation",
     "Act URL": "https://sec.gov.ng/sec-nigerias-consolidated-rules-and-regulations-as-at-2013/",
     Regulator: "Securities and Exchange Commission",
     Section: "Section 401(a)",
@@ -8454,7 +8442,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Cocoa and Cocoa Products Regulations ",
+    "Legislation Name ": "Cocoa and Cocoa Products Regulations ",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Regulation 4",
@@ -8471,7 +8459,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Cocoa and Cocoa Products Regulations ",
+    "Legislation Name ": "Cocoa and Cocoa Products Regulations ",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Regulation 5",
@@ -8488,7 +8476,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Cocoa and Cocoa Products Regulations ",
+    "Legislation Name ": "Cocoa and Cocoa Products Regulations ",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Regulation 6",
@@ -8505,7 +8493,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Cosmetic Product Labelling Regulations",
+    "Legislation Name ": "Cosmetic Product Labelling Regulations",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Regulation 3",
@@ -8521,7 +8509,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Cosmetic Product Labelling Regulations",
+    "Legislation Name ": "Cosmetic Product Labelling Regulations",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Regulation 5",
@@ -8538,7 +8526,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Drug and Related Products Advertisement Regulations 2019",
+    "Legislation Name ": "Drug and Related Products Advertisement Regulations 2019",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Section 9",
@@ -8555,7 +8543,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "DRUG AND RELATED PRODUCTS ADVERTISEMENT REGULATIONS 2020",
+    "Legislation Name ": "DRUG AND RELATED PRODUCTS ADVERTISEMENT REGULATIONS 2020",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Section 10",
@@ -8572,7 +8560,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "DRUG AND RELATED PRODUCTS ADVERTISEMENT REGULATIONS 2021",
+    "Legislation Name ": "DRUG AND RELATED PRODUCTS ADVERTISEMENT REGULATIONS 2021",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Section 18",
@@ -8589,7 +8577,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Drug and Reated Product Labelling Regulations",
+    "Legislation Name ": "Drug and Reated Product Labelling Regulations",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Regulations 1-15 ",
@@ -8606,7 +8594,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Drug and Reated Product Labelling Regulations",
+    "Legislation Name ": "Drug and Reated Product Labelling Regulations",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "regulation 18",
@@ -8623,7 +8611,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Food Additives Regulations",
+    "Legislation Name ": "Food Additives Regulations",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Regulation 3(2)",
@@ -8640,7 +8628,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Food Additives Regulations",
+    "Legislation Name ": "Food Additives Regulations",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Regulations 4-12",
@@ -8657,7 +8645,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Non-Nutritive Sweetners in Food Products Regulations 2019",
+    "Legislation Name ": "Non-Nutritive Sweetners in Food Products Regulations 2019",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Section 4",
@@ -8675,7 +8663,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Non-Nutritive Sweetners in Drug Products Regulations",
+    "Legislation Name ": "Non-Nutritive Sweetners in Drug Products Regulations",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Section 3",
@@ -8692,7 +8680,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Food Fortification Act",
+    "Legislation Name ": "Food Fortification Act",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
     Section: "Sections 3-8",
@@ -8709,7 +8697,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice for Food and Food Products Regulations",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
@@ -8727,7 +8715,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice for Food and Food Products Regulations",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
@@ -8745,7 +8733,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "Guidelines for Inspection and Requirements for Pre-Packaged Food Manufacturing/Packaging Facilities in Nigeria",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
@@ -8763,7 +8751,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "Guidelines for Inspection and Requirements for Pre-Packaged Food Manufacturing/Packaging Facilities in Nigeria",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
@@ -8781,7 +8769,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "Guidelines for Inspection and Requirements for Pre-Packaged Food Manufacturing/Packaging Facilities in Nigeria",
     "Act URL": "https://www.Nafdac.gov.ng/",
     Regulator: "NAFDAC",
@@ -8799,7 +8787,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No. 16 1987",
-    "Legislation Name": "Factories Act",
+    "Legislation Name ": "Factories Act",
     "Act URL": "https://www.ilo.org/dyn/natlex/docs/WEBTEXT/47979/65089/E87NGA01.htm",
     Regulator: "Director of Factories",
     Section: "Section 51 (4)",
@@ -8816,7 +8804,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "Act No. 16 1988",
-    "Legislation Name": "Factories Act",
+    "Legislation Name ": "Factories Act",
     "Act URL": "https://www.ilo.org/dyn/natlex/docs/WEBTEXT/47979/65089/E87NGA01.htm",
     Regulator: "Director of Factories",
     Section: "Section 53",
@@ -8833,7 +8821,8 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
+    "Legislation Name ":
+      "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
     "Act URL": "https://www.techquery.ng/wp-content/uploads/2019/09/vettingGuidelines.pdf ",
     Regulator: "APCON",
     Section: "Section 5",
@@ -8850,7 +8839,8 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
+    "Legislation Name ":
+      "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
     "Act URL": "https://www.techquery.ng/wp-content/uploads/2019/09/vettingGuidelines.pdf ",
     Regulator: "APCON",
     Section: "Section 6.5 (a)",
@@ -8867,7 +8857,8 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
+    "Legislation Name ":
+      "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
     "Act URL": "https://www.techquery.ng/wp-content/uploads/2019/09/vettingGuidelines.pdf ",
     Regulator: "APCON",
     Section: "Section 6.5 (b)",
@@ -8884,7 +8875,8 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
+    "Legislation Name ":
+      "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
     "Act URL": "https://www.techquery.ng/wp-content/uploads/2019/09/vettingGuidelines.pdf ",
     Regulator: "APCON",
     Section: "Section 6.5 (c)",
@@ -8901,7 +8893,8 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
+    "Legislation Name ":
+      "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
     "Act URL": "https://www.techquery.ng/wp-content/uploads/2019/09/vettingGuidelines.pdf ",
     Regulator: "APCON",
     Section: "Section 9",
@@ -8918,7 +8911,8 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
+    "Legislation Name ":
+      "Advertisement Practitioners Council of Nigeria (APCON) Vetting Guidelines",
     "Act URL": "https://www.techquery.ng/wp-content/uploads/2019/09/vettingGuidelines.pdf ",
     Regulator: "APCON",
     Section: "Section 14",
@@ -8935,7 +8929,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
+    "Legislation Name ": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
     "Act URL":
       "https://gazettes.africa/archive/ng/2012/ng-government-gazette-dated-2012-12-04-no-106.pdf ",
     Regulator: "APCON",
@@ -8953,7 +8947,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
+    "Legislation Name ": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
     "Act URL":
       "https://gazettes.africa/archive/ng/2012/ng-government-gazette-dated-2012-12-04-no-106.pdf ",
     Regulator: "APCON",
@@ -8971,7 +8965,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
+    "Legislation Name ": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
     "Act URL":
       "https://gazettes.africa/archive/ng/2012/ng-government-gazette-dated-2012-12-04-no-106.pdf ",
     Regulator: "APCON",
@@ -8989,7 +8983,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
+    "Legislation Name ": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
     "Act URL":
       "https://gazettes.africa/archive/ng/2012/ng-government-gazette-dated-2012-12-04-no-106.pdf ",
     Regulator: "APCON ",
@@ -9007,7 +9001,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
+    "Legislation Name ": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
     "Act URL":
       "https://gazettes.africa/archive/ng/2012/ng-government-gazette-dated-2012-12-04-no-106.pdf ",
     Regulator: "APCON",
@@ -9025,7 +9019,7 @@ const legalRegulatory = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
+    "Legislation Name ": "Nigerian Code of Advertising Practice and Sales Promotion (5th Edition)",
     "Act URL":
       "https://gazettes.africa/archive/ng/2012/ng-government-gazette-dated-2012-12-04-no-106.pdf ",
     Regulator: "APCON",
@@ -9046,7 +9040,7 @@ const legalRegulatory = [
 const supplyChain = [
   {
     "Act No": "No. 55 1959",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 82(7)",
@@ -9064,7 +9058,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1960",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 83(1)",
@@ -9083,7 +9077,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1961",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 84",
@@ -9101,7 +9095,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1962",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 85",
@@ -9119,7 +9113,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1963",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 86(1)",
@@ -9137,7 +9131,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1964",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 86(3)",
@@ -9155,7 +9149,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1965",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 86(4)",
@@ -9173,7 +9167,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1966",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 87",
@@ -9191,7 +9185,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1967",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 88",
@@ -9209,7 +9203,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1968",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 90",
@@ -9227,7 +9221,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 1969",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigeria Customs Service",
     Section: "Section 91",
@@ -9245,7 +9239,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 36 1991",
-    "Legislation Name": "Import Prohibition Act [CI3 Laws of the Federation 2010]",
+    "Legislation Name ": "Import Prohibition Act [CI3 Laws of the Federation 2010]",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=200",
     Regulator: "Nigerian Customs Service",
     Section: "Sections 2 and 3",
@@ -9262,7 +9256,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 of 1970",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigerian Customs Service",
     Section: "Sections 12 and 15",
@@ -9280,7 +9274,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 of 1971",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigerian Customs Service",
     Section: "Sections 27 & 28",
@@ -9298,7 +9292,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 55 of 1972",
-    "Legislation Name": "Customs and Excise Management Act",
+    "Legislation Name ": "Customs and Excise Management Act",
     "Act URL": "https://nigeria.tradeportal.org/media/CEMA%20ACT.pdf",
     Regulator: "Nigerian Customs Service",
     Section: "Section 37(1)",
@@ -9316,7 +9310,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 4 of 1996",
-    "Legislation Name": "Customs, Excise Tariff, etc. (Consolidation) Act",
+    "Legislation Name ": "Customs, Excise Tariff, etc. (Consolidation) Act",
     "Act URL": "https://lawcarenigeria.com/wp-content/uploads/2019/09/C49.pdf",
     Regulator: "Nigerian Customs Service",
     Section: "Section 3",
@@ -9334,7 +9328,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Ministry of Finance Import Guidelines, Procedures and Documentation Requirements Under the Destination Inspection Scheme in Nigeria",
     "Act URL": "https://web2.customs.gov.ng/wp-content/uploads/2019/07/Import_Guidelines_2013.pdf",
     Regulator: "Minister of Finance",
@@ -9353,7 +9347,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Ministry of Finance Import Guidelines, Procedures and Documentation Requirements Under the Destination Inspection Scheme in Nigeria",
     "Act URL": "https://web2.customs.gov.ng/wp-content/uploads/2019/07/Import_Guidelines_2013.pdf",
     Regulator: "Minister of Finance",
@@ -9372,7 +9366,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Ministry of Finance Import Guidelines, Procedures and Documentation Requirements Under the Destination Inspection Scheme in Nigeria",
     "Act URL": "https://web2.customs.gov.ng/wp-content/uploads/2019/07/Import_Guidelines_2013.pdf",
     Regulator: "Minister of Finance",
@@ -9391,7 +9385,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Ministry of Finance Import Guidelines, Procedures and Documentation Requirements Under the Destination Inspection Scheme in Nigeria",
     "Act URL": "https://web2.customs.gov.ng/wp-content/uploads/2019/07/Import_Guidelines_2013.pdf",
     Regulator: "Minister of Finance",
@@ -9410,7 +9404,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Ministry of Finance Import Guidelines, Procedures and Documentation Requirements Under the Destination Inspection Scheme in Nigeria",
     "Act URL": "https://web2.customs.gov.ng/wp-content/uploads/2019/07/Import_Guidelines_2013.pdf",
     Regulator: "Minister of Finance",
@@ -9429,7 +9423,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Ministry of Finance Import Guidelines, Procedures and Documentation Requirements Under the Destination Inspection Scheme in Nigeria",
     "Act URL": "https://web2.customs.gov.ng/wp-content/uploads/2019/07/Import_Guidelines_2013.pdf",
     Regulator: "Minister of Finance",
@@ -9447,7 +9441,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations ",
+    "Legislation Name ": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/All_Regulations/Cosmetics-Products-Prohibition-of-Bleaching-Agents-Regulations-2019.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -9468,7 +9462,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Counterfeit and Fake Drugs and Unwholesome Processed Foods (Miscellaneous Provisions) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/COUNTERFEIT-AND-FAKE-DRUGS-AND-UNWHOLESOME-PROCESSED-FOODS-Cap.-C.34.pdf",
@@ -9488,7 +9482,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food and Drugs Act",
+    "Legislation Name ": "Food and Drugs Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-AND-DRUGS-ACT.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9507,7 +9501,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food and Drugs Act",
+    "Legislation Name ": "Food and Drugs Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-AND-DRUGS-ACT.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9526,7 +9520,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food, Drugs and Related Products (Registration, etc.) Act",
+    "Legislation Name ": "Food, Drugs and Related Products (Registration, etc.) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-DRUGS-AND-RELATED-PRODUCTS-REGISTRATION-ACT-Cap.F.33.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9545,7 +9539,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food, Drugs and Related Products (Registration, etc.) Act",
+    "Legislation Name ": "Food, Drugs and Related Products (Registration, etc.) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-DRUGS-AND-RELATED-PRODUCTS-REGISTRATION-ACT-Cap.F.33.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9564,7 +9558,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Counterfeit and Fake Drugs and Unwholesome Processed Foods (Miscellaneous Provisions) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/COUNTERFEIT-AND-FAKE-DRUGS-AND-UNWHOLESOME-PROCESSED-FOODS-Cap.-C.34.pdf",
@@ -9585,7 +9579,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Counterfeit and Fake Drugs and Unwholesome Processed Foods (Miscellaneous Provisions) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/COUNTERFEIT-AND-FAKE-DRUGS-AND-UNWHOLESOME-PROCESSED-FOODS-Cap.-C.34.pdf",
@@ -9605,7 +9599,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food and Drugs Act",
+    "Legislation Name ": "Food and Drugs Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-AND-DRUGS-ACT.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9624,7 +9618,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food and Drugs Act",
+    "Legislation Name ": "Food and Drugs Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-AND-DRUGS-ACT.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9644,7 +9638,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food and Drugs Act",
+    "Legislation Name ": "Food and Drugs Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-AND-DRUGS-ACT.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9664,7 +9658,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food and Drugs Act",
+    "Legislation Name ": "Food and Drugs Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-AND-DRUGS-ACT.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9683,7 +9677,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food and Drugs Act",
+    "Legislation Name ": "Food and Drugs Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-AND-DRUGS-ACT.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9703,7 +9697,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food and Drugs Act",
+    "Legislation Name ": "Food and Drugs Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-AND-DRUGS-ACT.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9722,7 +9716,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations",
+    "Legislation Name ": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/All_Regulations/Cosmetics-Products-Prohibition-of-Bleaching-Agents-Regulations-2019.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9741,7 +9735,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -9761,7 +9755,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -9781,7 +9775,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -9801,7 +9795,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -9821,7 +9815,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -9841,7 +9835,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -9861,7 +9855,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Non-Nutritive Sweeteners in Food Products Regulations",
+    "Legislation Name ": "Non-Nutritive Sweeteners in Food Products Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/NON-NUTRITIVE-SWEETENERS-IN-FOOD-PRODUCTS-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9880,7 +9874,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Non-Nutritive Sweeteners in Food Products Regulations",
+    "Legislation Name ": "Non-Nutritive Sweeteners in Food Products Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/NON-NUTRITIVE-SWEETENERS-IN-FOOD-PRODUCTS-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9899,7 +9893,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Counterfeit and Fake Drugs and Unwholesome Processed Foods (Miscellaneous Provisions) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/COUNTERFEIT-AND-FAKE-DRUGS-AND-UNWHOLESOME-PROCESSED-FOODS-Cap.-C.34.pdf",
@@ -9920,7 +9914,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Counterfeit and Fake Drugs and Unwholesome Processed Foods (Miscellaneous Provisions) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/COUNTERFEIT-AND-FAKE-DRUGS-AND-UNWHOLESOME-PROCESSED-FOODS-Cap.-C.34.pdf",
@@ -9940,7 +9934,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Agency for Food and Drug Administration and Control Act",
+    "Legislation Name ": "National Agency for Food and Drug Administration and Control Act",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drug Administration and Control",
     Section: "Section 24(2)",
@@ -9958,7 +9952,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Agency for Food and Drug Administration and Control Act",
+    "Legislation Name ": "National Agency for Food and Drug Administration and Control Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9977,7 +9971,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food, Drugs and Related Products (Registration, Etc.) Act",
+    "Legislation Name ": "Food, Drugs and Related Products (Registration, Etc.) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-DRUGS-AND-RELATED-PRODUCTS-REGISTRATION-ACT-Cap.F.33.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -9996,7 +9990,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
+    "Legislation Name ": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Food-Hygienic-Practices-Guidelines-NGFHP-Updated.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10015,7 +10009,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
+    "Legislation Name ": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Food-Hygienic-Practices-Guidelines-NGFHP-Updated.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10034,7 +10028,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
+    "Legislation Name ": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Food-Hygienic-Practices-Guidelines-NGFHP-Updated.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10053,7 +10047,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
+    "Legislation Name ": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Food-Hygienic-Practices-Guidelines-NGFHP-Updated.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10072,7 +10066,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
+    "Legislation Name ": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Food-Hygienic-Practices-Guidelines-NGFHP-Updated.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10091,7 +10085,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
+    "Legislation Name ": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Food-Hygienic-Practices-Guidelines-NGFHP-Updated.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10110,7 +10104,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
+    "Legislation Name ": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Food-Hygienic-Practices-Guidelines-NGFHP-Updated.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10129,7 +10123,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
+    "Legislation Name ": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Food-Hygienic-Practices-Guidelines-NGFHP-Updated.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10148,7 +10142,8 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2021",
+    "Legislation Name ":
+      "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/Updated_Drug_Guidelines/NAFDAC-GMP-GUIDELINES-FOR-COSMETICS-PRODUCTS-2021-DER-GDL-004-01.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10167,7 +10162,8 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2022",
+    "Legislation Name ":
+      "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2022",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/Updated_Drug_Guidelines/NAFDAC-GMP-GUIDELINES-FOR-COSMETICS-PRODUCTS-2021-DER-GDL-004-01.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10186,7 +10182,8 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2023",
+    "Legislation Name ":
+      "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2023",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/Updated_Drug_Guidelines/NAFDAC-GMP-GUIDELINES-FOR-COSMETICS-PRODUCTS-2021-DER-GDL-004-01.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10205,7 +10202,8 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2024",
+    "Legislation Name ":
+      "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2024",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/Updated_Drug_Guidelines/NAFDAC-GMP-GUIDELINES-FOR-COSMETICS-PRODUCTS-2021-DER-GDL-004-01.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10223,7 +10221,8 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2025",
+    "Legislation Name ":
+      "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2025",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/Updated_Drug_Guidelines/NAFDAC-GMP-GUIDELINES-FOR-COSMETICS-PRODUCTS-2021-DER-GDL-004-01.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10242,7 +10241,8 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2026",
+    "Legislation Name ":
+      "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2026",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/Updated_Drug_Guidelines/NAFDAC-GMP-GUIDELINES-FOR-COSMETICS-PRODUCTS-2021-DER-GDL-004-01.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10261,7 +10261,8 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2027",
+    "Legislation Name ":
+      "NAFDAC Good Manufacturing Practice Guidelines for Cosmetics Products 2027",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/Updated_Drug_Guidelines/NAFDAC-GMP-GUIDELINES-FOR-COSMETICS-PRODUCTS-2021-DER-GDL-004-01.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10280,7 +10281,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Cosmetic Products Labelling Regulations, 2021",
+    "Legislation Name ": "Cosmetic Products Labelling Regulations, 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETIC-PRODUCTS-LABELLING-REGULATION.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10299,7 +10300,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Cosmetic Products Labelling Regulations, 2022",
+    "Legislation Name ": "Cosmetic Products Labelling Regulations, 2022",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETIC-PRODUCTS-LABELLING-REGULATION.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10318,7 +10319,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Cosmetic Products Labelling Regulations, 2023",
+    "Legislation Name ": "Cosmetic Products Labelling Regulations, 2023",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETIC-PRODUCTS-LABELLING-REGULATION.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10337,7 +10338,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Cosmetic Products Labelling Regulations, 2024",
+    "Legislation Name ": "Cosmetic Products Labelling Regulations, 2024",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETIC-PRODUCTS-LABELLING-REGULATION.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -10356,7 +10357,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations ",
+    "Legislation Name ": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/All_Regulations/Cosmetics-Products-Prohibition-of-Bleaching-Agents-Regulations-2019.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10377,7 +10378,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations ",
+    "Legislation Name ": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/All_Regulations/Cosmetics-Products-Prohibition-of-Bleaching-Agents-Regulations-2019.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10397,7 +10398,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations ",
+    "Legislation Name ": "Cosmetic Products (Prohibition of Bleaching Agents) Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/All_Regulations/Cosmetics-Products-Prohibition-of-Bleaching-Agents-Regulations-2019.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10417,7 +10418,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10437,7 +10438,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10457,7 +10458,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10478,7 +10479,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10498,7 +10499,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10519,7 +10520,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10538,7 +10539,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.pencom.gov.ng/wp-content/uploads/2017/04/EXPOSURE-DRAFT-GUIDELINES-FOR-THE-ADMINISTRATION-OF-GRATUITY-BENEFITS.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10558,7 +10559,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10578,7 +10579,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10598,7 +10599,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10618,7 +10619,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Fortification Regulations",
+    "Legislation Name ": "Food Fortification Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-FORTIFICATION-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -10638,7 +10639,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10659,7 +10660,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10679,7 +10680,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10699,7 +10700,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10719,7 +10720,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10739,7 +10740,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10759,7 +10760,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10779,7 +10780,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10799,7 +10800,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10819,7 +10820,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10839,7 +10840,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10859,7 +10860,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -10879,7 +10880,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Guidelines for Inspection & Requirements for Pre-packaged Food Manufacturing/Packaging Facilities in Nigeria",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Guidelines-for-Inspection-of-Facilities-for-Manufacture-of-Food-Products.pdf",
@@ -10899,7 +10900,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Guidelines for Inspection & Requirements for Pre-packaged Food Manufacturing/Packaging Facilities in Nigeria",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Guidelines-for-Inspection-of-Facilities-for-Manufacture-of-Food-Products.pdf",
@@ -10920,7 +10921,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -10939,7 +10940,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -10958,7 +10959,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -10977,7 +10978,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -10996,7 +10997,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -11015,7 +11016,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -11034,7 +11035,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -11053,7 +11054,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -11072,7 +11073,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -11091,7 +11092,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -11110,7 +11111,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Products Registration Regulations 1996",
+    "Legislation Name ": "Food Products Registration Regulations 1996",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 1",
@@ -11129,7 +11130,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food Products Registration Regulations 1996",
+    "Legislation Name ": "Food Products Registration Regulations 1996",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 6",
@@ -11148,7 +11149,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 1",
@@ -11166,7 +11167,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 2",
@@ -11185,7 +11186,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 3",
@@ -11204,7 +11205,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 4",
@@ -11223,7 +11224,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 5",
@@ -11242,7 +11243,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 6",
@@ -11261,7 +11262,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 6",
@@ -11280,7 +11281,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 8",
@@ -11299,7 +11300,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 9",
@@ -11318,7 +11319,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 10",
@@ -11336,7 +11337,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 11",
@@ -11354,7 +11355,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 12",
@@ -11372,7 +11373,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 13",
@@ -11391,7 +11392,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Pre-Packaged Food (Labelling) Regulations",
+    "Legislation Name ": "Pre-Packaged Food (Labelling) Regulations",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 15",
@@ -11409,7 +11410,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Milk and Dairy Products Regulations 2021",
+    "Legislation Name ": "Milk and Dairy Products Regulations 2021",
     "Act URL": "MILK-AND-DAIRY-PRODUCTS-REGULATIONS-2021.pdf (nafdac.gov.ng)",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R.2",
@@ -11427,7 +11428,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Milk and Dairy Products Regulations 2021",
+    "Legislation Name ": "Milk and Dairy Products Regulations 2021",
     "Act URL": "MILK-AND-DAIRY-PRODUCTS-REGULATIONS-2021.pdf (nafdac.gov.ng)",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 3(1)",
@@ -11445,7 +11446,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Milk and Dairy Products Regulations 2021",
+    "Legislation Name ": "Milk and Dairy Products Regulations 2021",
     "Act URL": "MILK-AND-DAIRY-PRODUCTS-REGULATIONS-2021.pdf (nafdac.gov.ng)",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 3(3) ",
@@ -11463,7 +11464,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Milk and Dairy Products Regulations 2021",
+    "Legislation Name ": "Milk and Dairy Products Regulations 2021",
     "Act URL": "MILK-AND-DAIRY-PRODUCTS-REGULATIONS-2021.pdf (nafdac.gov.ng)",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 3(6)",
@@ -11481,7 +11482,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Milk and Dairy Products Regulations 2021",
+    "Legislation Name ": "Milk and Dairy Products Regulations 2021",
     "Act URL": "MILK-AND-DAIRY-PRODUCTS-REGULATIONS-2021.pdf (nafdac.gov.ng)",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 3(8) ",
@@ -11499,7 +11500,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Milk and Dairy Products Regulations 2021",
+    "Legislation Name ": "Milk and Dairy Products Regulations 2021",
     "Act URL": "MILK-AND-DAIRY-PRODUCTS-REGULATIONS-2021.pdf (nafdac.gov.ng)",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 4",
@@ -11517,7 +11518,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Milk and Dairy Products Regulations 2021",
+    "Legislation Name ": "Milk and Dairy Products Regulations 2021",
     "Act URL": "MILK-AND-DAIRY-PRODUCTS-REGULATIONS-2021.pdf (nafdac.gov.ng)",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 5",
@@ -11535,7 +11536,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Milk and Dairy Products Regulations 2021",
+    "Legislation Name ": "Milk and Dairy Products Regulations 2021",
     "Act URL": "MILK-AND-DAIRY-PRODUCTS-REGULATIONS-2021.pdf (nafdac.gov.ng)",
     Regulator: "National Agency For Food and Drugs Administration and Control",
     Section: "R. 3(4)",
@@ -11553,7 +11554,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Non-Nutritive Sweeteners in Food Products Regulations ",
+    "Legislation Name ": "Non-Nutritive Sweeteners in Food Products Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/NON-NUTRITIVE-SWEETENERS-IN-FOOD-PRODUCTS-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11574,7 +11575,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Non-Nutritive Sweeteners in Food Products Regulations ",
+    "Legislation Name ": "Non-Nutritive Sweeteners in Food Products Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/NON-NUTRITIVE-SWEETENERS-IN-FOOD-PRODUCTS-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11594,7 +11595,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Non-Nutritive Sweeteners in Food Products Regulations ",
+    "Legislation Name ": "Non-Nutritive Sweeteners in Food Products Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/NON-NUTRITIVE-SWEETENERS-IN-FOOD-PRODUCTS-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11614,7 +11615,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Standards Organisation of Nigeria Act ",
+    "Legislation Name ": "Standards Organisation of Nigeria Act ",
     "Act URL": "https://nigeria.tradeportal.org/media/SON-ACT-2015.pdf",
     Regulator: "Standards Organisation of Nigeria (SON)",
     Section: "Sections 25(1) and 26.",
@@ -11632,7 +11633,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Standards Organisation of Nigeria Act ",
+    "Legislation Name ": "Standards Organisation of Nigeria Act ",
     "Act URL": "https://nigeria.tradeportal.org/media/SON-ACT-2015.pdf",
     Regulator: "Standards Organisation of Nigeria (SON)",
     Section: "Sections 31, 32, 33 and 47",
@@ -11649,7 +11650,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Mandatory Conformity Assessment Programme (MANCAP)",
+    "Legislation Name ": "Mandatory Conformity Assessment Programme (MANCAP)",
     "Act URL": "https://completefmc.com/2017/04/son-mandatory-conformity-assessment_17.html",
     Regulator: "Standards Organisation of Nigeria (SON)",
     Section: "None. ",
@@ -11667,7 +11668,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Mandatory Conformity Assessment Programme (MANCAP)",
+    "Legislation Name ": "Mandatory Conformity Assessment Programme (MANCAP)",
     "Act URL": "https://completefmc.com/2017/04/son-mandatory-conformity-assessment_17.html",
     Regulator: "Standards Organisation of Nigeria (SON)",
     Section: "None. ",
@@ -11685,7 +11686,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Mandatory Conformity Assessment Programme (MANCAP)",
+    "Legislation Name ": "Mandatory Conformity Assessment Programme (MANCAP)",
     "Act URL": "https://completefmc.com/2017/04/son-mandatory-conformity-assessment_17.html",
     Regulator: "Standards Organisation of Nigeria (SON)",
     Section: "None. ",
@@ -11703,7 +11704,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Mandatory Conformity Assessment Programme (MANCAP)",
+    "Legislation Name ": "Mandatory Conformity Assessment Programme (MANCAP)",
     "Act URL": "https://completefmc.com/2017/04/son-mandatory-conformity-assessment_17.html",
     Regulator: "Standards Organisation of Nigeria (SON)",
     Section: "None. ",
@@ -11721,7 +11722,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Standards Organization of Nigeria Conformity Assessment Programme (SONCAP) ",
     "Act URL": "https://son.gov.ng/soncap_service",
     Regulator: "Standards Organisation of Nigeria (SON)",
@@ -11740,7 +11741,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act ",
+    "Legislation Name ": "Sale of Goods Act ",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "State High Court or any forum for dispute resolution ",
     Section: "Section 13 ",
@@ -11758,7 +11759,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act ",
+    "Legislation Name ": "Sale of Goods Act ",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "State High Court or any forum for dispute resolution ",
     Section: "Section 14 ",
@@ -11776,7 +11777,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act ",
+    "Legislation Name ": "Sale of Goods Act ",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "State High Court or any forum for dispute resolution ",
     Section: "Section 15 ",
@@ -11794,7 +11795,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act ",
+    "Legislation Name ": "Sale of Goods Act ",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "State High Court or any forum for dispute resolution ",
     Section: "Sections 27, 30 and 51 ",
@@ -11812,7 +11813,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Food Products Advertisement Regulations ",
+    "Legislation Name ": "NAFDAC Food Products Advertisement Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11831,7 +11832,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Food Products Advertisement Regulations ",
+    "Legislation Name ": "NAFDAC Food Products Advertisement Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11850,7 +11851,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Food Products Advertisement Regulations ",
+    "Legislation Name ": "NAFDAC Food Products Advertisement Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11869,7 +11870,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Food Products Advertisement Regulations ",
+    "Legislation Name ": "NAFDAC Food Products Advertisement Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11888,7 +11889,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Food Products Advertisement Regulations ",
+    "Legislation Name ": "NAFDAC Food Products Advertisement Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11907,7 +11908,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Food Products Advertisement Regulations ",
+    "Legislation Name ": "NAFDAC Food Products Advertisement Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11926,7 +11927,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Food Products Advertisement Regulations ",
+    "Legislation Name ": "NAFDAC Food Products Advertisement Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11945,7 +11946,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Food Products Advertisement Regulations ",
+    "Legislation Name ": "NAFDAC Food Products Advertisement Regulations ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -11964,7 +11965,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Trade Malpractices (Miscellaneous Offences) Act ",
+    "Legislation Name ": "Trade Malpractices (Miscellaneous Offences) Act ",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=515",
     Regulator: "Special Trade Malpractices Investigation Panel under Federal Ministry of Commerce.",
     Section: "Sections 1",
@@ -11982,7 +11983,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation an d Waste Control) Regulations ",
+    "Legislation Name ": "National Environmental (Sanitation an d Waste Control) Regulations ",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig204466.pdf",
     Regulator: "National Environmental Standards and Regulations enforcement Agency",
     Section: "Parts 2, 3 and 4.",
@@ -12000,7 +12001,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3111",
     Regulator: "Nigerian Customs Services ",
     Section: "Section 11",
@@ -12018,7 +12019,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3113",
     Regulator: "Nigerian Customs Services ",
     Section: "Sections 37, 46 and 47 ",
@@ -12036,7 +12037,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3114",
     Regulator: "Nigerian Customs Services ",
     Section: "Section 59(1) , 63 and 64",
@@ -12054,7 +12055,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3115",
     Regulator: "Nigerian Customs Services ",
     Section: "Section 71",
@@ -12072,7 +12073,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3116",
     Regulator: "Nigerian Customs Services ",
     Section: "Sections 99, 100 (2), 102, and 103",
@@ -12090,7 +12091,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3117",
     Regulator: "Nigerian Customs Services ",
     Section: "Sections 104 and 107",
@@ -12108,7 +12109,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3120",
     Regulator: "Nigerian Customs Services ",
     Section: "Sections 119, and 120",
@@ -12126,7 +12127,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3122",
     Regulator: "Nigerian Customs Services ",
     Section: "Section 160",
@@ -12143,7 +12144,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3123",
     Regulator: "Nigerian Customs Services ",
     Section: "Sections 161, 162, and 163.",
@@ -12162,7 +12163,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Customs and Excise Management (Amendment) Act ",
+    "Legislation Name ": "Customs and Excise Management (Amendment) Act ",
     "Act URL": "https://web2.customs.gov.ng/?page_id=3124",
     Regulator: "Nigerian Customs Services ",
     Section: "Section 164",
@@ -12179,7 +12180,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Fire Service Regulations ",
+    "Legislation Name ": "Fire Service Regulations ",
     "Act URL":
       "https://gazettes.africa/archive/ng/2019/ng-government-gazette-dated-2019-02-22-no-30.pdf",
     Regulator: "Fire Service Commission",
@@ -12198,7 +12199,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Fire Service Regulations ",
+    "Legislation Name ": "Fire Service Regulations ",
     "Act URL":
       "https://gazettes.africa/archive/ng/2019/ng-government-gazette-dated-2019-02-22-no-30.pdf",
     Regulator: "Fire Service Commission ",
@@ -12217,7 +12218,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Control of Vehicular Emissions from Petrol and Diesel Engines) Regulations ",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Control_of_Vehicular_Emissions_from_Petrol_and_Diesel_Engines_Regulation%202011%20.pdf",
@@ -12237,7 +12238,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Control of Vehicular Emissions from Petrol and Diesel Engines) Regulations ",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Control_of_Vehicular_Emissions_from_Petrol_and_Diesel_Engines_Regulation%202011%20.pdf",
@@ -12257,7 +12258,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Control of Vehicular Emissions from Petrol and Diesel Engines) Regulations ",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Control_of_Vehicular_Emissions_from_Petrol_and_Diesel_Engines_Regulation%202011%20.pdf",
@@ -12277,7 +12278,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12296,7 +12297,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12315,7 +12316,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12334,7 +12335,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12353,7 +12354,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12372,7 +12373,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12391,7 +12392,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12410,7 +12411,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12429,7 +12430,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12448,7 +12449,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Federal Highways (Permissible Weights and Weigh-Bridges) Regulations, 1971",
     "Act URL": "https://lawsofnigeria.placng.org/laws/F13.pdf",
     Regulator: "The Minister of Works and Housing",
@@ -12468,7 +12469,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 10(6)",
@@ -12486,7 +12487,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 11",
@@ -12504,7 +12505,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 12(1)(2)(3)",
@@ -12522,7 +12523,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 13",
@@ -12540,7 +12541,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 14",
@@ -12558,7 +12559,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 16",
@@ -12576,7 +12577,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 26 (1)(2)(3)",
@@ -12594,7 +12595,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 36",
@@ -12612,7 +12613,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 37(1)",
@@ -12630,7 +12631,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 37(2)",
@@ -12648,7 +12649,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 37(5)",
@@ -12666,7 +12667,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 38(1)",
@@ -12684,7 +12685,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 38(2)",
@@ -12702,7 +12703,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 39(6)",
@@ -12720,7 +12721,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 39(9)",
@@ -12738,7 +12739,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 41",
@@ -12756,7 +12757,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 55(1)(2)",
@@ -12774,7 +12775,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 72",
@@ -12792,7 +12793,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 94",
@@ -12810,7 +12811,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 95",
@@ -12828,7 +12829,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 116(1)",
@@ -12847,7 +12848,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 116(2)",
@@ -12866,7 +12867,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 116(3)",
@@ -12885,7 +12886,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 116(4)(5)(6)",
@@ -12904,7 +12905,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 116(7)",
@@ -12922,7 +12923,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 117",
@@ -12941,7 +12942,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 118",
@@ -12959,7 +12960,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 119 (6)(7)(8)",
@@ -12977,7 +12978,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 120(1)(3)(4)(5)(6)(7)(8)",
@@ -12995,7 +12996,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 121 (1)(2)(3)",
@@ -13013,7 +13014,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 122 (1)(2)(3)(4)",
@@ -13031,7 +13032,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 123",
@@ -13050,7 +13051,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 124",
@@ -13068,7 +13069,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 125",
@@ -13086,7 +13087,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 126",
@@ -13104,7 +13105,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 127",
@@ -13123,7 +13124,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 128",
@@ -13142,7 +13143,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 129",
@@ -13160,7 +13161,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 130",
@@ -13178,7 +13179,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 131",
@@ -13195,7 +13196,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 132",
@@ -13212,7 +13213,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 133",
@@ -13230,7 +13231,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 134",
@@ -13248,7 +13249,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 135",
@@ -13266,7 +13267,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 137",
@@ -13284,7 +13285,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 138",
@@ -13302,7 +13303,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 140",
@@ -13320,7 +13321,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 142(2)(5)",
@@ -13338,7 +13339,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "regulation 143",
@@ -13356,7 +13357,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 145",
@@ -13374,7 +13375,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 146",
@@ -13392,7 +13393,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 147",
@@ -13410,7 +13411,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 148(1)(2)(3)",
@@ -13428,7 +13429,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 148(4)",
@@ -13446,7 +13447,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "regulation 148(6)",
@@ -13464,7 +13465,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 148(7)",
@@ -13482,7 +13483,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 148(8)",
@@ -13501,7 +13502,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 150",
@@ -13519,7 +13520,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "regulation 151",
@@ -13537,7 +13538,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 167(3)",
@@ -13555,7 +13556,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 168(1)",
@@ -13573,7 +13574,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 168(2)",
@@ -13591,7 +13592,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 170",
@@ -13609,7 +13610,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 172(6)",
@@ -13628,7 +13629,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 178",
@@ -13647,7 +13648,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 188(2)",
@@ -13665,7 +13666,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 210",
@@ -13683,7 +13684,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 211(4)",
@@ -13701,7 +13702,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 218",
@@ -13719,7 +13720,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Regulation 229",
@@ -13737,7 +13738,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Schedule 12",
@@ -13755,7 +13756,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Road Traffic Regulations, 2012",
+    "Legislation Name ": "National Road Traffic Regulations, 2012",
     "Act URL": "https://frsc.gov.ng/NATROADTRAFFICREGS2012.pdf",
     Regulator: "Federal Road Safety Commission",
     Section: "Schedule 13",
@@ -13773,7 +13774,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2017",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2017",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13792,7 +13793,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2018",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2018",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13812,7 +13813,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2019",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2019",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13831,7 +13832,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2020",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2020",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13850,7 +13851,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2021",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2021",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13869,7 +13870,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2022",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2022",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13888,7 +13889,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2023",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2023",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13907,7 +13908,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2024",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2024",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13926,7 +13927,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2025",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2025",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13945,7 +13946,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2026",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2026",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13964,7 +13965,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2027",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2027",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -13983,7 +13984,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2028",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2028",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -14002,7 +14003,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2029",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2029",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -14021,7 +14022,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2030",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2030",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -14040,7 +14041,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2031",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2031",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -14059,7 +14060,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2032",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2032",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -14078,7 +14079,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2033",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2033",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -14097,7 +14098,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2034",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2034",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -14116,7 +14117,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2035",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2035",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -14135,7 +14136,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian National Addressing Standards And Guidelines, 2036",
+    "Legislation Name ": "Nigerian National Addressing Standards And Guidelines, 2036",
     "Act URL":
       "https://www.nipost.gov.ng/Site_Downloads/NIGERIAN-NATIONAL-ADDRESSING-STANDARD-AND-GUIDELINES.pdf",
     Regulator: "Postmaster-General",
@@ -14153,7 +14154,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act, 1893",
+    "Legislation Name ": "Sale of Goods Act, 1893",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "Minister of Trade, Industry and Investment",
     Section: "Section 13",
@@ -14171,7 +14172,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act, 1894",
+    "Legislation Name ": "Sale of Goods Act, 1894",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "Minister of Trade, Industry and Investment",
     Section: "Section 14",
@@ -14189,7 +14190,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act, 1895",
+    "Legislation Name ": "Sale of Goods Act, 1895",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "Minister of Trade, Industry and Investment",
     Section: "Section 15",
@@ -14207,7 +14208,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act, 1896",
+    "Legislation Name ": "Sale of Goods Act, 1896",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "Minister of Trade, Industry and Investment",
     Section: "Section 34",
@@ -14225,7 +14226,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Merchandise Marks Act",
+    "Legislation Name ": "Merchandise Marks Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=250",
     Regulator: "Ministry of Trade, Industry and Investment",
     Section: "Section 3",
@@ -14244,7 +14245,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Merchandise Marks Act",
+    "Legislation Name ": "Merchandise Marks Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=250",
     Regulator: "Ministry of Trade, Industry and Investment",
     Section: "Section 3",
@@ -14263,7 +14264,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Merchandise Marks Act",
+    "Legislation Name ": "Merchandise Marks Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=250",
     Regulator: "Ministry of Trade, Industry and Investment",
     Section: "Section 18(3)",
@@ -14281,7 +14282,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Trade Marks Act, 2004",
+    "Legislation Name ": "Trade Marks Act, 2004",
     "Act URL": "https://nigeria.tradeportal.org/media/Trade%20Mark%20Act.pdf",
     Regulator: "Registrar of trademark ",
     Section: "Sections 3,4",
@@ -14299,7 +14300,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Trade Marks Act, 2004",
+    "Legislation Name ": "Trade Marks Act, 2004",
     "Act URL": "https://nigeria.tradeportal.org/media/Trade%20Mark%20Act.pdf",
     Regulator: "Registrar of trademark ",
     Section: "Section 13",
@@ -14317,7 +14318,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Food grade (Table or cooking) salt Regulations",
+    "Legislation Name ": "NAFDAC Food grade (Table or cooking) salt Regulations",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "NAFDAC",
@@ -14336,7 +14337,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Agency for Food and Drugs Administration and Control Act",
+    "Legislation Name ": "National Agency for Food and Drugs Administration and Control Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "NAFDAC",
@@ -14355,7 +14356,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Agency for Food and Drugs Administration and Control Act",
+    "Legislation Name ": "National Agency for Food and Drugs Administration and Control Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "NAFDAC",
@@ -14374,7 +14375,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Agency for Food and Drugs Administration and Control Act",
+    "Legislation Name ": "National Agency for Food and Drugs Administration and Control Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "NAFDAC",
@@ -14393,7 +14394,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Standards Organisation of Nigeria Act",
+    "Legislation Name ": "Standards Organisation of Nigeria Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/S9.pdf",
     Regulator: "Standards Council of Nigeria",
     Section: "Section 15",
@@ -14412,7 +14413,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Standards Organisation of Nigeria Act",
+    "Legislation Name ": "Standards Organisation of Nigeria Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/S9.pdf",
     Regulator: "Standards Council of Nigeria",
     Section: "Section 16",
@@ -14431,7 +14432,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Standards Organisation of Nigeria Act",
+    "Legislation Name ": "Standards Organisation of Nigeria Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/S9.pdf",
     Regulator: "Standards Council of Nigeria",
     Section: "Section 18(3)",
@@ -14449,7 +14450,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Standards Organisation of Nigeria Act",
+    "Legislation Name ": "Standards Organisation of Nigeria Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/S9.pdf",
     Regulator: "Standards Council of Nigeria",
     Section: "Section 20",
@@ -14467,7 +14468,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Standards Regulations and Enforcement Agency (Establishment) Act 2007",
     "Act URL": "https://environreview.com.ng/wp-content/uploads/2020/07/NESREA-ACT.pdf",
     Regulator: "Minister of the Environment",
@@ -14486,7 +14487,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Standards Regulations and Enforcement Agency (Establishment) Act 2007",
     "Act URL": "https://environreview.com.ng/wp-content/uploads/2020/07/NESREA-ACT.pdf",
     Regulator: "Minister of the Environment",
@@ -14505,7 +14506,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Standards Regulations and Enforcement Agency (Establishment) Act 2007",
     "Act URL": "https://environreview.com.ng/wp-content/uploads/2020/07/NESREA-ACT.pdf",
     Regulator: "Minister of the Environment",
@@ -14524,7 +14525,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Standards Regulations and Enforcement Agency (Establishment) Act 2007",
     "Act URL": "https://environreview.com.ng/wp-content/uploads/2020/07/NESREA-ACT.pdf",
     Regulator: "Minister of the Environment",
@@ -14543,7 +14544,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Standards Regulations and Enforcement Agency (Establishment) Act 2007",
     "Act URL": "https://environreview.com.ng/wp-content/uploads/2020/07/NESREA-ACT.pdf",
     Regulator: "Minister of the Environment",
@@ -14562,7 +14563,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Standards Regulations and Enforcement Agency (Establishment) Act 2007",
     "Act URL": "https://environreview.com.ng/wp-content/uploads/2020/07/NESREA-ACT.pdf",
     Regulator: "Minister of the Environment",
@@ -14581,7 +14582,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Standards Regulations and Enforcement Agency (Establishment) Act 2007",
     "Act URL": "https://environreview.com.ng/wp-content/uploads/2020/07/NESREA-ACT.pdf",
     Regulator: "Minister of the Environment",
@@ -14600,7 +14601,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Standards Regulations and Enforcement Agency (Establishment) Act 2007",
     "Act URL": "https://environreview.com.ng/wp-content/uploads/2020/07/NESREA-ACT.pdf",
     Regulator: "Minister of the Environment",
@@ -14619,7 +14620,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Environmental Impact Assessment Act 1992",
+    "Legislation Name ": "Environmental Impact Assessment Act 1992",
     "Act URL": "https://ead.gov.ng/wp-content/uploads/2017/04/EIA_Act.pdf",
     Regulator: "NESREA",
     Section: "Section 2",
@@ -14637,7 +14638,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Environmental Impact Assessment Act 1992",
+    "Legislation Name ": "Environmental Impact Assessment Act 1992",
     "Act URL": "https://ead.gov.ng/wp-content/uploads/2017/04/EIA_Act.pdf",
     Regulator: "NESREA",
     Section: "Section 3",
@@ -14655,7 +14656,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Environmental Impact Assessment Act 1992",
+    "Legislation Name ": "Environmental Impact Assessment Act 1992",
     "Act URL": "https://ead.gov.ng/wp-content/uploads/2017/04/EIA_Act.pdf",
     Regulator: "NESREA",
     Section: "Section 16",
@@ -14673,7 +14674,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Harmful Waste (Special Criminal Provisions etc.) Act",
+    "Legislation Name ": "Harmful Waste (Special Criminal Provisions etc.) Act",
     "Act URL": "www.vertic.org/media/National%20Legislation/Nigeria/NG_Harmful_Waste_Act.pdf",
     Regulator: "Minister for the Environment",
     Section: "Section 1 (1)",
@@ -14692,7 +14693,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Water Resources Act",
+    "Legislation Name ": "Water Resources Act",
     "Act URL": "http://lawsofnigeria.placng.org/view2.php?sn=553",
     Regulator: "Minister of Water Resources",
     Section: "Section 9",
@@ -14710,7 +14711,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Water Resources Act",
+    "Legislation Name ": "Water Resources Act",
     "Act URL": "http://lawsofnigeria.placng.org/view2.php?sn=553",
     Regulator: "Minister of Water Resources",
     Section: "Section 10",
@@ -14728,7 +14729,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14748,7 +14749,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14768,7 +14769,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14788,7 +14789,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14808,7 +14809,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14828,7 +14829,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14848,7 +14849,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14868,7 +14869,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14888,7 +14889,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14908,7 +14909,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14928,7 +14929,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Surface and Ground Water Quality Control) Regulations, 2011",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-24-no-49.pdf",
@@ -14948,7 +14949,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -14968,7 +14969,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -14988,7 +14989,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15008,7 +15009,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15028,7 +15029,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15048,7 +15049,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15068,7 +15069,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15088,7 +15089,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15108,7 +15109,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15128,7 +15129,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15148,7 +15149,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15168,7 +15169,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15188,7 +15189,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15208,7 +15209,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15228,7 +15229,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15248,7 +15249,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15268,7 +15269,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environment Protection (Pollution Abatement in Industries and Facilitating Generating Wastes) Regulations 1991",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120294.pdf",
     Regulator: "NESREA",
@@ -15288,7 +15289,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Land Use Act",
+    "Legislation Name ": "Land Use Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=228",
     Regulator: "Governor of the State",
     Section: "Section 11",
@@ -15307,7 +15308,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Land Use Act",
+    "Legislation Name ": "Land Use Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=228",
     Regulator: "Governor of the State",
     Section: "Section 13",
@@ -15326,7 +15327,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Land Use Act",
+    "Legislation Name ": "Land Use Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=228",
     Regulator: "Governor of the State",
     Section: "Section 19",
@@ -15344,7 +15345,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Land Use Act",
+    "Legislation Name ": "Land Use Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=228",
     Regulator: "Governor of the State",
     Section: "Section 43",
@@ -15363,7 +15364,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Permitting and Licensing System) Regulations, 2009",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Permitting_and_licensing_System_%20Regulation%202009.pdf",
@@ -15382,7 +15383,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "Regulation 4",
@@ -15400,7 +15401,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 5",
@@ -15418,7 +15419,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 6",
@@ -15436,7 +15437,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 7",
@@ -15454,7 +15455,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulaion 8",
@@ -15472,7 +15473,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 10",
@@ -15490,7 +15491,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 11",
@@ -15508,7 +15509,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 12",
@@ -15526,7 +15527,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulaion 13",
@@ -15545,7 +15546,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 18",
@@ -15563,7 +15564,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 20",
@@ -15581,7 +15582,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 22",
@@ -15599,7 +15600,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 23",
@@ -15617,7 +15618,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 24",
@@ -15635,7 +15636,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 29",
@@ -15653,7 +15654,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 32",
@@ -15671,7 +15672,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 34",
@@ -15689,7 +15690,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Air Quality Control) Regulations 2014",
+    "Legislation Name ": "National Environmental (Air Quality Control) Regulations 2014",
     "Act URL": "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/air_quality_control.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 35",
@@ -15707,7 +15708,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal",
     "Act URL":
       "https://www.basel.int/Portals/4/Basel%20Convention/docs/text/BaselConventionText-e.pdf",
@@ -15726,7 +15727,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Noise Standards and Control Regulations) 2009",
+    "Legislation Name ": "National Environmental (Noise Standards and Control Regulations) 2009",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig146077.pdf",
     Regulator: "Minister of Environment",
     Section: "Regulation 4",
@@ -15744,7 +15745,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Noise Standards and Control Regulations) 2009",
+    "Legislation Name ": "National Environmental (Noise Standards and Control Regulations) 2009",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig146077.pdf",
     Regulator: "Minister of Environment",
     Section: "Regulation 5",
@@ -15762,7 +15763,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Noise Standards and Control Regulations) 2009",
+    "Legislation Name ": "National Environmental (Noise Standards and Control Regulations) 2009",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig146077.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 7",
@@ -15780,7 +15781,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Noise Standards and Control Regulations) 2009",
+    "Legislation Name ": "National Environmental (Noise Standards and Control Regulations) 2009",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig146077.pdf",
     Regulator: "Minister of Environment",
     Section: "regulation 8",
@@ -15798,7 +15799,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Policy on Solid Waste Management, 2020",
+    "Legislation Name ": "National Policy on Solid Waste Management, 2020",
     "Act URL": "https://environment.gov.ng/download/1621341749.pdf",
     Regulator: "Minister of Environment",
     Section: "3.7.2",
@@ -15816,7 +15817,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Policy on Solid Waste Management, 2020",
+    "Legislation Name ": "National Policy on Solid Waste Management, 2020",
     "Act URL": "https://environment.gov.ng/download/1621341749.pdf",
     Regulator: "Minister of Environment",
     Section: "3.7.3",
@@ -15834,7 +15835,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Policy on Solid Waste Management, 2020",
+    "Legislation Name ": "National Policy on Solid Waste Management, 2020",
     "Act URL": "https://environment.gov.ng/download/1621341749.pdf",
     Regulator: "Minister of Environment",
     Section: "3.7.4",
@@ -15852,7 +15853,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Policy on Solid Waste Management, 2020",
+    "Legislation Name ": "National Policy on Solid Waste Management, 2020",
     "Act URL": "https://environment.gov.ng/download/1621341749.pdf",
     Regulator: "Minister of Environment",
     Section: "4.3.11",
@@ -15870,7 +15871,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Policy on Solid Waste Management, 2020",
+    "Legislation Name ": "National Policy on Solid Waste Management, 2020",
     "Act URL": "https://environment.gov.ng/download/1621341749.pdf",
     Regulator: "Minister of Environment",
     Section: "4.3.13",
@@ -15888,7 +15889,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Protection (Management of Solid and Hazardous Waste Management) Regulations",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120295.pdf",
     Regulator: "Minister of Environment",
@@ -15908,7 +15909,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Protection (Management of Solid and Hazardous Waste Management) Regulations",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120295.pdf",
     Regulator: "Minister of Environment",
@@ -15928,7 +15929,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Protection (Management of Solid and Hazardous Waste Management) Regulations",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120295.pdf",
     Regulator: "Minister of Environment",
@@ -15948,7 +15949,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Protection (Management of Solid and Hazardous Waste Management) Regulations",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120295.pdf",
     Regulator: "Minister of Environment",
@@ -15968,7 +15969,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental Protection (Management of Solid and Hazardous Waste Management) Regulations",
     "Act URL": "http://extwprlegs1.fao.org/docs/pdf/nig120295.pdf",
     Regulator: "Minister of Environment",
@@ -15988,7 +15989,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Agency for Food and Drug Administration and Control Act",
+    "Legislation Name ": "National Agency for Food and Drug Administration and Control Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "Minister of Health",
@@ -16008,7 +16009,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16026,7 +16027,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16045,7 +16046,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16064,7 +16065,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16083,7 +16084,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16102,7 +16103,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16121,7 +16122,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16140,7 +16141,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16159,7 +16160,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16178,7 +16179,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16197,7 +16198,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16216,7 +16217,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16235,7 +16236,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16254,7 +16255,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16273,7 +16274,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16292,7 +16293,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16311,7 +16312,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16330,7 +16331,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16349,7 +16350,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16368,7 +16369,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16387,7 +16388,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Sanitation and Wastes Control) Regulations",
+    "Legislation Name ": "National Environmental (Sanitation and Wastes Control) Regulations",
     "Act URL":
       "https://www.nesrea.gov.ng/wp-content/uploads/2020/02/Sanitation_and_Wastes_Control_Regulations%202009.pdf",
     Regulator: "Minister of the Environment",
@@ -16406,7 +16407,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16426,7 +16427,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16445,7 +16446,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16464,7 +16465,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16483,7 +16484,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16502,7 +16503,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16521,7 +16522,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16540,7 +16541,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16559,7 +16560,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16578,7 +16579,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16596,7 +16597,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16615,7 +16616,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16634,7 +16635,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16653,7 +16654,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16672,7 +16673,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16691,7 +16692,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16710,7 +16711,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16729,7 +16730,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16748,7 +16749,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16767,7 +16768,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16786,7 +16787,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
+    "Legislation Name ": "National Environmental (Food, Beverages and Tobacco Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-14-no-65.pdf",
     Regulator: "Minister of the Environment",
@@ -16805,7 +16806,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Chemicals, Pharmaceuticals, Soap and Detergent Manufacturing Industries) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-20-no-68.pdf",
@@ -16825,7 +16826,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Chemicals, Pharmaceuticals, Soap and Detergent Manufacturing Industries) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-20-no-68.pdf",
@@ -16845,7 +16846,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Chemicals, Pharmaceuticals, Soap and Detergent Manufacturing Industries) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-20-no-68.pdf",
@@ -16865,7 +16866,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "National Environmental (Chemicals, Pharmaceuticals, Soap and Detergent Manufacturing Industries) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2009/ng-government-gazette-dated-2009-10-20-no-68.pdf",
@@ -16885,7 +16886,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -16904,7 +16905,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -16923,7 +16924,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -16942,7 +16943,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -16961,7 +16962,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -16980,7 +16981,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -16999,7 +17000,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -17018,7 +17019,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -17037,7 +17038,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -17056,7 +17057,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Environmental (Electrical and Electronic Sector) Regulations",
+    "Legislation Name ": "National Environmental (Electrical and Electronic Sector) Regulations",
     "Act URL":
       "https://gazettes.africa/archive/ng/2011/ng-government-gazette-dated-2011-05-25-no-50.pdf",
     Regulator: "Minister of the Environment",
@@ -17075,7 +17076,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Weight and Measures Act",
+    "Legislation Name ": "Weight and Measures Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/W3.pdf",
     Regulator: "Minister of Trade, Investment and Industry",
     Section: "N/A",
@@ -17092,7 +17093,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Weights and Measures Regulations - Weights and Measures Act, 1975",
+    "Legislation Name ": "Weights and Measures Regulations - Weights and Measures Act, 1975",
     "Act URL": "https://lawsofnigeria.placng.org/laws/W3.pdf",
     Regulator: "Minister of Trade, Investment and Industry",
     Section: "N/A",
@@ -17109,7 +17110,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Merchandise Marks Act",
+    "Legislation Name ": "Merchandise Marks Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=250",
     Regulator: "Minister of Trade, Investment and Industry",
     Section: "N/A",
@@ -17126,7 +17127,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Boiler & Pressure Vessel Regulations 2018",
+    "Legislation Name ": "Boiler & Pressure Vessel Regulations 2018",
     "Act URL": "https://gazettes.africa/archive/ng/",
     Regulator: "Minister of Trade, Investment and Industry",
     Section: "N/A",
@@ -17143,7 +17144,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 135",
@@ -17161,7 +17162,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Current Good Manufacturing Practice Guidelines for Food and Food Products (Revised)",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Current-Good-Manufacturing-Practice-Guidelines-For-Food-And-Food-Products-Revised-Updated.pdf",
@@ -17181,7 +17182,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
+    "Legislation Name ": "NAFDAC Guidelines for Food Hygienic Practices (NGFHP) ",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/FOOD_GUIDELINES/Food-Hygienic-Practices-Guidelines-NGFHP-Updated.pdf",
     Regulator: "National Agency for Food and Drug Administration and Control ",
@@ -17200,7 +17201,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food-Additives-Regulations-2021",
+    "Legislation Name ": "Food-Additives-Regulations-2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-ADDITIVES-REGULATIONS-2021.pdf",
     Regulator: "National Agency For Food and Drugs Administration and Control",
@@ -17219,7 +17220,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "4",
@@ -17237,7 +17238,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "7",
@@ -17255,7 +17256,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Fire Service Regulations ",
+    "Legislation Name ": "Fire Service Regulations ",
     "Act URL":
       "https://gazettes.africa/archive/ng/2019/ng-government-gazette-dated-2019-02-22-no-30.pdf",
     Regulator: "Fire Service Commission",
@@ -17274,7 +17275,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Fire Service Regulations ",
+    "Legislation Name ": "Fire Service Regulations ",
     "Act URL":
       "https://gazettes.africa/archive/ng/2019/ng-government-gazette-dated-2019-02-22-no-30.pdf",
     Regulator: "Fire Service Commission ",
@@ -17293,7 +17294,7 @@ const supplyChain = [
   },
   {
     "Act No": "No. 115",
-    "Legislation Name": "Occupational Safety and Health Convention 1981 ",
+    "Legislation Name ": "Occupational Safety and Health Convention 1981 ",
     "Act URL":
       "https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C155",
     Regulator: "Federal Ministry of Labour and Employment",
@@ -17312,7 +17313,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Agency for Food and Drug Administration and Control Act",
+    "Legislation Name ": "National Agency for Food and Drug Administration and Control Act",
     "Act URL": "NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency For Food and Drug Administration and Control",
     Section: "Section 24(2)",
@@ -17330,7 +17331,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "National Agency for Food and Drug Administration and Control Act",
+    "Legislation Name ": "National Agency for Food and Drug Administration and Control Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/NAFDAC-ACT-Cap-N.-1-LFN-2004.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -17349,7 +17350,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food, Drugs and Related Products (Registration, etc.) Act",
+    "Legislation Name ": "Food, Drugs and Related Products (Registration, etc.) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-DRUGS-AND-RELATED-PRODUCTS-REGISTRATION-ACT-Cap.F.33.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -17368,7 +17369,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Food, Drugs and Related Products (Registration, etc.) Act",
+    "Legislation Name ": "Food, Drugs and Related Products (Registration, etc.) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/FOOD-DRUGS-AND-RELATED-PRODUCTS-REGISTRATION-ACT-Cap.F.33.pdf",
     Regulator: "National Agency for Food & Drug Administration & Control (NAFDAC)",
@@ -17387,7 +17388,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Counterfeit and Fake Drugs and Unwholesome Processed Foods (Miscellaneous Provisions) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/COUNTERFEIT-AND-FAKE-DRUGS-AND-UNWHOLESOME-PROCESSED-FOODS-Cap.-C.34.pdf",
@@ -17408,7 +17409,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name":
+    "Legislation Name ":
       "Counterfeit and Fake Drugs and Unwholesome Processed Foods (Miscellaneous Provisions) Act",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/NAFDAC_Acts/COUNTERFEIT-AND-FAKE-DRUGS-AND-UNWHOLESOME-PROCESSED-FOODS-Cap.-C.34.pdf",
@@ -17428,7 +17429,7 @@ const supplyChain = [
   },
   {
     "Act No": "Cap. T12 LFN 2004",
-    "Legislation Name": "Trade Malpractices (Miscellaneous Offences) Act",
+    "Legislation Name ": "Trade Malpractices (Miscellaneous Offences) Act",
     "Act URL": "https://lawsofnigeria.placng.org/view2.php?sn=515",
     Regulator: "Nigerian Trademarks Registry",
     Section: "Section 1 & 5",
@@ -17446,7 +17447,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act, 1893",
+    "Legislation Name ": "Sale of Goods Act, 1893",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "Minister of Trade, Industry and Investment",
     Section: "Section 13",
@@ -17464,7 +17465,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act, 1894",
+    "Legislation Name ": "Sale of Goods Act, 1894",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "Minister of Trade, Industry and Investment",
     Section: "Section 14",
@@ -17482,7 +17483,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act, 1895",
+    "Legislation Name ": "Sale of Goods Act, 1895",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "Minister of Trade, Industry and Investment",
     Section: "Section 15",
@@ -17500,7 +17501,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Act, 1896",
+    "Legislation Name ": "Sale of Goods Act, 1896",
     "Act URL": "https://www.legislation.gov.uk/ukpga/1893/71/pdfs/ukpga_18930071_en.pdf",
     Regulator: "Minister of Trade, Industry and Investment",
     Section: "Section 34",
@@ -17518,7 +17519,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Sections 28(4) and 31",
@@ -17536,7 +17537,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 110",
@@ -17554,7 +17555,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 130",
@@ -17572,7 +17573,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 131",
@@ -17590,7 +17591,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 132(1)",
@@ -17608,7 +17609,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 132(2)",
@@ -17626,7 +17627,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 134",
@@ -17644,7 +17645,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 135",
@@ -17662,7 +17663,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 136",
@@ -17680,7 +17681,7 @@ const supplyChain = [
   },
   {
     "Act No": 2018,
-    "Legislation Name": "Federal Competition and Consumer Protection Act (FCCPA)",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act (FCCPA)",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "Section 155",
@@ -17697,7 +17698,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "1",
@@ -17714,7 +17715,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "2",
@@ -17732,7 +17733,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "3",
@@ -17750,7 +17751,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "4",
@@ -17768,7 +17769,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "5",
@@ -17786,7 +17787,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "6",
@@ -17804,7 +17805,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "7",
@@ -17822,7 +17823,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "8",
@@ -17840,7 +17841,7 @@ const supplyChain = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "FCCPA - Businesses Obligations",
+    "Legislation Name ": "FCCPA - Businesses Obligations",
     "Act URL": "https://www.fccpc.gov.ng/businesses/obligations/",
     Regulator: "Federal Competiton and Consumer Protection Commission",
     Section: "9",
@@ -17858,7 +17859,7 @@ const supplyChain = [
   },
   {
     "Act No": "Ch.L82",
-    "Legislation Name": "Law Reform Torts Law",
+    "Legislation Name ": "Law Reform Torts Law",
     "Act URL": "N/A",
     Regulator: "High Court of Lagos",
     Section: "Section 20(1)(3)",
@@ -17876,7 +17877,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Sale of Goods Law ",
+    "Legislation Name ": "Sale of Goods Law ",
     "Act URL": "N/A",
     Regulator: "High Court of Lagos",
     Section: "Section 13",
@@ -17894,7 +17895,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian Bottling Company Limited v. Ngonadi",
+    "Legislation Name ": "Nigerian Bottling Company Limited v. Ngonadi",
     "Act URL":
       "https://www.jacksonettiandedu.com/wp-content/uploads/2020/06/PRODUCT-LIABILITY-A-CRISIS-OF-DISINTEGRATION-OF-THE-MANUFACTURER.pdf",
     Regulator: "",
@@ -17913,7 +17914,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Nigerian Bottling Company Plc v. Edward Okwejiminor",
+    "Legislation Name ": "Nigerian Bottling Company Plc v. Edward Okwejiminor",
     "Act URL":
       "https://www.jacksonettiandedu.com/wp-content/uploads/2020/06/PRODUCT-LIABILITY-A-CRISIS-OF-DISINTEGRATION-OF-THE-MANUFACTURER.pdf",
     Regulator: "",
@@ -17932,7 +17933,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Egbele Austin Eromosele v. Federal Republic of Nigeria",
+    "Legislation Name ": "Egbele Austin Eromosele v. Federal Republic of Nigeria",
     "Act URL":
       "https://www.jacksonettiandedu.com/wp-content/uploads/2020/06/PRODUCT-LIABILITY-A-CRISIS-OF-DISINTEGRATION-OF-THE-MANUFACTURER.pdf",
     Regulator: "",
@@ -17951,7 +17952,7 @@ const supplyChain = [
   },
   {
     "Act No": null,
-    "Legislation Name": "Rylands v. Fletcher",
+    "Legislation Name ": "Rylands v. Fletcher",
     "Act URL": "https://en.wikipedia.org/wiki/Rylands_v_Fletcher",
     Regulator: "",
     Section: "",
@@ -17972,7 +17973,7 @@ const supplyChain = [
 const marketing = [
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "Advertising Practitioners Council of Nigeria Vetting Guidelines (APCON Vetting Guidelines)",
     "Act URL": "https://www.techquery.ng/wp-content/uploads/2019/09/vettingGuidelines.pdf",
     Regulator: "Advertising Standards Panel (ASP) ",
@@ -17990,7 +17991,7 @@ const marketing = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name":
+    "Legislation Name ":
       "Advertising Practitioners Council of Nigeria Vetting Guidelines (APCON Vetting Guidelines)",
     "Act URL": "https://www.techquery.ng/wp-content/uploads/2019/09/vettingGuidelines.pdf",
     Regulator: "Advertising Standards Panel (ASP) ",
@@ -18008,7 +18009,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission ",
     Section: "Section 27,28,30",
@@ -18026,7 +18027,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 32,33 (3(,(4)",
@@ -18044,7 +18045,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 35",
@@ -18062,7 +18063,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 36",
@@ -18080,7 +18081,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section  59,61, 62 ",
@@ -18098,7 +18099,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 69(3)",
@@ -18115,7 +18116,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 72",
@@ -18133,7 +18134,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 79",
@@ -18151,7 +18152,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 80",
@@ -18169,7 +18170,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Sections 88, 89 and 90",
@@ -18187,7 +18188,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 107,108 ",
@@ -18205,7 +18206,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 109",
@@ -18223,7 +18224,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 110",
@@ -18240,7 +18241,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Sections 111, 112 and 113",
@@ -18259,7 +18260,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 135",
@@ -18277,7 +18278,7 @@ const marketing = [
   },
   {
     "Act No": "Act No. 1",
-    "Legislation Name": "Federal Competition and Consumer Protection Act FCCPA, 2018",
+    "Legislation Name ": "Federal Competition and Consumer Protection Act FCCPA, 2018",
     "Act URL": "https://www.fccpc.gov.ng/uploads/FCCPA.pdf",
     Regulator: "Federal Competition and Consumer Protection Commission",
     Section: "Section 155",
@@ -18295,7 +18296,7 @@ const marketing = [
   },
   {
     "Act No": "Cap S9, LFN 2004.",
-    "Legislation Name": "Standards Organization of Nigeria Act, 2015",
+    "Legislation Name ": "Standards Organization of Nigeria Act, 2015",
     "Act URL": "http://lawsofnigeria.placng.org/laws/S9.pdf",
     Regulator: "Standard Organisation of Nigeria",
     Section: "Section 15",
@@ -18313,7 +18314,7 @@ const marketing = [
   },
   {
     "Act No": "Cap S9, LFN 2004.",
-    "Legislation Name": "Standards Organization of Nigeria Act, 2015",
+    "Legislation Name ": "Standards Organization of Nigeria Act, 2015",
     "Act URL": "http://lawsofnigeria.placng.org/laws/S9.pdf",
     Regulator: "Standard Organisation of Nigeria",
     Section: "Section 19(1)",
@@ -18329,7 +18330,7 @@ const marketing = [
   },
   {
     "Act No": "Cap S9, LFN 2004.",
-    "Legislation Name": "Standards Organization of Nigeria Act, 2016",
+    "Legislation Name ": "Standards Organization of Nigeria Act, 2016",
     "Act URL": "http://lawsofnigeria.placng.org/laws/S9.pdf",
     Regulator: "Standard Organisation of Nigeria",
     Section: "Section 19(2)",
@@ -18346,7 +18347,7 @@ const marketing = [
   },
   {
     "Act No": "Cap S9, LFN 2004.",
-    "Legislation Name": "Standards Organization of Nigeria Act, 2017",
+    "Legislation Name ": "Standards Organization of Nigeria Act, 2017",
     "Act URL": "http://lawsofnigeria.placng.org/laws/S9.pdf",
     Regulator: "Standard Organisation of Nigeria",
     Section: "Section 19(3)",
@@ -18363,7 +18364,7 @@ const marketing = [
   },
   {
     "Act No": "CAP T13 LFN 2004",
-    "Legislation Name": "Trade Marks Act, 2004",
+    "Legislation Name ": "Trade Marks Act, 2004",
     "Act URL": "https://nigeria.tradeportal.org/media/Trade%20Mark%20Act.pdf",
     Regulator: "Registrar of trademark ",
     Section: "Section 3,4",
@@ -18380,7 +18381,7 @@ const marketing = [
   },
   {
     "Act No": "CAP T13 LFN 2004",
-    "Legislation Name": "Trade Marks Act, 2004",
+    "Legislation Name ": "Trade Marks Act, 2004",
     "Act URL": "https://nigeria.tradeportal.org/media/Trade%20Mark%20Act.pdf",
     Regulator: "Registrar of trademark ",
     Section: "Section 13",
@@ -18397,7 +18398,7 @@ const marketing = [
   },
   {
     "Act No": "Cap C28 LFN 2004",
-    "Legislation Name": "Copyrights Act, 2004",
+    "Legislation Name ": "Copyrights Act, 2004",
     "Act URL":
       "http://www.commonlii.org/ng/legis/num_act/ca133/#:~:text=An%20Act%20to%20make%20 provisions,broadcast%2C%20and%20other%20 ancillary%20 matters.",
     Regulator: "Nigeria Copyright Council",
@@ -18416,7 +18417,7 @@ const marketing = [
   },
   {
     "Act No": "Cap C28 LFN 2004",
-    "Legislation Name": "Copyrights Act, 2004",
+    "Legislation Name ": "Copyrights Act, 2004",
     "Act URL":
       "http://www.commonlii.org/ng/legis/num_act/ca133/#:~:text=An%20Act%20to%20make%20 provisions,broadcast%2C%20and%20other%20 ancillary%20 matters.",
     Regulator: "Nigeria Copyright Council",
@@ -18435,7 +18436,7 @@ const marketing = [
   },
   {
     "Act No": "CAP P2 LFN 2004",
-    "Legislation Name": "Patent and Designs Act",
+    "Legislation Name ": "Patent and Designs Act",
     "Act URL": "https://lawsofnigeria.placng.org/laws/P2.pdf",
     Regulator: "The registrar",
     Section: "Section 13",
@@ -18452,7 +18453,7 @@ const marketing = [
   },
   {
     "Act No": "CAP. A 7 LFN 2004",
-    "Legislation Name": "Advertising Practitioners (Registration, etc) Act",
+    "Legislation Name ": "Advertising Practitioners (Registration, etc) Act",
     "Act URL": "https://lawsofnigeria.placng.org/print.php?sn=22",
     Regulator: "",
     Section: "",
@@ -18469,7 +18470,7 @@ const marketing = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "Nigeria Data Protection Regulation, 2019",
+    "Legislation Name ": "Nigeria Data Protection Regulation, 2019",
     "Act URL": "https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf",
     Regulator: "National Information Technology Development Agency ",
     Section: "Article 2.3, 2.4, 2.10",
@@ -18487,7 +18488,7 @@ const marketing = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020",
+    "Legislation Name ": "NDPR Implementation Framework, 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "NITDA ",
     Section: "Article 3.1 ",
@@ -18504,7 +18505,7 @@ const marketing = [
   },
   {
     "Act No": "N/A",
-    "Legislation Name": "NDPR Implementation Framework, 2020",
+    "Legislation Name ": "NDPR Implementation Framework, 2020",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf",
     Regulator: "NITDA ",
     Section: "Article 2.5",
@@ -18521,7 +18522,7 @@ const marketing = [
   },
   {
     "Act No": "CAP. A 7 LFN 2004",
-    "Legislation Name": "National Information Technology Development Agency Act 2007 Act",
+    "Legislation Name ": "National Information Technology Development Agency Act 2007 Act",
     "Act URL": "https://nitda.gov.ng/wp-content/uploads/2020/11/NITDA-ACT-2007-2019-Edition1.pdf",
     Regulator: "NITDA ",
     Section: "Section 12 ",
@@ -18539,7 +18540,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 62 of 2021",
-    "Legislation Name": "Cosmetics Products Advertisement Regulations 2021",
+    "Legislation Name ": "Cosmetics Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETICS-PRODUCTS-ADVERTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC ",
@@ -18558,7 +18559,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 62 of 2021",
-    "Legislation Name": "Cosmetics Products Advertisement Regulations 2021",
+    "Legislation Name ": "Cosmetics Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETICS-PRODUCTS-ADVERTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC",
@@ -18577,7 +18578,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 62 of 2021",
-    "Legislation Name": "Cosmetics Products Advertisement Regulations 2021",
+    "Legislation Name ": "Cosmetics Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETICS-PRODUCTS-ADVERTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC",
@@ -18596,7 +18597,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 62 of 2021",
-    "Legislation Name": "Cosmetics Products Advertisement Regulations 2021",
+    "Legislation Name ": "Cosmetics Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETICS-PRODUCTS-ADVERTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC",
@@ -18615,7 +18616,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 62 of 2021",
-    "Legislation Name": "Cosmetics Products Advertisement Regulations 2021",
+    "Legislation Name ": "Cosmetics Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETICS-PRODUCTS-ADVERTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC",
@@ -18634,7 +18635,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 62 of 2021",
-    "Legislation Name": "Cosmetics Products Advertisement Regulations 2021",
+    "Legislation Name ": "Cosmetics Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETICS-PRODUCTS-ADVERTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC",
@@ -18653,7 +18654,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 62 of 2021",
-    "Legislation Name": "Cosmetics Products Advertisement Regulations 2021",
+    "Legislation Name ": "Cosmetics Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETICS-PRODUCTS-ADVERTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC ",
@@ -18672,7 +18673,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 62 of 2021",
-    "Legislation Name": "Cosmetics Products Advertisement Regulations 2021",
+    "Legislation Name ": "Cosmetics Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETICS-PRODUCTS-ADVERTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC",
@@ -18691,7 +18692,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 79 of 2021",
-    "Legislation Name": "Cosmetic Products Labelling Regulation, 2021",
+    "Legislation Name ": "Cosmetic Products Labelling Regulation, 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETIC-PRODUCTS-LABELLING-REGULATION.pdf",
     Regulator: "NAFDAC ",
@@ -18710,7 +18711,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 79 of 2021",
-    "Legislation Name": "Cosmetic Products Labelling Regulation, 2021",
+    "Legislation Name ": "Cosmetic Products Labelling Regulation, 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETIC-PRODUCTS-LABELLING-REGULATION.pdf",
     Regulator: "NAFDAC",
@@ -18729,7 +18730,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 79 of 2021",
-    "Legislation Name": "Cosmetic Products Labelling Regulation, 2021",
+    "Legislation Name ": "Cosmetic Products Labelling Regulation, 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETIC-PRODUCTS-LABELLING-REGULATION.pdf",
     Regulator: "NAFDAC",
@@ -18748,7 +18749,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 79 of 2021",
-    "Legislation Name": "Cosmetic Products Labelling Regulation, 2021",
+    "Legislation Name ": "Cosmetic Products Labelling Regulation, 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETIC-PRODUCTS-LABELLING-REGULATION.pdf",
     Regulator: "NAFDAC ",
@@ -18767,7 +18768,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 79 of 2021",
-    "Legislation Name": "Cosmetic Products Labelling Regulation, 2021",
+    "Legislation Name ": "Cosmetic Products Labelling Regulation, 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/COSMETIC-PRODUCTS-LABELLING-REGULATION.pdf",
     Regulator: "NAFDAC ",
@@ -18786,7 +18787,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 70 of 2021",
-    "Legislation Name": "Food Products Advertisement Regulations 2021",
+    "Legislation Name ": "Food Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC ",
@@ -18805,7 +18806,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 70 of 2021",
-    "Legislation Name": "Food Products Advertisement Regulations 2021",
+    "Legislation Name ": "Food Products Advertisement Regulations 2021",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC  ",
@@ -18824,7 +18825,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 70 of 2021",
-    "Legislation Name": "Food Products Advertisement Regulations 2022",
+    "Legislation Name ": "Food Products Advertisement Regulations 2022",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC  ",
@@ -18843,7 +18844,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 70 of 2021",
-    "Legislation Name": "Food Products Advertisement Regulations 2023",
+    "Legislation Name ": "Food Products Advertisement Regulations 2023",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC ",
@@ -18862,7 +18863,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 70 of 2021",
-    "Legislation Name": "Food Products Advertisement Regulations 2024",
+    "Legislation Name ": "Food Products Advertisement Regulations 2024",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC ",
@@ -18881,7 +18882,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 70 of 2021",
-    "Legislation Name": "Food Products Advertisement Regulations 2025",
+    "Legislation Name ": "Food Products Advertisement Regulations 2025",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC ",
@@ -18900,7 +18901,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 70 of 2021",
-    "Legislation Name": "Food Products Advertisement Regulations 2026",
+    "Legislation Name ": "Food Products Advertisement Regulations 2026",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC ",
@@ -18919,7 +18920,7 @@ const marketing = [
   },
   {
     "Act No": "S.I No. 70 of 2021",
-    "Legislation Name": "Food Products Advertisement Regulations 2027",
+    "Legislation Name ": "Food Products Advertisement Regulations 2027",
     "Act URL":
       "https://www.nafdac.gov.ng/wp-content/uploads/Files/Resources/Regulations/REGULATIONS_2021/FOOD-PRODUCTS-ADVERSTISEMENT-REGULATIONS-2021.pdf",
     Regulator: "NAFDAC ",
@@ -18938,3227 +18939,6 @@ const marketing = [
   },
 ];
 
-const finance = [
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 60",
-    "Compliance Name": "Filing of annual and periodic reports with the Commission",
-    "Compliance Description":
-      "The company must file its audited financial statements and other returns as required.",
-    "Task Frequency": "annually, periodically ",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 61",
-    "Compliance Name": "Establishment of system of internal controls",
-    "Compliance Description":
-      "The company is to establish a system of internal controls over its financial reporting and security of its assets",
-    "Task Frequency": "At all times",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 64",
-    "Compliance Name": "Disclosure of Quarterly Earnings",
-    "Compliance Description":
-      "The company is required to  disclose its quarterly earnings to the relevant exchanges.",
-    "Task Frequency": "Within 20 working days prior to the commencement of a quarter.",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 68(1)",
-    "Compliance Name":
-      "Duty to seek the SEC's approval for invitation to the public to deposit money",
-    "Compliance Description":
-      "The company must obtain the written consent of the Commission in making an invitation to the public to deposit money with it.",
-    "Task Frequency": "At the time of making the invitation ",
-    Penalty: "Conviction with payment of compensation to any third party who sustains loss. ",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 68(5)",
-    "Compliance Name": "Duty of the Company on invitation to the public to deposit money",
-    "Compliance Description":
-      "The Company must ensure that statements contained in the invitations to the public are true.",
-    "Task Frequency": "Every time invitation is made to the public",
-    Penalty: "Conviction with payment of compensation to any third party that suffers loss",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 73",
-    "Compliance Name": "Duty as to Content of Prospectus",
-    "Compliance Description":
-      "Every prospectus issued by or on behalf of the company shall be in line with statutory requirements.",
-    "Task Frequency": "At the time of creating the Prospectus",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 77",
-    "Compliance Name": "Requirements for Expert's Statement on Prospectus",
-    "Compliance Description":
-      "The company must ensure that there is expert's statement in its prostectus to the public which must remain valid and subsisting at all relevant time.",
-    "Task Frequency": "Prior to issuing the prospectus",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 79",
-    "Compliance Name": "General and Restricted Invitation to the Public",
-    "Compliance Description":
-      "Where the company proposes to invite the members of the public to subscribe to its shares, the prospectus it issues must comply with the requirements of the Act.",
-    "Task Frequency": "Prior to issuing the prospectus",
-    Penalty: "Fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 80",
-    "Compliance Name": "Registration of Prospectus",
-    "Compliance Description":
-      "The company must deliver  a signed copy of its Prospectus to the Commission before issuance of the prospectus. ",
-    "Task Frequency": "On or before the date of its publication",
-    Penalty: "Fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 84",
-    "Compliance Name": "Form of statement in lieu of Prospectus",
-    "Compliance Description":
-      "The Company must ensure that its statement in lieu of prospectus shall be in line with the requirements of the Act.",
-    "Task Frequency": "On preparing such statement",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 89 (1) & (3)",
-    "Compliance Name":
-      "Prohibition of issuance of securities earlier than 3 days after issuance of prospectus.",
-    "Compliance Description":
-      "The company is prohibited from alloting any of its securities  until the beginning of the third day after the prospectus was first issued",
-    "Task Frequency":
-      "The beginning of the third day after that on which the prospectus is first so issued or such later time (if any) as may be specified in the prospectus",
-    Penalty: "Fine",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 90",
-    "Compliance Name": "No allotment unless minimum subscription received",
-    "Compliance Description":
-      "The company shall not offer its securities for subscription unless the level of subscription exceeds the minimum percentage prescribed by the Commission from time to time.",
-    "Task Frequency":
-      "When the subscription level exceeds the minimum percentage prescribed by the Commission",
-    Penalty: "Fine",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 91",
-    "Compliance Name": "Application monies to be held in trust until allotment",
-    "Compliance Description":
-      "The Company has a duty to ensure that all monies paid prior to allotment of shares are held in a separate account as deposit by the issuing house on such terms and condition as may be prescribed by the Commission",
-    "Task Frequency": "Until the allotment of the shares or other securities",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 92",
-    "Compliance Name": "Prohibition of Allotment in certain cases",
-    "Compliance Description":
-      "Where the  company does not issue a prospectus , the Company must deliver Information in lieu prospectus to the Commission at least 3 days before allotment of shares to the public. ",
-    "Task Frequency": "At least 3 days before the first allotment of the shares",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 95(2)",
-    "Compliance Name": "Allotment of securities and dealing on securities exchange",
-    "Compliance Description":
-      "The company is to repay all monies received from applicants where the Company's  application  for permission for the securities offered by it to be dealt with on any securities exchange or capital trade point has been refused.",
-    "Task Frequency": "Within 8 days",
-    Penalty:
-      "The company to repay the monies with interest at the current bank rate per annum from the expiration of the eight days.",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 105",
-    "Compliance Name": "Prohibition of False Trading and Market Rigging Transaction",
-    "Compliance Description":
-      "The company is prohibited from engaging false trading and market rigging transactions",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with a fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 106 (1) (2) & (3)",
-    "Compliance Name": "Prohibition of Security Market Manipulation",
-    "Compliance Description":
-      "The company is prohibited from engaging in activities that will or would affect the price of securities.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with a fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 106 (4) & (5)",
-    "Compliance Name": "Prohibition of Security Market Manipulation",
-    "Compliance Description":
-      "Securities of a public company listed on any recognized securities exchange shall not be bought or sold outside the facilities of a recognized exchange on which the securities are listed",
-    "Task Frequency": "At all times",
-    Penalty: "Fine and nullification of the relevant transaction",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 107",
-    "Compliance Name": "Prohibition of False or Misleading Statements",
-    "Compliance Description":
-      "The Company must ensure that it does not make false or misleading statement likely to induce the sale or purchase of its securities or affect the market price of its securities.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with a fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 108",
-    "Compliance Name": "Fraudulently inducing persons to deal in securities",
-    "Compliance Description":
-      "The company should not engage in any act which equates to fraudulently inducing persons to deal in their securities",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with a fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 109",
-    "Compliance Name": "Prohibition Dissemination of Illegal Information",
-    "Compliance Description":
-      "The Company should not circulate or disseminate,  any statement or illegal information ",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with a fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 110",
-    "Compliance Name": "Prohibition of Fraudulent Means",
-    "Compliance Description":
-      "The Company should not directly or indirectly in connection with the purchase or sale of any securities shal not commit fraud or deceive another person.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with a fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "CAP I24 LFN 2010",
-    "Legislation Name": "Investment and Securities Act",
-    "Act URL":
-      "https://sec.gov.ng/wp-content/uploads/2016/02/THE-INVESTMENTS-AND-SECURITIES-ACT-2007_NIGERIA.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Section 111",
-    "Compliance Name": "Prohibition of Insider Dealing",
-    "Compliance Description":
-      "An insider of the company should not deal in the securities of the company which are offered to the public for sale or subscription if they have price sensitive, unpublished information in relation to those securities.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with a fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 38(1)",
-    "Compliance Name": "Filing of Audited Financial Statement",
-    "Compliance Description":
-      "Filing with the Commission an audited financial statement and other required reports.",
-    "Task Frequency": "Periodically or annually",
-    Penalty: "Fine ",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 38(2)",
-    "Compliance Name": "Filing of Audited Financial Statement",
-    "Compliance Description": "Major changes at the Company should be reported at the Commission",
-    "Task Frequency": "As changes occur",
-    Penalty: "Fine ",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 39",
-    "Compliance Name": "Annual Report",
-    "Compliance Description":
-      "The Company's annual report filed shall  comply with the relevant accounting standard",
-    "Task Frequency":
-      "Not later than ninety (90) days after the financial year end in line with the provisions of CAMA",
-    Penalty: "Fine ",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 40",
-    "Compliance Name": "Rules on Earnings Forecast",
-    "Compliance Description":
-      "The Company is required to release its earnings forecast to the relevant securities exchange, the Commission and the investing public",
-    "Task Frequency": "20 days prior to the commencement of a Quarter",
-    Penalty: "Fine ",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 41(4)",
-    "Compliance Name": "Publication of Interim Financial Statement",
-    "Compliance Description":
-      "The Company is required to publish its “signed” quarterly balance sheet, income statement and cash flow statements",
-    "Task Frequency": "Quarterly",
-    Penalty: "Fine ",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 42",
-    "Compliance Name": "Half Yearly Returns",
-    "Compliance Description": "The Company must file half yearly returns with the Commission",
-    "Task Frequency": "Within 30 days from the end of the half year period",
-    Penalty: "Fine ",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 42(4)",
-    "Compliance Name": "Unclaimed Dividend",
-    "Compliance Description":
-      "The Company  must file with the Commission a report of unclaimed dividends on half a yearly basis.",
-    "Task Frequency": "Half yearly ",
-    Penalty: "Fine ",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 42(5)",
-    "Compliance Name": "Audit Committee",
-    "Compliance Description":
-      "The Company is required to establish an audit committee with written term of reference. ",
-    "Task Frequency": "All the time",
-    Penalty: "Fine ",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 43",
-    "Compliance Name": "Risk Management by Public Companies",
-    "Compliance Description":
-      "The Company is required to include risk management as part of its accounting policies and the Board is to establish  a risk management committee. ",
-    "Task Frequency": "At all times",
-    Penalty: "Fine ",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 44",
-    "Compliance Name": "Payment of Dividend",
-    "Compliance Description":
-      "Dividends of the Company are to be paid from profits or reserves and should not be paid when there is no resource to pay. ",
-    "Task Frequency": "within 7 working days",
-    Penalty:
-      "All directors liable to refund to the company any payment made in violation of the provision.",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 279",
-    "Compliance Name": "Registrable Securities",
-    "Compliance Description":
-      "All securities of public companies and other entities shall be registered by the Commission.",
-    "Task Frequency": "Before sale",
-    Penalty: "Conviction with a fine; or penalty",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 288",
-    "Compliance Name": "Content of Prospectus",
-    "Compliance Description":
-      "Every prospectus issued by the company shall contain the information required by the Investment and Securities Act, as well the SEC Rules",
-    "Task Frequency": "At the time of making the Prospectus",
-    Penalty: "Fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 296",
-    "Compliance Name": "Opening of Subscription list",
-    "Compliance Description":
-      "Company shall not allot any of its securities until 3 days after the issuance of the prospectus day as specified in its prospectus, or any date specified in the prospectus. ",
-    "Task Frequency": "Upon issuance of prospectus",
-    Penalty: "Fine",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 308",
-    "Compliance Name": "Annual Report and accounts",
-    "Compliance Description":
-      "Companies that have issued securities to the public must publish, and also file quarterly financial statements and annual reports with the commission and other relevant securities exhange.",
-    "Task Frequency": "At the appropiate time as stated",
-    Penalty: "Fine",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 320 &323",
-    "Compliance Name": "Book Building",
-    "Compliance Description":
-      "No public company shall offer securities by way of book building process with the prior approval of the Commission",
-    "Task Frequency": "Prior to offer of securities",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 340",
-    "Compliance Name": "Private Placement",
-    "Compliance Description":
-      "No public company shall offer securities by way of private placement without the prior approval of the Commission.",
-    "Task Frequency": "Prior to making offer",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 342(3)",
-    "Compliance Name": "Access to Information",
-    "Compliance Description":
-      "Prior to the sale of securities, the issuer shall furnish to the offeree, the same information disclosed in a placement memorandum.",
-    "Task Frequency": "Within reasonable time ",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 349",
-    "Compliance Name":
-      "Prohibition of issuance, circulation etc of certain notices circulars and advertisement",
-    "Compliance Description":
-      "A company shall not issue any for subscription or purchase of securities to the public without the prior approval of the Commission",
-    "Task Frequency": "At all times",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 353",
-    "Compliance Name": "General and Restricted Invitation to the Public",
-    "Compliance Description":
-      "Where a public company invites the public to acquire its securities, the prospectus  shall state all matters as required by the Investment and Securities Act",
-    "Task Frequency": "At the point of preparing the prospectus",
-    Penalty: "Fine",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 402",
-    "Compliance Name": "Disclosure of director’s interest in stockbroking/dealing companies",
-    "Compliance Description":
-      "A director of a public company shall disclose to the Commission any interest they have in any stockbroking/dealing companies engaged by a company in which they are a director",
-    "Task Frequency": "Not stated",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "SEC Rules,June 2013",
-    "Legislation Name": "Securities and Exchange Commission Consolidated Rules 2013",
-    "Act URL":
-      "https://sec.gov.ng/files/SEC%20Consolidated%20%28JUNE2013%29%20SIGNED%28WEBSITE%29%20%281%29.pdf",
-    Regulator: "Securities and Exchange Commission",
-    Section: "Rule 404",
-    "Compliance Name":
-      "Disclosure of interest of public quoted companies in stockbroking/dealing companies",
-    "Compliance Description":
-      "All public quoted companies shall disclose their interest in stockbroking/dealing companies in public offer documents as well as in their annual report and accounts",
-    "Task Frequency": "Not stated",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TREASURY MATTERS",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 43 (2)",
-    "Compliance Name": "Prohibition of Donation for Political Purposes",
-    "Compliance Description":
-      "The company is prohibited from donating to polictial parties or for for any political purpose.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with refund of illegal donation",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 124",
-    "Compliance Name": "Duty on Minimum Issued Share Capital",
-    "Compliance Description": "The company shall not have less than the minimum share capital",
-    "Task Frequency": "At all times",
-    Penalty: "Penalty",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 146",
-    "Compliance Name": "Prohibition of Issuance of shares at a Discount",
-    "Compliance Description": "The company should not issue shares at a discount.",
-    "Task Frequency": "At all times",
-    Penalty: "Illegal transaction",
-    Criticality: "Unenforceable",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 147",
-    "Compliance Name": "Prohibition of Issuance of Irredeemable Preference Shares",
-    "Compliance Description":
-      "The company  shall not issue any preference shares which are irredeemable.",
-    "Task Frequency": "At all times",
-    Penalty: "Illegal transaction",
-    Criticality: "Unenforceable",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 155 (1) and 156 (1)",
-    "Compliance Name":
-      "Prohibition of payments of commissions, discounts out of shares and capital",
-    "Compliance Description":
-      "The company should not apply it shares or capital  money in payment to anyone to subscribe for its shares.",
-    "Task Frequency": "At all times",
-    Penalty: "Not Stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 160",
-    "Compliance Name": "Duty to receive Payment for shares",
-    "Compliance Description":
-      "The Company's shares and any premium on them must be paid up in cash or by valuable consideration other than cash.",
-    "Task Frequency": "When shares are bought",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 162 (1), (2) and (3)",
-    "Compliance Name": "Payment for shares of public companies other than in cash",
-    "Compliance Description":
-      "Where the company agrees to accept payment for its shares otherwise than wholly in cash, it shall appoint an independent valuer who shall determine the true value of such other consideration and submit report. ",
-    "Task Frequency": "Within three days of receiving valuer’s report",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 164 (3)",
-    "Compliance Name": "Duty not to sell shares on which the company has Lien",
-    "Compliance Description":
-      "The company should not sell any share on which it has a lien unless 14 days notice is given to the shareholder",
-    "Task Frequency":
-      "Unless a sum in respect of which the lien exists is currently payable, and until the expiration of 14 days after a notice in writing, demanding payment of such part of the amount in respect of which the lien exists as is currently payable, has been given to the registered holder of the shares, or the person entitled to them by reason of his death or bankruptcy",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 171",
-    "Compliance Name": "Duty to issue of Share Certificates",
-    "Compliance Description":
-      "The Company should issue share certificate for allotment or transfer of shares. following the transfer or allotment of shares",
-    "Task Frequency":
-      "Within 2 months after allotment of shares, and 3 months where transfer of shares is lodged with the company",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 174 (1)",
-    "Compliance Name": "Prohibition of issuance bearer shares",
-    "Compliance Description": "The company should not issue bearer shares",
-    "Task Frequency": "At all times",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 175 (2)",
-    "Compliance Name": "Non- Regisration of Share Transfer without proper instrument ",
-    "Compliance Description":
-      "A company should not register a transfer of shares in the company, unless a proper instrument of transfer is provided to the Company.",
-    "Task Frequency": "Unless issued a proper instrument of transfer",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 176 (1)",
-    "Compliance Name": "Duty to enter name of Transferee into Register of members",
-    "Compliance Description":
-      "Company must enter name of the Transferee into its register of members on the application of the Transferor.",
-    "Task Frequency": "Upon the application of the transferee.",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 176 (3) and 177 (1)",
-    "Compliance Name":
-      "Duty of the Company where it refuses entry of Transfer into Register of Members",
-    "Compliance Description":
-      "Where the company refuses to register the transfer of a share it should send notice of the refusal to the transferee.",
-    "Task Frequency": "Within 2 months after the date on which the transfer was lodged with it",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 180 (2)",
-    "Compliance Name": "Duty to protect beneficiaries.",
-    "Compliance Description":
-      "Where a beneficiary notifies the Company of their claim to an interest in any share, the company shall enter the existence of the notice on the register of members, and will not regster any transfer or make make any payment on the shares until after expiration of 42 days’ notice to the claimant to the proposed transfer or payment.",
-    "Task Frequency":
-      "Until the expiration of 42 days’ notice to the claimant to the proposed transfer or payment",
-    Penalty: "Civil liability",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 183 (2)",
-    "Compliance Name":
-      "Prohibition of financial assistance by company for acquisition of its shares.",
-    "Compliance Description":
-      "company should refrain from providing financial assistance to any person who wants to acquire shares in the company ",
-    "Task Frequency": "At all times",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 187 (1) and (2)",
-    "Compliance Name": "Limit on number of treasury shares ",
-    "Compliance Description":
-      "The company shall not hold more than 15% of the nominal value of the issued share capital of any class of its shares as treasury shares. ",
-    "Task Frequency": "Within 12 months from the date of contravention",
-    Penalty: "Not Stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 187 (3) and (4)",
-    "Compliance Name": "Prohibition of exercise of rights on treasury shares",
-    "Compliance Description":
-      "The company shall not exercise any right in respect of the treasury shares and no dividends or other distribution shall be paid on same.",
-    "Task Frequency": "At all times",
-    Penalty: "Illegal Transaction",
-    Criticality: "Unenforceable",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 192 and 193",
-    "Compliance Name": "Duty to deposit documents of title to debentures to te registered holder",
-    "Compliance Description":
-      "The Company must deliver Debenture of Certificate of Debenture stock  to the registered holder of same. ",
-    "Task Frequency":
-      "Within 60 days after the allotment of its debentures or after the registration of the transfer of any debentures",
-    Penalty: "Fine and Civil liability for specific performance",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 208 (1), (2) and 209",
-    "Compliance Name": "Duty to execute  debenture trust deed",
-    "Compliance Description":
-      "The Company must execute Debenture Trust deed and ensure execution by trustee for debenture holders  before the issuance of debentures to the public.",
-    "Task Frequency": "Before issuing the debentures",
-    Penalty: "Conviction with fine and or imprisonment ",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 216",
-    "Compliance Name": "Duty to keep register of charges.",
-    "Compliance Description":
-      "The company must keep its register of charges  at the registered office.",
-    "Task Frequency": "At all times",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 218",
-    "Compliance Name": "Duty to maintain Register of Debenture Holders",
-    "Compliance Description":
-      "The company when it issues  debentures must maintain a register of the holders and same should contain all the required information. ",
-    "Task Frequency":
-      "Within 30 days of the conclusion of the agreement with the company to become a debenture holder or within 30 days of the date at which he ceases to be one.",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "295 (1)",
-    "Compliance Name": "Prohibition of tax-free payments to Directors",
-    "Compliance Description":
-      "The Company should not  pay a director remuneration  free of income tax.",
-    "Task Frequency":
-      "At all times, except under a contract which was in effect at the commencement of this Act, and provides expressly for such.",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 296 (1)",
-    "Compliance Name": "Prohibition of loans to directors in certain circumstances",
-    "Compliance Description":
-      "The Company should not  provide loans to its director or a director of its holding company.",
-    "Task Frequency": "At all times, save for the exceptions allowed",
-    Penalty: "Directors liable to indemnify the company",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 297",
-    "Compliance Name": "Avoidance of Payment to a Director except approved by Members ",
-    "Compliance Description":
-      "The company should pay to any of its director, any payment by way of compensation for loss of office except approved by members of the Company.",
-    "Task Frequency": "At all times",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 301",
-    "Compliance Name": "Duty to maintain Register of directors’ shareholding, etc",
-    "Compliance Description": "The company must keep a register of director' shareholding",
-    "Task Frequency": "Not stated",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 301 (5) and (8)",
-    "Compliance Name": "Register of directors’ shareholding, etc.",
-    "Compliance Description":
-      "The register of directors’ shareholding shall be kept at the company’s registered or head office and be open to inspection during business hours ",
-    "Task Frequency":
-      "A period beginning 14 days before the date of the company’s AGM and ending three days after the date of its conclusion; or such other period",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 374 (1), 375 (1) and (2)",
-    "Compliance Name": "Companies to keep accounting records.",
-    "Compliance Description":
-      "The company shall cause accounting records to be kept. The accounting records of a company shall kept at its registered office or such other place in Nigeria as the directors think fit, and shall be available for inspection.",
-    "Task Frequency": "6 years from the date on which they were made",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 387 (1), (2)",
-    "Compliance Name": "Persons entitled to receive financial statements as of right",
-    "Compliance Description":
-      "The company shall send a copy of its financial statements to its members at least 21 days before the date of the meeting",
-    "Task Frequency":
-      "At least 21 days before the date of the meeting at which they are to be laid",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 399",
-    "Compliance Name": "Publication of Abridged Financial Reports",
-    "Compliance Description":
-      "If the company publishes abridged financial statements, it shall publish with those statements, a statement indicating, that the statements are not full financial statements",
-    "Task Frequency": "Where it publishes abridged financial statements",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "No 3, 2020",
-    "Legislation Name": "Companies and Allied Matters Act",
-    "Act URL":
-      "https://www.cac.gov.ng/wp-content/uploads/2020/12/CAMA-NOTE-BOOK-FULL-VERSION.pdf?__cf_chl_jschl_tk__=V7uabnKZ4bCN.RpIjKoHXz5Xe78a2f9Gh_P84p033g0-1636392140-0-gaNycGzNCRE",
-    Regulator: "Corporate Affairs Commission",
-    Section: "Section 401 (1), (3), (4)",
-    "Compliance Name": "Appointment of Auditors",
-    "Compliance Description":
-      "The company shall at each annual general meeting appoint an auditor or auditors to audit the financial statements of the company, and to hold office from the conclusion of that, until the conclusion of the next, annual general meeting. ",
-    "Task Frequency":
-      "At each AGM. Notification to the CAC shall be made within one week of the directors’ power to appoint becoming exercisable,",
-    Penalty: "Not Stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name": "Financial Reporting Council of Nigeria Rules",
-    "Act URL": "https://pwcnigeria.typepad.com/files/frcn-rules.pdf",
-    Regulator: "Financial Reporting Council of Nigeria",
-    Section: "Rule 1",
-    "Compliance Name":
-      "Financial Reporting Council’s certification requirement for Chief Executive Officers and Chief Financial Officers",
-    "Compliance Description":
-      "Chief Executive Officers and Chief Financial Officers of a public interest entity shall certify the annual report, financial statements, accounts, financial reports, reports and other documents of a financial nature indicating their Financial Reporting Council (FRC) registration numbers",
-    "Task Frequency": "Annually",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "REGULATORY REPORTING",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 10",
-    "Compliance Name": "Identification of a company",
-    "Compliance Description":
-      "The company shall have a Tax Identification Number (TIN)and shall publish same on all their documents.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 12",
-    "Compliance Name": "Full Disclosure of Agreement",
-    "Compliance Description":
-      "The company when entering into any agreement (whether oral or written) in respect of any service fees, dues and allowances (wherever paid) for services rendered shall make a full disclosure to the Board in writing of the terms of such agreement.",
-    "Task Frequency": "Upon making such agreement",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 29 (11)",
-    "Compliance Name":
-      "Basis for computing assessable profits - Trade or business transferred under Part II of the Companies and Allied Matters Act",
-    "Compliance Description":
-      "The company must comply with notice to deliver returns without 21 days of issuance of the notice by the Board",
-    "Task Frequency":
-      "Within the period specified in the notice, not being a period of less than 21 days from the service.",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 32 ",
-    "Compliance Name": "Reconstruction investment allowance",
-    "Compliance Description":
-      "The company must notify the board of any sale or appropriation of any asset representing a qualifying expenditure for investment allowance within 5 years of the deduction of the investment allowance or of the asset becoming a qualifying expenditure.",
-    "Task Frequency": "Within five years from the date when the expenditure was incurred",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 33",
-    "Compliance Name": "Payment of minimum tax",
-    "Compliance Description":
-      "The company shall pay minimum tax amounting to 0.5% of the company's gross turnover less franked investment income in any year of assessment in which the company has no taxable profit. ",
-    "Task Frequency": "Annually",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 48",
-    "Compliance Name": "Manager, etc., to be answerable",
-    "Compliance Description":
-      "The principal officer or manager in Nigeria of the company shall be answerable for doing all such acts, matters and things as are required to be done by virtue of this Act for the assessment of the company and payment of the tax.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 55 (1) and (2)",
-    "Compliance Name": "Returns and provisional accounts",
-    "Compliance Description":
-      "The Company must file self-assessment return every year whether or not it is liable to pay tax in that year of assessment",
-    "Task Frequency":
-      "In the case of a company that has been in business for more than 18 months, not more than 6 months after the end of its accounting year, while in the case of a newly incorporated company, within 18 months from the date of its incorporation or not later than 6 months after the end of its first accounting period, whichever is earlier.",
-    Penalty: "Administrative Penalty",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 57",
-    "Compliance Name": "Filing of returns by companies operating in the capital market",
-    "Compliance Description":
-      "The company operating in a Nigerian stock exchange shall file with the Board or any other relevant tax authority, a return in the prescribed form of its transactions during the preceding calendar month. ",
-    "Task Frequency": "Not later than 7 days after the end of each calendar month",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 60 (1)",
-    "Compliance Name": "Power to call for returns, books, documents and information",
-    "Compliance Description":
-      "The company is shall comply with all notices from the board requesting for returns, examination of records, as well as the appearance of the company before the Board",
-    "Task Frequency": "On receiving notice",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 63",
-    "Compliance Name": "Books of Account",
-    "Compliance Description":
-      "The company  shall, whether or not liable to pay tax, maintain books and accounts containing sufficient information or data of all transactions. ",
-    "Task Frequency": "At all times",
-    Penalty: "Administrative penalty",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 64 (6)",
-    "Compliance Name": "Power to enter and search premises",
-    "Compliance Description":
-      "A company on which a warrant for inspection of premises has been served must fully co‐operate with the authorised person(s) by allowing easy access to the premises to be searched and to the items or documents that may be required for the investigation, answer all questions and queries put to it in the cause of the search and put in accessible position and facilitate the removal of all items that may be required to assist the investigation.",
-    "Task Frequency": "On receiving search warrant",
-    Penalty: "Conviction with fine or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 77 (1)",
-    "Compliance Name": "Time within which tax (including provisional tax) is to be paid",
-    "Compliance Description":
-      "Where tax has been charged by any assessment which is not appealed by the company, it shall be payable at the place stated in the notice of assessment within 30 days after service of such notice on the company.",
-    "Task Frequency": "Within 30 days after service of notice on the company",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 77 (4)",
-    "Compliance Name": "Time within which tax (including provisional tax) is to be paid",
-    "Compliance Description":
-      "Every company shall pay their due tax on or before the due date of filing, in one lump sum or in installments subject to the approval of the FIRS",
-    "Task Frequency":
-      "On or before the due date. However, if paid 90 days before due date, Bonus of 1% of tax paid shall be credited against future tax payments",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 78",
-    "Compliance Name": "Deduction of tax from interest, etc.",
-    "Compliance Description":
-      "Where any interest other than interest on inter‐bank deposits or royalty is owed by one company to another, or to any person to whom the provisions of the Personal Income Tax Act apply, the company making such payment shall, deduct from it, tax at the rate of 10% and shall pay over to the Board, the deducted amount. ",
-    "Task Frequency": "At the date when payment is made or credited, whichever first occurs",
-    Penalty: "Conviction with fine ",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 79",
-    "Compliance Name": "Deduction of tax on rent",
-    "Compliance Description":
-      "Where any rent becomes due from or payable by one company to another, or to any person to whom the provisions of the Personal Income Tax Act apply, the company paying such rent shall deduct from it, tax at the rate of 10% and shall pay such deducted tax over to the Board. ",
-    "Task Frequency": "At the date when the rent is paid or credited, whichever first occurs.",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 80",
-    "Compliance Name": "Deduction of tax from dividend",
-    "Compliance Description":
-      "Where any dividend or such other distribution becomes due from or payable by a Nigerian company to any other company or to any person to whom the provisions of the Personal Income Tax Act apply, the company paying such dividend or making such distribution shall, deduct from it, tax at the rate of 10%. ",
-    "Task Frequency": "At the date when the amount is paid or credited, whichever first occurs",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C21, LFN 2010 (As amended)",
-    "Legislation Name": "Companies Income Tax Act",
-    "Act URL": "Company-Income-Tax-Act.pdf (firs.gov.ng)",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 81",
-    "Compliance Name": "Deduction of tax at source",
-    "Compliance Description":
-      "The company must obey any directive from the Board, mandating it to deduct any income tax assessable on it, whether or not an assessment has been made, from any payments made by any person to such company.",
-    "Task Frequency": "When the Board makes such directive",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C45. LFN 2010",
-    "Legislation Name": "Custom and Excise Management (Amendment) Act",
-    "Act URL": "https://customs.gov.ng/?page_id=3111",
-    Regulator: "The Board of Customs and Excise",
-    Section: "Section 37",
-    "Compliance Name": "Duty on imported goods",
-    "Compliance Description":
-      " An importer must pay to the proper officer, any duty chargeable on imported goods, or else such goods shall not be delivered or removed. ",
-    "Task Frequency": "On or prior to the delivery or removal of imported goods",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C45. LFN 2010",
-    "Legislation Name": "Custom and Excise Management (Amendment) Act",
-    "Act URL": "https://customs.gov.ng/?page_id=3111",
-    Regulator: "The Board of Customs and Excise",
-    Section: "Section 43 (2)",
-    "Compliance Name": "Exported goods and goods delivered free of duty, etc.",
-    "Compliance Description":
-      "Where by law, imported goods are exempted from duty as being meant for specific uses or purposes, or subject to certain conditions,  the importer must ensure that such goods will not be used or sold except for the purpose or specific use for which they are imported, or against the conditions imposed thereon, except with the permission of the Board. ",
-    "Task Frequency": "At all times",
-    Penalty: "Fine and Forfeiture",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C45. LFN 2010",
-    "Legislation Name": "Custom and Excise Management (Amendment) Act",
-    "Act URL": "https://customs.gov.ng/?page_id=3111",
-    Regulator: "The Board of Customs and Excise",
-    Section: "Section 47 (1)",
-    "Compliance Name": "Penalty for improper importation of goods, etc.",
-    "Compliance Description":
-      "No person shall act with any intent to evade any duty or prohibition imposed on any imported goods",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C45. LFN 2010",
-    "Legislation Name": "Custom and Excise Management (Amendment) Act",
-    "Act URL": "https://customs.gov.ng/?page_id=3111",
-    Regulator: "The Board of Customs and Excise",
-    Section: "Section 59",
-    "Compliance Name": "Duty on exported goods",
-    "Compliance Description":
-      "Except with the permission of the Board export duty must be paid on all goods to be exported.",
-    "Task Frequency": "Before exportation of goods",
-    Penalty: "Forfeiture",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C45. LFN 2010",
-    "Legislation Name": "Custom and Excise Management (Amendment) Act",
-    "Act URL": "https://customs.gov.ng/?page_id=3111",
-    Regulator: "The Board of Customs and Excise",
-    Section: "Section 120",
-    "Compliance Name": "Power to make regulations",
-    "Compliance Description":
-      "Every person is bound to comply with the regulations made by the Minister for the calculating, securing and collecting the excise duties on any such goods. ",
-    "Task Frequency": "At all times",
-    Penalty: "Fine and Forfeiture",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C45. LFN 2010",
-    "Legislation Name": "Custom and Excise Management (Amendment) Act",
-    "Act URL": "https://customs.gov.ng/?page_id=3111",
-    Regulator: "The Board of Customs and Excise",
-    Section: "Section 160",
-    "Compliance Name": "Failure to pay duty on demand",
-    "Compliance Description":
-      "If any customs and excise duty is not paid at the time when it becomes payable under any enactment by any person from whom it is due, whether or not payment of that duty has been secured by bond or otherwise, it shall be paid on demand made by the Board.",
-    "Task Frequency": "On demand by the Board",
-    Penalty: "Fine",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C45. LFN 2010",
-    "Legislation Name": "Custom and Excise Management (Amendment) Act",
-    "Act URL": "https://customs.gov.ng/?page_id=3111",
-    Regulator: "The Board of Customs and Excise",
-    Section: "Section 164",
-    "Compliance Name": "Penalty for fraudulent evasion of duty",
-    "Compliance Description":
-      "No person shall knowingly and with intent to defraud the Federal Government of any duty payable, or to evade any prohibition with, acquire possession of, or be in any way concerned in the carrying, removing, depositing, harbouring, keeping or concealing or in any manner deal with any goods which have been unlawfully removed from a warehouse or Government warehouse, or which are chargeable with a duty which has not been paid, or with respect to the importation, exportation or carriage coastwise of which any prohibition is for the time being in force; or be in any way knowingly concerned in any fraudulent evasion or attempt at evasion of any duty chargeable or of any such prohibition or of any provision of this Act applicable to those goods",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C49, 2010",
-    "Legislation Name": "Custom, Excise Tariff, Etc. (Consolidation) Act.",
-    "Act URL": "https://v1.judy.legal/statute/customs-excise-tariff-etc-consolidation-act",
-    Regulator: "The Board of Customs and Excise",
-    Section: "Section 6",
-    "Compliance Name": "Levy on imported sugar",
-    "Compliance Description":
-      "In addition to the customs duty and other approved charges, all sugar importers are charged with a 5% levy on the C.I.F. value.",
-    "Task Frequency": "Not stated",
-    Penalty: "NIL",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP. C49, 2010",
-    "Legislation Name": "Custom, Excise Tariff, Etc. (Consolidation) Act.",
-    "Act URL": "https://v1.judy.legal/statute/customs-excise-tariff-etc-consolidation-act",
-    Regulator: "The Board of Customs and Excise",
-    Section: "Section 9",
-    "Compliance Name": "Goods prohibited from being imported",
-    "Compliance Description":
-      "The company shall import the goods specified in the Third and Fourth Schedules to this Act into Nigeria.",
-    "Task Frequency": "At all times",
-    Penalty: "NIL",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP F36 2010",
-    "Legislation Name": "Federal Inland Revenue Service Act",
-    "Act URL": "https://taxaide.com.ng/files/FIRS_ESTABLISHMENT_ACT.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 26",
-    "Compliance Name": "Call for Returns, books, documents and information",
-    "Compliance Description":
-      "The company must obey all notices from the FIRS for the delivery of returns or for the purpose of appearance for examination",
-    "Task Frequency": "On receiving notice",
-    Penalty: "Penalty",
-    Criticality: "Low - Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP F36 2010",
-    "Legislation Name": "Federal Inland Revenue Service Act",
-    "Act URL": "https://taxaide.com.ng/files/FIRS_ESTABLISHMENT_ACT.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 27(1)",
-    "Compliance Name": "Call for further returns and payment of tax due",
-    "Compliance Description":
-      "The company is bound by a demand from the Service to deliver fuller or further returns in respect of any matter relating to the functions of the Service under this Act.",
-    "Task Frequency": "On demand",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP F36 2010",
-    "Legislation Name": "Federal Inland Revenue Service Act",
-    "Act URL": "https://taxaide.com.ng/files/FIRS_ESTABLISHMENT_ACT.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 27(2)",
-    "Compliance Name": "Call for further returns and payment of tax due",
-    "Compliance Description":
-      "The company is bound by a demand from the Service to pay taxes when due whether or not the payment of that tax has been secured by a bond or otherwise",
-    "Task Frequency": "On demand",
-    Penalty: "Penalty",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP F36 2010",
-    "Legislation Name": "Federal Inland Revenue Service Act",
-    "Act URL": "https://taxaide.com.ng/files/FIRS_ESTABLISHMENT_ACT.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 29",
-    "Compliance Name": "Compliance with Authorised Inspectors",
-    "Compliance Description":
-      "The occupier of a land, building or place that is entered or proposed to be entered by an authorized officer for inspection, shall provide the officer with all reasonable facilities and assistance for the effective exercise of powers under this section; and answer questions relating to the effective exercise of the powers under this section",
-    "Task Frequency": "During Inspection",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP I8 LFN 2010",
-    "Legislation Name": "Industrial Inspectorate Act",
-    "Act URL":
-      "https://kwaracails.edu.ng/library/law/nigerian_laws/INDUSTRIAL_INSPECTORATE_ACT_CAP_180_LFN_1990_ACT_CAP_I8_LFN_2004.pdf",
-    Regulator: "Industrial Inspectorate Division",
-    Section: "Section 3 ",
-    "Compliance Name": "Certificate of Acceptance of Industrial Undertaking",
-    "Compliance Description":
-      "The Company when  proposing to either start a new undertaking, or incur additional expenditure on an existing undertaking, of not less than N20,000 shall notify the Director of the Division of their intention in the form specified in the First Schedule to the Act.",
-    "Task Frequency": "Before beginning or continuing undertaking",
-    Penalty: "Conviction with a fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP I8 LFN 2010",
-    "Legislation Name": "Industrial Inspectorate Act",
-    "Act URL":
-      "https://kwaracails.edu.ng/library/law/nigerian_laws/INDUSTRIAL_INSPECTORATE_ACT_CAP_180_LFN_1990_ACT_CAP_I8_LFN_2004.pdf",
-    Regulator: "Industrial Inspectorate Division",
-    Section: "Section 6 & 7",
-    "Compliance Name": "Filing of the Returns with the Division",
-    "Compliance Description":
-      "The Company must comply with all notices from the Director of the Industrial Inspectorate Division",
-    "Task Frequency": "2 months from the date of the notice from the director",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP P8. LFN, 2010. (As amended)",
-    "Legislation Name": "Personal Income Tax Act.",
-    "Act URL": "http://admin.theiguides.org/Media/Documents/PITA-Ammendment.pdf",
-    Regulator:
-      "Federal Inland Revenue Service/State Board of Inland Revenue/Local Government Revenue Committee",
-    Section: "Section 47 (5)",
-    "Compliance Name": "Power to call for returns, books, documents and information",
-    "Compliance Description":
-      "The company shall provide any information demanded of them by any tax authority in a format as may be prescribed by the tax authority.",
-    "Task Frequency": "Not stated",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP P8. LFN, 2010. (As amended)",
-    "Legislation Name": "Personal Income Tax Act.",
-    "Act URL": "http://admin.theiguides.org/Media/Documents/PITA-Ammendment.pdf",
-    Regulator:
-      "Federal Inland Revenue Service/State Board of Inland Revenue/Local Government Revenue Committee",
-    Section: "Section 56 (4) and (5)",
-    "Compliance Name": "List of persons assessed, etc",
-    "Compliance Description":
-      "The company shall produce the record maintained by him on employees on whom tax is assessable, for examination by the relevant tax authorit, and allow such authorised officer access to the said records. ",
-    "Task Frequency": "Within 21 days of notice",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP P8. LFN, 2010. (As amended)",
-    "Legislation Name": "Personal Income Tax Act.",
-    "Act URL": "http://admin.theiguides.org/Media/Documents/PITA-Ammendment.pdf",
-    Regulator:
-      "Federal Inland Revenue Service/State Board of Inland Revenue/Local Government Revenue Committee",
-    Section: "Section 70 (1), (2) and (3)",
-    "Compliance Name": "Deduction of tax on interest, etc.",
-    "Compliance Description":
-      "Where an interest or royalty, becomes due or payable to an individual, the company shall at the date when the payment is made or credited, whichever first occurs, shall deduct from it, tax at the rate of 10% of gross interest and 5% of gross royalty, and shall pay over to the relevant tax authority the deducted amount. ",
-    "Task Frequency": "At the date the payment is made or credited, whichever occurs first",
-    Penalty: "Penalty",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP P8. LFN, 2010. (As amended)",
-    "Legislation Name": "Personal Income Tax Act.",
-    "Act URL": "http://admin.theiguides.org/Media/Documents/PITA-Ammendment.pdf",
-    Regulator:
-      "Federal Inland Revenue Service/State Board of Inland Revenue/Local Government Revenue Committee",
-    Section: "Section 71",
-    "Compliance Name": "Deduction of tax on dividend",
-    "Compliance Description":
-      "Where a dividend or such other distribution becomes due from or payable by a Nigerian company to an individual, the company making the payment shall at the date when the amount is paid or credited, whichever first occurs, deduct therefrom tax at the rate of 10% and shall forthwith pay over to the relevant tax authority the amount so deducted. ",
-    "Task Frequency": "At the date when the amount is paid or credited, whichever occurs first",
-    Penalty: "Penalty",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP P8. LFN, 2010. (As amended)",
-    "Legislation Name": "Personal Income Tax Act.",
-    "Act URL": "http://admin.theiguides.org/Media/Documents/PITA-Ammendment.pdf",
-    Regulator:
-      "Federal Inland Revenue Service/State Board of Inland Revenue/Local Government Revenue Committee",
-    Section: "Section 72",
-    "Compliance Name": "Deduction of tax on director’s fees",
-    "Compliance Description":
-      "Where any payment of director’s fees becomes due or payable to a person, the payer at the date when the payment is made or credited, whichever first occurs, shall deduct therefrom tax at the rate of 10% and shall forthwith pay over to the relevant tax authority the amount so deducted.",
-    "Task Frequency": "At the date when the amount is paid or credited, whichever occurs first",
-    Penalty: "Penalty",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP P8. LFN, 2010. (As amended)",
-    "Legislation Name": "Personal Income Tax Act.",
-    "Act URL": "http://admin.theiguides.org/Media/Documents/PITA-Ammendment.pdf",
-    Regulator:
-      "Federal Inland Revenue Service/State Board of Inland Revenue/Local Government Revenue Committee",
-    Section: "Section 81 (2)",
-    "Compliance Name": "P.A.Y. E",
-    "Compliance Description":
-      "Every employer shall be required to file a return with the relevant tax authority of all emoluments paid to its employees, not later than 31st January of every year in respect of all employees in its employment in the preceding year.",
-    "Task Frequency": "Not later than 31st January of every year",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 5 (1)",
-    "Compliance Name": "Manner of Denoting Duty",
-    "Compliance Description":
-      "All duties chargeable under this Act must be paid in accordance with the act",
-    "Task Frequency": "At all times",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 7 (3)",
-    "Compliance Name": "Discontinuance and Issue of Die",
-    "Compliance Description":
-      "Where a die has been discontinued by notice in the Gazette, all persons possessing any material stamped with the discontinued die, which by reason of the provision of a new die, has been rendered useless, send the material to the Accountant-General, who shall stamp on such material to be cancelled and refund the amount paid upon it.",
-    "Task Frequency": "Within 6 months after the day stated in the notice",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 12",
-    "Compliance Name": "Proper time for Stamping Instruments",
-    "Compliance Description":
-      "Every instrument first executed in Nigeria, which by law may or is required to be stamped by adhesive stamp, must be stamped on or before its first execution",
-    "Task Frequency": "On or before the first execution of the instrument.",
-    Penalty: "Document will be inadmissible in evidence in court,",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 13",
-    "Compliance Name": "Penalty for fraud in relation to adhesive stamps",
-    "Compliance Description": "The company shall not fraudulently remove and reuse adhesive stamp",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 20",
-    "Compliance Name": "Two commissioners not to adjudicate on same instrument",
-    "Compliance Description":
-      "The company shall submit the same instrument to two different commissioners to make an opinion on.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 42",
-    "Compliance Name": "Penalty for issuing any unstamped bill or note",
-    "Compliance Description":
-      "It is a crime for a person to issue, endorse, transfer, negotiate, present for payment, or pay any bill of exchange or promissory note liable to duty and not being duly stamped. ",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 44",
-    "Compliance Name": "Bills of lading",
-    "Compliance Description":
-      "A bill of lading is to be stamped before its execution, and it shall not be stamped after its execution.",
-    "Task Frequency": "Prior to its execution",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 50",
-    "Compliance Name": "Obligation to execute contract note",
-    "Compliance Description":
-      "All contract notes must be duly stamped before its making or execution.",
-    "Task Frequency": "Before the making or execution of the contract note",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 72",
-    "Compliance Name": "Provisions as to letters of allotment",
-    "Compliance Description":
-      "No person shall execute, grant, issue, or deliver out any document chargeable with duty as a letter of allotment, letter or renunciation, or scrip certificate, or as scrip, without it being duly stamped.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 78",
-    "Compliance Name": "Marketable security transferable on delivery to be stamped on execution",
-    "Compliance Description":
-      "All marketable securities transferable on delivery (not being a foreign security or a Commonwealth Government Security made or issued out of Nigeria) shall be stamped, and a foreign security made or issued out of Nigeria shall be stamped before being dealt with in the manner specified in this Act.",
-    "Task Frequency":
-      "On or before the issue or first execution of the security for a local security. Where it is a foreign security, it shall be stamped before being dealt with.",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 87",
-    "Compliance Name":
-      "Penalty for not making out policy of insurance or making any policy not stamped",
-    "Compliance Description":
-      "The company shall ensure that all policy of insurance are duly stamped. ",
-    "Task Frequency": "Within the specified time",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 89 and 91",
-    "Compliance Name":
-      "Terms upon which receipts may be stamped after execution and used in evidence unstamped",
-    "Compliance Description":
-      "A receipt charged with a duty must be duly stamped before it is issued.",
-    "Task Frequency":
-      "Before it is issued or after, the latter being subject to conditions stated in the Act",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 99",
-    "Compliance Name": "Meaning and provisions as to warrants for goods",
-    "Compliance Description":
-      "No person shall make, execute or issue, or receive, or take by way of security or indemnity, any warrant for goods not being duly stamped.",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 100",
-    "Compliance Name": "Charge of duty on capital of limited liability companies",
-    "Compliance Description":
-      " The statement of the amount of any increase of registered capital which is required to be delivered to the CAC shall be delivered duly stamped with the duty charged thereon.",
-    "Task Frequency":
-      "Within fifteen days after the passing of the resolution by which the registered capital is increased",
-    Penalty: "Penalty ",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP S8, LFN 2010",
-    "Legislation Name": "Stamp Duties Act",
-    "Act URL": "https://taxaide.com.ng/files/Stamp%20Duties.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 102",
-    "Compliance Name": "Duty on loan capital",
-    "Compliance Description":
-      "Where any Nigerian corporation, company or body of persons propose to issue any loan capital, they shall, before the issue thereof, deliver to the CAC, a statement of the amount proposed to be secured by the issue, and the duty charged on it shall be paid before its delivery to the CAC.",
-    "Task Frequency": "Before the issue of such loan",
-    Penalty: "Penalty ",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "2011 No. 16 (As Amended)",
-    "Legislation Name": "Tertiary Education Trust Fund Act 2011",
-    "Act URL": "http://admin.theiguides.org/Media/Documents/TETFund%20Act.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 1(2),2(2)& 11",
-    "Compliance Name": "Imposition of Tertiary Education Tax",
-    "Compliance Description":
-      "Companies other than small companies registered in Nigeria must pay Tertiary Education Tax amounting to 2% on the assessable profits",
-    "Task Frequency": "Within 60 of service of notice of assessment of company’s profit by FIRS",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 8(1) & (2)",
-    "Compliance Name": "Registration and Deregistration Requirements",
-    "Compliance Description":
-      "A taxable person under the Act shall upon commencement of business, register with the Board for the purpose of the tax.",
-    "Task Frequency": "Upon commencement of business",
-    Penalty: "Penalty ",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 8(3)",
-    "Compliance Name": "Registration and Deregistration Requirements",
-    "Compliance Description":
-      "Where a taxable person ceases to carry on trade or business in Nigeria, it shall inform the Board of its intention to de-register for tax purposes",
-    "Task Frequency": "Within 90 days of such cessation of trade or business",
-    Penalty: "Penalty ",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 11",
-    "Compliance Name": "Records and Accounts",
-    "Compliance Description":
-      "The company shall keep such records and books of all transactions, operations imports and other activities relating to taxable goods and services as are sufficient to determine the correct amount of tax due under the Act",
-    "Task Frequency": "At all times",
-    Penalty:
-      "Penalty for Failure to keep proper records and accounts. Conviction with fine for furnishing false documents",
-    Criticality: "Medium - High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 12",
-    "Compliance Name": "Payment of Tax by Taxable Person",
-    "Compliance Description":
-      "The company shall pay to the supplier, the tax on taxable goods and services purchased by or supplied to the person. This tax is called Input Tax",
-    "Task Frequency": "On supply of taxable goods",
-    Penalty: "Penalty",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 13A",
-    "Compliance Name": "Tax Invoice",
-    "Compliance Description":
-      "The company must furnish purchaser with tax invoice where it makes a taxable supply to the purchaser. ",
-    "Task Frequency": "On supply of taxable goods",
-    Penalty: "Conviction with fine",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 14 (1) (2)",
-    "Compliance Name": "Collection of Tax by Taxable Person",
-    "Compliance Description":
-      "Company on supplying taxable goods or services to their accredited distributor, agent, client or consumer, as the case may be, collect the tax on those goods or services at the rate specified in the Act. This tax is called Output Tax",
-    "Task Frequency": "On supply of taxable goods",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 15",
-    "Compliance Name": "Taxable Persons to render Returns",
-    "Compliance Description":
-      "The company, which in the course of business, has made or expects to make taxable supplies, valuing either singularly or cumulatively in any calendar year, N25,000,000 or more shall render to the Service, a return of the input tax paid and output tax collected by him in the preceding month in the manner prescribed by the Service",
-    "Task Frequency":
-      "On or before the 21st day of every month in which this threshold is achieved and on or before the same day in successive months thereafter",
-    Penalty: "Penalty ",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Sections 16(1) & 19",
-    "Compliance Name": "Remission of Tax",
-    "Compliance Description":
-      "A taxable person shall, on rendering a return under Section 15(1) of the Act, remit the excess to the Service if the output tax exceeds the input tax; or be entitled to utilise the excess tax as a credit against subsequent month",
-    "Task Frequency": "After rendering returns",
-    Penalty: "Penalty",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 16(2)",
-    "Compliance Name": "Payment of Tax on Imported Goods",
-    "Compliance Description":
-      "An importer of taxable goods shall, before clearing those goods, pay to the Board the tax on those goods",
-    "Task Frequency": "Before clearing the imported goods",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 2 & 26",
-    "Compliance Name": "Taxable Goods and Services",
-    "Compliance Description":
-      "VAT shall be charged and payable on the supply of all taxable goods and services",
-    "Task Frequency": "Not stated",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 27",
-    "Compliance Name": "Failure to make Attribution",
-    "Compliance Description":
-      "Where the company is required to make an attribution, they must do it",
-    "Task Frequency": "On demand",
-    Penalty: "Penalty ",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 28",
-    "Compliance Name": "Notification of Change of Address",
-    "Compliance Description":
-      "Where the company changes their address, they must notify the Board of such change",
-    "Task Frequency": "Within 1 month of such change",
-    Penalty: "Penalty",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "CAP V1 LFN 2010 (As Amended)",
-    "Legislation Name": "Value Added Tax Act",
-    "Act URL": "https://lawsofnigeria.placng.org/laws/V1.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Section 30 & 39",
-    "Compliance Name": "Inspection by Authorised Officer",
-    "Compliance Description":
-      "Where an authorised officer by the Board is empowered to inspect a premises, occupiers of such premises are to comply with the inspection",
-    "Task Frequency": "Not stated",
-    Penalty: "Conviction with fine and/or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TAX AND LEVIES",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name": "Income Tax (Transfer Pricing) Regulation, 2018",
-    "Act URL":
-      "https://taxaide.com.ng/files/Income%20Tax%20(Transfer%20Pricing)%20Regulations%202018.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "R. 13.1, 13.3 & 13.8",
-    "Compliance Name": "Transfer Pricing Declaration",
-    "Compliance Description":
-      "A connected person to declare all its relationships with all connected persons",
-    "Task Frequency":
-      "Not later than 18 months after incorporation or within 6 months after the end of the Accounting year whichever is earlier",
-    Penalty:
-      "Fine of 10,000,000 in addition to 10,000 for every day in which the failure continues",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name": "Income Tax (Transfer Pricing) Regulation, 2018",
-    "Act URL":
-      "https://taxaide.com.ng/files/Income%20Tax%20(Transfer%20Pricing)%20Regulations%202018.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "R. 14.1, 14.3, & 14.4",
-    "Compliance Name": "Disclosure of Controlled Transactions",
-    "Compliance Description":
-      "A connected person required to without notice or demand make disclosure of transaction that are subject to these regulations",
-    "Task Frequency":
-      "not later than 6 months after the end of each accounting year or 18 months after the date of incorporation, whichever is earlier",
-    Penalty:
-      "Fine of 10,000,000 or 1% of the value of the controlled transaction, whichever is higher, and 10,000 for every day in which the failure continues",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name": "Income Tax (Transfer Pricing) Regulation, 2018",
-    "Act URL":
-      "https://taxaide.com.ng/files/Income%20Tax%20(Transfer%20Pricing)%20Regulations%202018.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "R. 16.1 & 16.5",
-    "Compliance Name": "Documentation",
-    "Compliance Description":
-      "A connected person shall record, in writing or on any other electronic device to verify that the pricing of controlled transactions is consistent with the arm’s length principle ",
-    "Task Frequency": "within 21 days of receiving a request from the Service",
-    Penalty:
-      "Fine of 10,000,000 or 1% of the total value of all controlled transactions, whichever is higher; and 10,000 for every day in which the failure continues",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name": "Income Tax (Transfer Pricing) Regulation, 2018",
-    "Act URL":
-      "https://taxaide.com.ng/files/Income%20Tax%20(Transfer%20Pricing)%20Regulations%202018.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "R. 17.1, 17.3 & 17.5",
-    "Compliance Name": "Information and Documents to be maintained",
-    "Compliance Description":
-      "A connected person is required to maintain contemporaneous documentation consistent with the provisions of the Schedule to these Regulations",
-    "Task Frequency":
-      "not later than 90 days from the date of receipt of a notice from the Service",
-    Penalty:
-      "Fine of 10,000,000 or 1% of the total value of all controlled transactions, whichever is higher; and 10,000 for every day in which the failure continues",
-    Criticality: "Medium",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 5",
-    "Compliance Name": "Permanent Establishment",
-    "Compliance Description":
-      "Enterprise of a contracting state required to have a permanent establishment and shall not be deemed to have a permanent establishment in the the other contracting state merely because it carries on business in that other state through a broker or agent",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 6",
-    "Compliance Name": "Income from immovable Property",
-    "Compliance Description":
-      "Income derived by resident of a contracting state from immovable property situated in the other contracting state may be taxed in that other state",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 7",
-    "Compliance Name": "Business Profits",
-    "Compliance Description":
-      "The profits of an enterprise of a contracting state shall be taxable only in that state unless the enterprise carries on business in the other contracting state through a permanent establishment situated therein",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 15",
-    "Compliance Name": "Dependent Personal Service",
-    "Compliance Description":
-      "Remuneration derived by resident of a contracting state in respect of an employment exercised in the other contracting state shall be taxable if the resident is present in the other state for a period not exceeding 183 days and remuneration is paid by or on behalf of an employer who is not resident of the other contracting state",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 24, 25, 26",
-    "Compliance Name": "Mutual Agreement Procedure",
-    "Compliance Description":
-      "Where a resident or a national of a contracting state considers that the action of one or both of the contracting states result or will result in taxation not in accordance with this Agreement, he may present his case to the competent authority of the contracting state",
-    "Task Frequency":
-      "Case must be presented within 3 years from the first notification of the action resulting in taxation",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 10",
-    "Compliance Name": "Dividend",
-    "Compliance Description":
-      "Dividend derived from a company which is a resident of a Contracting State by a resident of the other Contracting State may be taxed in that other state.",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 11",
-    "Compliance Name": "Interest",
-    "Compliance Description":
-      "Interest arising in a Contracting State and paid to a resident of the other contracting state may be taxed in that state",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 12",
-    "Compliance Name": "Royalties",
-    "Compliance Description":
-      "Royalties arising in a Contracting State and paid to a resident of the other contracting state may be taxed in that state",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 14",
-    "Compliance Name": "Independent Personal Services",
-    "Compliance Description":
-      "Income derived by resident of a contracting state in respect of professional services or other independent activities of a similar character shall be taxable only in that state unless  he has  a fixed base regularly available to him in the other contracting state for the purpose of performing his activities, in which case so much of the income may be taxed in that other contracting state as is attributable to  fixed base",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 16",
-    "Compliance Name": "Directors' fees",
-    "Compliance Description":
-      "Directors' fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors of company which is a resident of the other Contracting state may be taxed in that other state",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "N/A",
-    "Legislation Name":
-      "Avoidance of Double Taxation Agreements (Pursuant to Bilateral Treaties entered with United Kingdom, Belgium, Canada, China, the Czech Republic, France, the Netherlands, Pakistan, the Philippines, Romania, Singapore, Spain, Slovakia, and South Africa)",
-    "Act URL": "https://www.firs.gov.ng/wp-content/uploads/2021/03/ADTA-NIGERIA-AND-UK.pdf",
-    Regulator: "Federal Inland Revenue Service",
-    Section: "Article 18",
-    "Compliance Name": "Pensions and Annuities",
-    "Compliance Description":
-      "Pensions and other similar remuneration paid in consideration of past employment to a resident of a Contracting State and any annuity paid to such a resident shall be taxable only in the State from which such income is derived",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "TRANSFER PRICING",
-  },
-  {
-    "Act No": "TED/FEM/PUB/FPC/01/06",
-    "Legislation Name": "Circular on Sugar Importation In Nigeria dated July 16 2021 ",
-    "Act URL": "https://www.cbn.gov.ng/out/2021/ccd/sugar-importation.pdf\n",
-    Regulator: "Central Bank of Nigeria",
-    Section: "Para 3",
-    "Compliance Name": "Importation of Sugar",
-    "Compliance Description":
-      "Authorised dealers not to open Forms M or access foreign exchange in the Nigerian foreign exchange market for any company for the importation of Sugar without prior and express approval of CBN",
-    "Task Frequency": "Not stated",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "For Your Information",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "CBN CIRCULARS",
-  },
-  {
-    "Act No": "CAP I17 LFN 2010",
-    "Legislation Name": "Insurance Act 2010",
-    "Act URL": "http://lawsofnigeria.placng.org/laws/I17.pdf",
-    Regulator: "National Insurance Commission",
-    Section: "Section 64",
-    "Compliance Name": "Insurance of building under construction",
-    "Compliance Description":
-      "Any building of more than two floors is to be insured in respect of construction risks \ncaused by his negligence or the negligence of his servants, agents or consultants",
-    "Task Frequency": "Not stated",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP N42 LFN 2004",
-    "Legislation Name": "National Health Insurance Scheme Act",
-    "Act URL": "https://www.health.gov.ng/doc/NATIONAL%20HEALTH%20INSURANCE%20SCHEME%20ACT.pdf\n",
-    Regulator: "Governing Council",
-    Section: "Section 16(1), 28(1)(a) & 28(2)(a)",
-    "Compliance Name": "Payment of Contributions under the Scheme",
-    "Compliance Description":
-      "An employer who has a minimum of ten employees may, together with every\nperson in his employment, pay contributions under the Scheme",
-    "Task Frequency": "As may be determined by the Council",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP N42 LFN 2004",
-    "Legislation Name": "National Health Insurance Scheme Act",
-    "Act URL": "https://www.health.gov.ng/doc/NATIONAL%20HEALTH%20INSURANCE%20SCHEME%20ACT.pdf",
-    Regulator: "Governing Council",
-    Section: "Section 16(2), 28(1)(b), & 28(2)(b)",
-    "Compliance Name": "Payment of Contributions under the Scheme",
-    "Compliance Description":
-      "An employer under the Scheme shall cause to be deducted from an employee's wages the negotiated amount of any contribution payable by the employee",
-    "Task Frequency": "Not stated",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP N42 LFN 2004",
-    "Legislation Name": "National Health Insurance Scheme Act",
-    "Act URL": "https://www.health.gov.ng/doc/NATIONAL%20HEALTH%20INSURANCE%20SCHEME%20ACT.pdf",
-    Regulator: "Governing Council",
-    Section: "Section 17",
-    "Compliance Name": "Registration by employers",
-    "Compliance Description":
-      "Employer is required to register itself and its employees under the scheme",
-    "Task Frequency": "As may be specified in guidelines issued by the Council",
-    Penalty: "Not stated",
-    Criticality: "NIL",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP E7A LFN 2010",
-    "Legislation Name": "Employees' Compensation Act, 2010",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
-    Regulator: " Nigeria Social Insurance Trust Fund Management Board",
-    Section: "Section 33, 34 and 45",
-    "Compliance Name": "Employers Contribution to Fund",
-    "Compliance Description":
-      "Every employer shall make a minimum monthly contribution of 1.0 per cent of the total monthly payroll into the Fund",
-    "Task Frequency": " Monthly",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP E7A LFN 2010",
-    "Legislation Name": "Employees' Compensation Act, 2010",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
-    Regulator: " Nigeria Social Insurance Trust Fund Management Board",
-    Section: "Section 5",
-    "Compliance Name": "Employer's obligation to report death, injury or disease of all employee",
-    "Compliance Description":
-      "Employers are required to report the death, injury and disease of the employee to the Board and the National Council for Occupational Safety and Health",
-    "Task Frequency": "7 days",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP E7A LFN 2010",
-    "Legislation Name": "Employees' Compensation Act, 2010",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
-    Regulator: " Nigeria Social Insurance Trust Fund Management Board",
-    Section: "Section 39",
-    "Compliance Name": "Employer to provide estimate of payrols ",
-    "Compliance Description":
-      "Employer shall -(a) keep, at all times at some place in Nigeria, the location and address of which the employer bas given notice to the Board, complete and accurate particulars of the employer's payrolls;",
-    "Task Frequency": "At all times",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP E7A LFN 2010",
-    "Legislation Name": "Employees' Compensation Act, 2010",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
-    Regulator: " Nigeria Social Insurance Trust Fund Management Board",
-    Section: "Section 40",
-    "Compliance Name": "Employer to provide statement and estimate of earnings to the Board",
-    "Compliance Description":
-      "Employer is expected to provide to the Board a Statement (a) of the total amount of all earnings paid to its employees in the preceding year; (b) estimating the earnings that will be paid to its employees in the current year or any part of it as directed by the Board; (c) of the nature of the work activities; and (d) of any additional information as the Board may require.",
-    "Task Frequency":
-      "Not later than the last day of February in each year or at such other time as may be required by the Board, ",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP E7A LFN 2010",
-    "Legislation Name": "Employees' Compensation Act, 2010",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
-    Regulator: " Nigeria Social Insurance Trust Fund Management Board",
-    Section: "Section 52",
-    "Compliance Name": "Employer to keep record of renumerations and operations",
-    "Compliance Description":
-      "Every employer shall keep an accurate account of all remuneration paid to its employees and of any other particular of its operations as may be required by the Board",
-    "Task Frequency": "",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP E7A LFN 2010",
-    "Legislation Name": "Employees' Compensation Act, 2010",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
-    Regulator: "Nigeria Social Insurance Trust Fund Management Board",
-    Section: "Section 13",
-    "Compliance Name": "Compensation cannot be waived",
-    "Compliance Description":
-      "An employer cannot agree with their employee to waive any benefit or right to compensation to which the employee or the dependents are or may become entitled under the Act.",
-    "Task Frequency": "At all times",
-    Penalty: "Nullity of Agreement",
-    Criticality: "Low",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP E7A LFN 2010",
-    "Legislation Name": "Employees' Compensation Act, 2010",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
-    Regulator: "Nigeria Social Insurance Trust Fund Management Board",
-    Section: "Section 14",
-    "Compliance Name": "Deduction from the remuneration of an employee",
-    "Compliance Description":
-      "No employer shall, either directly or indirectly, deduct from the remuneration of an employee any part of a sum which the employer is or may become liable to pay into the Fund",
-    "Task Frequency": "Not stated",
-    Penalty:
-      "Liable on conviction to imprisonment for a term not exceeding 1 year or to a fine of not less than 100,000 or to both such imprisonment and fine; and in addition repay to the employee any sum which has been so deducted; or fine of 1,000,000 in the case of body corporate",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "CAP E7A LFN 2010",
-    "Legislation Name": "Employees' Compensation Act, 2010",
-    "Act URL":
-      "https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_172642.pdf",
-    Regulator: "Nigeria Social Insurance Trust Fund Management Board",
-    Section: "Section 50 & 71",
-    "Compliance Name": "Employer commencing or recommencing business",
-    "Compliance Description":
-      "When an employer commences or recommences a business, the employer shall provide statements to the Board",
-    "Task Frequency": "within 30 days of commencement or recommencement",
-    Penalty: "Conviction with fine and or imprisonment",
-    Criticality: "High",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "INSURANCE",
-  },
-  {
-    "Act No": "",
-    "Legislation Name": "Revised Foreign Exchange Manual, 2018",
-    "Act URL": "",
-    Regulator: "",
-    Section: "",
-    "Compliance Name": "",
-    "Compliance Description": "",
-    "Task Frequency": "",
-    Penalty: "",
-    Criticality: "",
-    "Significant Judicial Intervention": "",
-    YES: "",
-    NDD: "",
-    NO: "",
-    GROUP: "FOREIGN EXCHANGE",
-  },
-];
-
 export {
   customerDevelopment,
   corpoateAffairs,
@@ -22167,5 +18947,4 @@ export {
   legalRegulatory,
   supplyChain,
   marketing,
-  finance,
 };
