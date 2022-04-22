@@ -57,10 +57,10 @@ function Home() {
         </Container>
 
         <Container>
-          <BaseLayout breadcrumb={[{ label: "Home", route: "/" }, { label: "Excel Files" }]}>
+          <BaseLayout breadcrumb={[{ label: "Home", route: "/" }, { label: "Audit Report" }]}>
             <View
               tit1="Audit Report"
-              tit2="Excel Files"
+              tit2="Download"
               tit1link={link1}
               tit2link={link1}
               title="Raw Files"
