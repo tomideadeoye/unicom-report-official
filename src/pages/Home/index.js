@@ -9,19 +9,6 @@ import BaseLayout from "layouts/sections/components/BaseLayout";
 import View from "layouts/sections/components/View";
 
 import { SimpleFooter } from "pages/Footer";
-// import FilledInfoCard from "examples/Cards/InfoCards/FilledInfoCard";
-
-// Presentation page sections
-// import Information from "pages/Home/sections/Information";
-// import DesignBlocks from "pages/Home/sections/DesignBlocks";
-// import Pages from "pages/Home/sections/Pages";
-// import Testimonials from "pages/Home/sections/Testimonials";
-// import Download from "pages/Home/sections/Download";
-// import Faqs from "pages/Home/sections/Faqs";
-
-// Home page components
-import BuiltByDevelopers from "pages/Home/components/BuiltByDevelopers";
-
 import { footerRoutes } from "routes";
 import bgImage from "assets/images/bg-presentation.jpg";
 import NavbarDark from "components/CustomComponents/NavbarDark";
@@ -87,10 +74,6 @@ function Home() {
           boxShadow: ({ boxShadows: { xxl } }) => xxl,
         }}
       >
-        <Container sx={{ mt: 6 }}>
-          <BuiltByDevelopers />
-        </Container>
-
         {/* EXCEL TITLE */}
         <Container>
           <Grid

@@ -1,6 +1,7 @@
 import Icon from "@mui/material/Icon";
 import Renderer from "pages/Renderer";
 import Details from "pages/Details";
+import Summary from "pages/Summary";
 import {
   customerDevelopment,
   supplyChain,
@@ -39,6 +40,11 @@ const routes = [
     component: <Renderer />,
     route: routeLoc.RENDER,
     collapse: [
+      {
+        name: "Executive Summary",
+        route: "/executive-summary",
+        component: <Summary />,
+      },
       {
         name: "Complaince Audit Report",
         route: "/audit-report",
