@@ -13,7 +13,7 @@ import { routeLoc, footerRoutes } from "routes";
 import NavbarDark from "components/CustomComponents/NavbarDark";
 import MaterialTab from "./sections/material-tab";
 
-function Home({ type, title, data }) {
+function Home({ type, title, data, excelLink }) {
   const excelDetails = () => (
     <>
       {/* EXCEL TITLE */}
@@ -41,23 +41,13 @@ function Home({ type, title, data }) {
       </Container>
       <Container sx={{ m: 1 }}>
         <Container sx={{ mt: 6, bgcolor: "background.paper", boxShadow: 0.3, borderRadius: 2 }}>
-          <iframe
-            title="Raw Files"
-            width="100%"
-            height="700"
-            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkpeRaUbnrSBn1XMfI5shOInZRTeRU_6SHjTrL08FeKUiMWo2NgLZlqAxN9ggooQ/pubhtml?widget=true&amp;headers=false"
-          />
+          <iframe title="Raw Files" width="100%" height="700" src={excelLink} />
         </Container>
       </Container>
       {/* DOWNLAOD BUTTON */}
       <Grid container item justifyContent="center" xs={12} mt={5} mb={2}>
-        <MKButton
-          href="https://docs.google.com/spreadsheets/d/1X_oPC8_oaiQ-eLgWvGir8QkMvWZukYLS/edit?usp=sharing&ouid=109599550030499733240&rtpof=true&sd=true"
-          variant="gradient"
-          color="info"
-          target="_blank"
-        >
-          Download
+        <MKButton href={excelLink} variant="gradient" color="info" target="_blank">
+          View
         </MKButton>
       </Grid>
     </>

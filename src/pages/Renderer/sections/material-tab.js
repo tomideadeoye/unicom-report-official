@@ -1,3 +1,4 @@
+/* eslint-disable no-nested-ternary */
 /* eslint react/prop-types: 0 */
 import MaterialTable from "material-table";
 import Container from "@mui/material/Container";
@@ -23,9 +24,6 @@ export default function MaterialTab({ data, type }) {
     {
       title: "Legislation",
       field: "Legislation Name",
-
-      cellStyle: { backgroundColor: "#039be5", color: "#FFF" },
-      defaultGroupOrder: 0,
     },
     {
       title: "Act URL",
@@ -84,8 +82,6 @@ export default function MaterialTab({ data, type }) {
     {
       title: "Legislation",
       field: "Legislation Name",
-      cellStyle: { backgroundColor: "#039be5", color: "#FFF" },
-      defaultGroupOrder: 0,
     },
     {
       title: "Act URL",
@@ -194,8 +190,10 @@ export default function MaterialTab({ data, type }) {
       width: "100%",
     },
 
-    rowStyle: (rowData) => ({
-      backgroundColor: selectedRow === rowData.tableData.id ? "#e3efff" : "#FFF",
+    rowStyle: (rowData, index) => ({
+      // backgroundColor: index % 2 === 0 ? "#ecf2f9" : "#fff",
+      backgroundColor:
+        selectedRow === rowData.tableData.id ? "#e3efff" : index % 2 === 0 ? "#ecf2f9" : "#fff",
       fontSize: 11,
       color: "black",
       position: "relative",
