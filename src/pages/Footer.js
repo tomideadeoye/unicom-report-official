@@ -49,19 +49,6 @@ function SimpleFooter({ light }) {
             <img src={jee} alt="jee logo" width="130px" style={{ marginLeft: 10 }} />
           </Link>
         </MKBox>
-        <a href="mailto:tomideadeoye@gmail.com">
-          {" "}
-          <MKBox
-            display="flex"
-            alignItems="center"
-            flexWrap="wrap"
-            color={light ? "white" : "text"}
-            fontSize={size.sm}
-            marginTop={2}
-          >
-            Designed by: LAW VISUALS
-          </MKBox>
-        </a>
       </MKBox>
     </Container>
   );
