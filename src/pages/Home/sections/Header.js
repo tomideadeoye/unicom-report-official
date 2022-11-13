@@ -1,5 +1,3 @@
-/* eslint-disable react/prop-types */
-
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Stack from "@mui/material/Stack";
@@ -8,9 +6,10 @@ import MKButton from "components/MKButton";
 import MKTypography from "components/MKTypography";
 import bgImage from "assets/images/bg-presentation1.jpg";
 
+// eslint-disable-next-line react/prop-types
 function HeaderOne({ bcmLink, sctLink }) {
   return (
-    <MKBox component="header" position="relative">
+    <MKBox component="header" const position="relative">
       <MKBox
         display="flex"
         alignItems="center"
@@ -49,7 +48,7 @@ function HeaderOne({ bcmLink, sctLink }) {
               <a href={sctLink} target="_blank" rel="noopener noreferrer">
                 <MKButton variant="text" color="white">
                   View SCT
-                </MKButton>{" "}
+                </MKButton>
               </a>
             </Stack>
           </Grid>

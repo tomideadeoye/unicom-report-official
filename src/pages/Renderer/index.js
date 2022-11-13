@@ -69,7 +69,7 @@ function Home({ type, title, data, excelLink }) {
       >
         <BaseLayout breadcrumb={[{ label: "Home", route: routeLoc.HOME }, { label: type }]}>
           <View title={title} mapDetails={excelDetails()}>
-            <MaterialTab data={data} title={title} type={type} />
+            {data ? <MaterialTab data={data} title={title} type={type} /> : excelDetails()}
           </View>
         </BaseLayout>
       </Card>
