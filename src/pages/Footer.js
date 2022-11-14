@@ -48,10 +48,6 @@ function SimpleFooter({ light }) {
           href="https://www.linkedin.com/in/tomide-adeoye-828604129/"
           target="_blank"
           rel="noopener noreferrer"
-          sx={{
-            color: "inherit",
-            textDecoration: "none",
-          }}
         >
           <MKBox color={light ? "white" : "text"} fontSize={size.sm} marginTop={2}>
             Design: Meris Labs
