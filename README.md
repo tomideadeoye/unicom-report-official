@@ -5,7 +5,7 @@ https://github.com/tomideadeoye/Unicom-Report-Official/assets/55337742/0da29dbd-
 
 
 Project Unicom
-Project Unicom is an app developed for Unilever Nigeria PLC. to ensure compliance with regulatory obligations across various functions within the organization. This GitHub repository serves as the documentation for the app and provides an overview of the project.
+Project Unicom is a repository for Unilever Nigeria PLC. to ensure compliance with regulatory obligations across various functions within the organization and provide an overview of the project.
 
 Executive Summary
 Unilever Nigeria engaged Jackson, Etti & Edu (JEE) to develop a company-wide Compliance Manual and conduct a legal audit of its warehouses in Agbara. This project, known as Project Unicom, focuses on eight major functions of the company: Corporate Affairs, Customer Development (Sales), Finance, Human Resources, Information Technology, Legal, Marketing, and Supply Chain (non-factory).
